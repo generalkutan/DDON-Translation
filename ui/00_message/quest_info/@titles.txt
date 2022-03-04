@@ -81,13 +81,13 @@ q00030240_00: The Dreadful Passage                                              
 q00030250_00: The Relics of the First King                                             | 初代王の遺品
 q00030260_00: Hope's Bitter End                                                        | 望みの果て
 q00030270_00: Those Who Follow the Dragon                                              | 竜を継ぐ者
-q00030410_00:                                                                          | 理の崩壊
+q00030410_00: Breakdown of Reason                                                      | 理の崩壊
 q00030420_00:                                                                          | 紡ぎし望み
-q00030430_00:                                                                          | 白竜の覚者
-q00030440_00:                                                                          | すべての行く末
-q10300100_00:                                                                          | ニガい思い出の味
+q00030430_00: The White Dragon's Arisen                                                | 白竜の覚者
+q00030440_00: The Fate of All                                                          | すべての行く末
+q10300100_00: Taste of Bitter Memories                                                 | ニガい思い出の味
 q10300101_00:                                                                          | ティネス砦の食糧を調達する２
-q10300102_00: Despair of the Cook "Carrie"                                             | 絶望の料理番“キャリー”
+q10300102_00: The Despairing Cook "Carrie"                                             | 絶望の料理番“キャリー”
 q10300103_00: Path to Food Procurement                                                 | 食料調達への道
 q10300104_00: Carrie's Worry                                                           | キャリーの心配
 q10300200_00: First Step to Restoring the Great Dining Hall: Kitchen                   | 大食堂復旧への第一歩　―調理場―
@@ -98,7 +98,7 @@ q10300204_00: Signs of Restoring the Great Dining Hall                          
 q10300300_00: "Sweet" Food for Piremoth                                                | ピレモスに食糧を―《甘口》
 q10300301_00: Hungry Goblin                                                            | 腹ペコのゴブリン
 q10300302_00: Food for Piremoth                                                        | ピレモスに食料を―
-q10300303_00:                                                                          | 追跡の果てに―
+q10300303_00: To the End of the Pursuit                                                | 追跡の果てに―
 q10300400_00: "Sweet" Food for the Bandit Group Hideout                                | 盗賊団のアジトに食糧を―《甘口》
 q10300401_00: Beware the Waterside?                                                    | 水辺にはご用心？
 q10300402_00: Food for the Bandit Group Hideout                                        | 盗賊団のアジトに食料を―
@@ -126,7 +126,7 @@ q10310602_00: Searching for a Map of the Old Well...                            
 q10310603_00: After All, This Is Not My Staff                                          | やっぱりこれはボクの杖じゃない
 q10310700_00: The Best Strategy                                                        | とっておきの作戦
 q10310701_00: The Best Strategy, This Time!                                            | 今度こそとっておきの作戦
-q10310702_00:                                                                          | 奪還を終えて――
+q10310702_00: Finish the Recapture                                                     | 奪還を終えて――
 q10320100_00: Interrogation: Skill Warm-Up                                             | 【尋問】尋問の腕慣らし
 q10320101_00: Interrogation: Suspicious Vagabond                                       | 【尋問】怪しい無頼漢
 q10320200_00: Undercover: Skill Warm-Up                                                | 【潜入調査】潜入の腕慣らし
@@ -140,8 +140,8 @@ q10320500_00: Undercover: Suspicious Ennis                                      
 q10320501_00: Undercover: Final Battle                                                 | 【潜入調査】決定的な交戦
 q10320502_00: Undercover: Resistance Hunt                                              | 【潜入調査】レジスタンス狩り
 q10320601_00: Intelligence Assessment: People Rising in Revolt                         | 【諜報活動】反旗翻す者たち
-q10320700_00:                                                                          | 嵐の前の静けさ
-q10320701_00:                                                                          | 闇裂く者たち
+q10320700_00: Calm Before the Storm                                                    | 嵐の前の静けさ
+q10320701_00: Those That Cut through the Darkness                                      | 闇裂く者たち
 q10320702_00:                                                                          | 闘争は夢の跡
 q15010001_00: B Rank Target Subjugation: Hidell Plains                                 | Bランク　指定討伐：ハイデル平原
 q15010002_00: A Rank Target Subjugation: Hidell Plains                                 | Aランク　指定討伐：ハイデル平原
@@ -172,7 +172,7 @@ q15120002_00: S Rank Target Subjugation: Kingal Canyon                          
 q15130003_00: Feryana Wilderness S                                                     | フェルヤナ荒原　Ｓ
 q15140003_00: S Rank Target Subjugation: Megadosys Plateau                             | Sランク　指定討伐：メガドシス高地
 q15150003_00: A Rank Target Subjugation: Urteca Mountains                              | Aランク　指定討伐：ウルテカ山岳
-q19000004_00:                                                                          | パッケージクエスト検証4
+q19000004_00: Package Quest Inspection 4                                               | パッケージクエスト検証4
 q20000000_00: A Calamity at the Cathedral Ruins                                        | 廃教会の異変
 q20000001_00: The Woes of a Merchant                                                   | ある行商人の悩み
 q20000002_00: A Transporter's Tragedy                                                  | 輸送係の悲劇
@@ -197,7 +197,7 @@ q20005001_00: Confrontation with Scouts                                         
 q20005002_00: Ambush in the Well's Depths                                              | 井戸底の伏兵達
 q20005003_00: Dweller in the Darkness                                                  | 暗がりに住まう者
 q20005004_00: Whispers of the Dark                                                     | 闇からのささやき
-q20005006_00:                                                                          | 忌むべき番人
+q20005006_00: The Shunned Guard                                                        | 忌むべき番人
 q20005010_00: The Knights' Bitter Enemy                                                | 騎士団の仇敵
 q20005011_00: A Man-Eating Ogre Appears!                                               | 人喰い鬼、現る！
 q20005012_00: Urgent Inspection: Hidell Plains Treasure Expedition                     | 【緊急探索】財宝調査隊　ハイデル平原
@@ -235,7 +235,7 @@ q20025000_00: The Resident Demonic Lion                                         
 q20025001_00: The One-Eyed Guardian                                                    | 単眼の番人
 q20025002_00: Seeking Fiend Wing Membrane                                              | 悪魔の翼膜を求めて
 q20025003_00: The Lurking Marauders                                                    | 潜みし略奪者
-q20025004_00: The Silver Fiend (他クエで名称流用中)                                             | 銀色の悪鬼（他クエで名称流用中）
+q20025004_00: The Silver Fiend (他クエで名称流用中)                                      | 銀色の悪鬼（他クエで名称流用中）
 q20025005_00: A Huge Armored Creature Appears!                                         | 大鎧、現る！
 q20025006_00: A Paired Encounter                                                       | 遭遇の双撃
 q20025007_00: The King of Bones                                                        | 骨の王
@@ -344,14 +344,14 @@ q20085003_00: Eliminate the Orc Expedition!                                     
 q20085004_00: The Obstructing Evil Statue                                              | 立ちはだかる魔像
 q20085005_00: The Barren Black Wings                                                   | 不毛なる黒翼
 q20085006_00: The Attacking Bite                                                       | 襲い来るアギト
-q20085007_00:                                                                          | 空っぽの名誉
+q20085007_00: Empty Honor                                                              | 空っぽの名誉
 q20085008_00: The Dead Lord's Retainers                                                | 死王の眷族
 q20085009_00: An Ancient Perseverance                                                  | いにしえよりの執念
 q20085010_00: Urgent Inspection: Eastern Zandora Treasure Expedition                   | 【緊急探索】財宝調査隊　ザンドラ東部
 q20090000_00: The Dead City's Chronicles                                               | 亡都の記録
 q20090001_00: The One Called "Knight-Devourer"                                         | その名は“騎士喰らい”
 q20090002_00:                                                                          | 禁じられし知識
-q20090003_00:                                                                          | 帰りを祈って――
+q20090003_00: Pray for a Safe Return                                                   | 帰りを祈って――
 q20095000_00: The Fiery Titan                                                          | 炎紅の巨兵
 q20095001_00: A Thirst for Knowledge                                                   | 智を欲せしもの
 q20095002_00: The Dark Shadow Covering the Sky                                         | 空を覆う黒影
@@ -363,9 +363,9 @@ q20095007_00: The Accursed Wanderer                                             
 q20095008_00: The Accursed Deserted Home                                               | 呪縛の廃屋
 q20095009_00:                                                                          | よみがえる古戦士
 q20095010_00: A Clash with the Orc Elite Corps                                         | オーク精鋭部隊との遭遇
-q20095011_00:                                                                          | 虚ろなる剣戟
+q20095011_00: A Hollow Swordfight                                                      | 虚ろなる剣戟
 q20095012_00:                                                                          | 溶熱に燃える巨躯
-q20095013_00:                                                                          | 禁域の処刑人
+q20095013_00: Executioner of the Wasteland                                             | 禁域の処刑人
 q20095014_00: Urgent Inspection: Zandora Wastelands Treasure Expedition                | 【緊急探索】財宝調査隊　ザンドラ禁域
 q20100000_00: Expedition Preparations                                                  | 探索の下ごしらえ
 q20100001_00: The Gourmand's Mushroom Hunt                                             | 美食家のキノコ狩り
