@@ -82,11 +82,11 @@ q00030250_00: The Relics of the First King                                      
 q00030260_00: Hope's Bitter End                                                        | 望みの果て
 q00030270_00: Those Who Follow the Dragon                                              | 竜を継ぐ者
 q00030410_00: Breakdown of Reason                                                      | 理の崩壊
-q00030420_00:                                                                          | 紡ぎし望み
+q00030420_00: Piece Together Hope                                                      | 紡ぎし望み
 q00030430_00: The White Dragon's Arisen                                                | 白竜の覚者
 q00030440_00: The Fate of All                                                          | すべての行く末
 q10300100_00: Taste of Bitter Memories                                                 | ニガい思い出の味
-q10300101_00:                                                                          | ティネス砦の食糧を調達する２
+q10300101_00: Thines Fort                                                              | ティネス砦の食糧を調達する２
 q10300102_00: The Despairing Cook "Carrie"                                             | 絶望の料理番“キャリー”
 q10300103_00: Path to Food Procurement                                                 | 食料調達への道
 q10300104_00: Carrie's Worry                                                           | キャリーの心配
@@ -197,7 +197,7 @@ q20005001_00: Confrontation with Scouts                                         
 q20005002_00: Ambush in the Well's Depths                                              | 井戸底の伏兵達
 q20005003_00: Dweller in the Darkness                                                  | 暗がりに住まう者
 q20005004_00: Whispers of the Dark                                                     | 闇からのささやき
-q20005006_00: The Shunned Guard                                                        | 忌むべき番人
+q20005006_00: A Detestable Guard                                                       | 忌むべき番人
 q20005010_00: The Knights' Bitter Enemy                                                | 騎士団の仇敵
 q20005011_00: A Man-Eating Ogre Appears!                                               | 人喰い鬼、現る！
 q20005012_00: Urgent Inspection: Hidell Plains Treasure Expedition                     | 【緊急探索】財宝調査隊　ハイデル平原
@@ -251,8 +251,8 @@ q20030005_00: A Petty Thief's Woes                                              
 q20030006_00: The Incapable Courier                                                    | 運べぬ運び屋
 q20030007_00: The Spectator                                                            | 高みの見物
 q20030008_00: No Unexpected Guests                                                     | 珍客お断り
-q20030009_00:                                                                          | 風鳴りと共に
-q20035000_00:                                                                          | 古城の魔女
+q20030009_00: With the Howling of the Wind                                             | 風鳴りと共に
+q20035000_00: The Witch of the Old Castle                                              | 古城の魔女
 q20035001_00: The Sleeping Giant                                                       | まどろみの巨人
 q20035002_00: The Footsteps in the Halls                                               | 石廊に響く足音
 q20035003_00: The Glittering Horn                                                      | 輝く一本角
@@ -350,18 +350,18 @@ q20085009_00: An Ancient Perseverance                                           
 q20085010_00: Urgent Inspection: Eastern Zandora Treasure Expedition                   | 【緊急探索】財宝調査隊　ザンドラ東部
 q20090000_00: The Dead City's Chronicles                                               | 亡都の記録
 q20090001_00: The One Called "Knight-Devourer"                                         | その名は“騎士喰らい”
-q20090002_00:                                                                          | 禁じられし知識
+q20090002_00: Forbidden Knowledge                                                      | 禁じられし知識
 q20090003_00: Pray for a Safe Return                                                   | 帰りを祈って――
 q20095000_00: The Fiery Titan                                                          | 炎紅の巨兵
 q20095001_00: A Thirst for Knowledge                                                   | 智を欲せしもの
 q20095002_00: The Dark Shadow Covering the Sky                                         | 空を覆う黒影
 q20095003_00: The Sinister Beasts                                                      | 禍々しき獣
 q20095004_00: The Forgotten Guardian                                                   | 忘れられた守番
-q20095005_00:                                                                          | 地下水道の血戦
-q20095006_00:                                                                          | 殺戮の魔道鉄騎
+q20095005_00: Bloody Battle in the Sewer                                               | 地下水道の血戦
+q20095006_00: The Murderous Magick Cavalry                                             | 殺戮の魔道鉄騎
 q20095007_00: The Accursed Wanderer                                                    | 呪われし徘徊者
 q20095008_00: The Accursed Deserted Home                                               | 呪縛の廃屋
-q20095009_00:                                                                          | よみがえる古戦士
+q20095009_00: The Ancient Warrior Rises Again                                          | よみがえる古戦士
 q20095010_00: A Clash with the Orc Elite Corps                                         | オーク精鋭部隊との遭遇
 q20095011_00: A Hollow Swordfight                                                      | 虚ろなる剣戟
 q20095012_00:                                                                          | 溶熱に燃える巨躯
@@ -380,13 +380,13 @@ q20105005_00: The Greenery Falls, Dancing                                       
 q20105006_00: The Old Witch of the Woods                                               | 森の老魔女
 q20105007_00: A Sudden Urge to Kill                                                    | 不意に迫る殺意
 q20105008_00: Urgent Inspection: Deenan Woods Treasure Expedition                      | 【緊急探索】財宝調査隊　ディナン深層林
-q20990000_00:                                                                          | おそるべき被造物
+q20990000_00: A Horrible Creature                                                      | おそるべき被造物
 q20990001_00: Separation and Completion                                                | 乖離と補完
 q20990002_00: A Deathly Wisdom                                                         | 眠りし叡智
 q20990003_00: Inherited Experience                                                     | 受け継がれる想い
 q20990004_00: The Lost Golden Child                                                    | 金色の落とし仔
 q20995000_00: Seeking Alchemical Extract                                               | アルケム・エクストラクトを求めて
-q20995001_00:                                                                          | 翼ある番兵
+q20995001_00: The Winged Sentry                                                        | 翼ある番兵
 q20995002_00: The Blue Dragon's Shadow                                                 | 蒼き竜影
 q20995003_00:                                                                          | 炎と岩よりい出し者
 q20995004_00: The Abandoned Giant Warrior                                              | うち捨てられた巨人兵
@@ -402,7 +402,7 @@ q21000000_00: High Difficulty: Lurking in the Shadows                           
 q21000001_00: Dancing Phantoms down Below                                              | 地下に舞いし幻影
 q21000002_00: Hometown Concerns                                                        | 郷想う気持ち
 q21000003_00: A Monstrous Rampage                                                      | 猛り狂う異形
-q21000004_00:                                                                          | 魔女の噂
+q21000004_00: The Witch's Rumor                                                        | 魔女の噂
 q21000005_00: High Difficulty: Forest Patrol                                           | 【高難度】森のパトロール
 q21000006_00: A Thief's Whereabouts                                                    | 盗人は何処に
 q21000007_00: Expected Results                                                         | 期待された成果
@@ -414,33 +414,33 @@ q21000012_00: Light in the Village                                              
 q21000013_00: The Forgotten Evil Image                                                 | 忘れられた魔像
 q21000014_00: The Lighthouse Keeper's Favor                                            | 灯台守の恩返し
 q21000015_00: High Difficulty: A Silence-Breaking Roar                                 | 【高難度】静寂を裂く呻き声
-q21000016_00:                                                                          | 大人への憧憬
+q21000016_00: Longing to Be an Adult                                                   | 大人への憧憬
 q21000017_00: Punish Grave-Robbing                                                     | 墓荒しを罰せよ
 q21000018_00: Heavily Occupied                                                         | 多忙は願い下げ
 q21000019_00: High Difficulty: Demon Eradication                                       | 【高難度】魔物の大掃除
 q21000020_00: A Lakeside Danger                                                        | 湖畔を掠める危機
 q21000021_00: The Lonesome Hunter                                                      | 孤独のハンター
-q21000022_00:                                                                          | 騎士の誇りに懸けて
+q21000022_00: Knight's Pride on the Line                                               | 騎士の誇りに懸けて
 q21000023_00: A Path Hardened by Cold Winds                                            | 冷風すさびし路
 q21000024_00: High Difficulty: The Demon's Nest                                        | 【高難度】魔巣の洞窟
 q21000025_00: Door of Treasures: Bloodlust                                             | 【財宝の扉】湿った殺気
 q21000026_00: Door of Jewelry: Emerged Colossus                                        | 【宝飾の扉】現れた巨像
 q21000027_00: Door of Dragon Force: Call of Vengeful Spirits                           | 【竜力の扉】誘いし怨霊
 q21000028_00: Door of Jewelry: The Source of the Nightmare                             | 【宝飾の扉】悪夢の根源
-q21000029_00:                                                                          | 棄てられた獲物
+q21000029_00: Abandoned Prey                                                           | 棄てられた獲物
 q21000030_00: Prized Knowledge                                                         | とっておきの情報
 q21000031_00: High Difficulty: To Rest, Once More                                      | 【高難度】安息をもう一度
-q21000032_00:                                                                          | 悠久にて佇む
+q21000032_00: Remain for Eternity                                                      | 悠久にて佇む
 q21000033_00: A Gush of Wickedness                                                     | 湧き出た邪念
 q21000034_00: Deal with the Goblins                                                    | 小鬼との取引
 q21000035_00: High Difficulty: An Uncertain Pride                                      | 【高難度】天秤に架けた誇り
 q21000036_00: No Regrets                                                               | 悔恨晴らすまで
 q21000037_00: Within This Beautiful Scenery                                            | 風光の中で
-q21000038_00:                                                                          | 一人の戦士として
+q21000038_00: As a Single Soldier                                                      | 一人の戦士として
 q21000039_00: Door of Jewelry: Truth behind the Legend                                 | 【宝飾の扉】伝承の真相
 q21000040_00: The Cursed Sanctuary                                                     | 呪われし聖域
 q21000041_00: Door of Gemstones: Away, Foul Things!                                    | 【昌石の扉】蟠り、散らして
-q21000042_00:                                                                          | 職人気質
+q21000042_00: Spirit of a Craftsman                                                    | 職人気質
 q21000043_00: High Difficulty: Thank You for Your Trouble                              | 【高難度】鑑賞の邪魔者
 q21000044_00: A Merchant's Pride                                                       | 商売人の意地
 q21000045_00: Door of Treasures: Dark and Depressing Thoughts                          | 【財宝の扉】暗晦に沈む想い
@@ -448,43 +448,43 @@ q21000046_00: A Yearning from a Distance                                        
 q21000047_00: High Difficulty: A Revelry of Ruin                                       | 【高難度】崩壊への狂宴
 q21000048_00: A Forbidden Disclosure                                                   | 他言は無用
 q21000049_00: Door of Dragon Force: The Beast's Lair                                   | 【竜力の扉】魔獣の栖
-q21000050_00:                                                                          | 郷土愛の痛み
+q21000050_00: Missing One's Hometown                                                   | 郷土愛の痛み
 q21000051_00: A Situation in the Waterway                                              | 水路に拡がる危機
 q21000052_00:                                                                          | 分不相応の相手
 q21000053_00: Menace of the Ruins                                                      | 古跡の厄介者
 q21000054_00: High Difficulty: Danger at the Ruins                                     | 【高難度】危機迫る古跡
-q21000055_00:                                                                          | 引きつける影
-q21000056_00: High Difficulty: 野望集めし魔物                                                 | 【高難度】野望集めし魔物
-q21000057_00:                                                                          | 新天地へ向けて
-q21000058_00:                                                                          | 身近に潜みし魔
+q21000055_00: Lure of the Shadow                                                       | 引きつける影
+q21000056_00: High Difficulty: 野望集めし魔物                                           | 【高難度】野望集めし魔物
+q21000057_00: Toward a New World                                                       | 新天地へ向けて
+q21000058_00: Demon Close at Hand                                                      | 身近に潜みし魔
 q21000059_00: Friends to the End                                                       | 友情はどこまでも
-q21000060_00:                                                                          | 騎士として
+q21000060_00: As a Knight                                                              | 騎士として
 q21000061_00: The Evil Resounding in the Cave                                          | 洞窟に満ちる悪
 q21000062_00: A Trial of Strength's Outcome                                            | 力試しの結果
 q21000063_00: High Difficulty: Save the Island                                         | 【高難度】島を救え
 q21000064_00: High Difficulty: Desolate Land                                           | 【高難度】荒涼の地
-q21000065_00: Door of Jewelry: 無鉄砲もいいところ                                               | 【宝飾の扉】無鉄砲もいいところ
+q21000065_00: Door of Jewelry: 無鉄砲もいいところ                                        | 【宝飾の扉】無鉄砲もいいところ
 q21000066_00: A Deathly Black Shadow                                                   | 深奥の黒き影
 q21000067_00: Guardian of Ancient Remains                                              | 遺跡の守り人
-q21000068_00:                                                                          | 噂の尾ひれ
+q21000068_00: An Embellished Rumor                                                     | 噂の尾ひれ
 q21000069_00:                                                                          | 猪突猛進
-q21000070_00:                                                                          | この世の地獄
-q21000071_00: High Difficulty: 漏れ聞こえる声                                                 | 【高難度】漏れ聞こえる声
+q21000070_00: 　　　　　　　                                                            | この世の地獄
+q21000071_00: High Difficulty: 漏れ聞こえる声                                           | 【高難度】漏れ聞こえる声
 q21000072_00:                                                                          | 立ちはだかる壁
 q21000073_00: Secure the Outpost                                                       | 宿場の確保
-q21000074_00: High Difficulty: 若き力のために                                                 | 【高難度】若き力のために
+q21000074_00: High Difficulty: 若き力のために                                           | 【高難度】若き力のために
 q21000075_00: What Lies beneath the Waters                                             | 水底に潜むもの
 q21000076_00: Door of Jewelry: Newcomer's Highlight                                    | 【宝飾の扉】新米の見せ場
-q21000077_00: Door of Treasures: 愚者葬られし場                                               | 【財宝の扉】愚者葬られし場
-q21000078_00: Door of Jewelry: 異物排除                                                    | 【宝飾の扉】異物排除
-q21000079_00:                                                                          | 珠玉を求む
+q21000077_00: Door of Treasures: 愚者葬られし場                                         | 【財宝の扉】愚者葬られし場
+q21000078_00: Door of Jewelry: 異物排除                                                 | 【宝飾の扉】異物排除
+q21000079_00: Search for Gems                                                          | 珠玉を求む
 q21000080_00:                                                                          | あの日と今
 q21000081_00: High Difficulty: The Sealed Darkness                                     | 【高難度】封ぜられた闇
 q21000082_00:                                                                          | 呪われし巨影
 q21000083_00:                                                                          | 命知らずの地
 q21000084_00:                                                                          | 放浪の果てに
 q21000085_00: The Stolen Valuables                                                     | 消えた貴重品
-q21000086_00: High Difficulty: 油断大敵                                                    | 【高難度】油断大敵
+q21000086_00: High Difficulty: 油断大敵                                                 | 【高難度】油断大敵
 q21000087_00: Door of Dragon Force: A Monstrous Encounter                              | 【竜力の扉】巨魔との邂逅
 q21000088_00:                                                                          | 懐かしき日
 q21000089_00:                                                                          | 亡者の誘い声
