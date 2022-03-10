@@ -393,7 +393,7 @@ q20995004_00: The Abandoned Giant Warrior                                       
 q20995005_00: An Altered Beast Attacks!                                                | 改造魔獣、襲撃！
 q20995006_00: A Training Requirement                                                   | 錬成術の要
 q20995007_00: Mergoda's Resource Issue                                                 | メルゴダ資源事情
-q20995008_00:                                                                          | 狂える竜脈
+q20995008_00: Mad Dragon's Pulse                                                       | 狂える竜脈
 q20995009_00: The Experiment Strikes Back                                              | 実験動物の逆襲
 q20995010_00: The Misguided Soldiers                                                   | 妄執の幽戦士
 q20995011_00: The Shadow That Roams the Dead City                                      | 亡都を歩む影
@@ -450,7 +450,7 @@ q21000048_00: A Forbidden Disclosure                                            
 q21000049_00: Door of Dragon Force: The Beast's Lair                                   | 【竜力の扉】魔獣の栖
 q21000050_00: Missing One's Hometown                                                   | 郷土愛の痛み
 q21000051_00: A Situation in the Waterway                                              | 水路に拡がる危機
-q21000052_00:                                                                          | 分不相応の相手
+q21000052_00: An Unworthy Opponent                                                     | 分不相応の相手
 q21000053_00: Menace of the Ruins                                                      | 古跡の厄介者
 q21000054_00: High Difficulty: Danger at the Ruins                                     | 【高難度】危機迫る古跡
 q21000055_00: Lure of the Shadow                                                       | 引きつける影
@@ -467,56 +467,56 @@ q21000065_00: Door of Jewelry: 無鉄砲もいいところ                      
 q21000066_00: A Deathly Black Shadow                                                   | 深奥の黒き影
 q21000067_00: Guardian of Ancient Remains                                              | 遺跡の守り人
 q21000068_00: An Embellished Rumor                                                     | 噂の尾ひれ
-q21000069_00:                                                                          | 猪突猛進
-q21000070_00: 　　　　　　　                                                            | この世の地獄
-q21000071_00: High Difficulty: 漏れ聞こえる声                                           | 【高難度】漏れ聞こえる声
-q21000072_00:                                                                          | 立ちはだかる壁
+q21000069_00: Headlong into Danger                                                     | 猪突猛進
+q21000070_00: Living Hell                                                              | この世の地獄
+q21000071_00: High Difficulty: An Overheard Voice                                      | 【高難度】漏れ聞こえる声
+q21000072_00: Wall in One's Path                                                       | 立ちはだかる壁
 q21000073_00: Secure the Outpost                                                       | 宿場の確保
 q21000074_00: High Difficulty: 若き力のために                                           | 【高難度】若き力のために
 q21000075_00: What Lies beneath the Waters                                             | 水底に潜むもの
 q21000076_00: Door of Jewelry: Newcomer's Highlight                                    | 【宝飾の扉】新米の見せ場
 q21000077_00: Door of Treasures: 愚者葬られし場                                         | 【財宝の扉】愚者葬られし場
 q21000078_00: Door of Jewelry: 異物排除                                                 | 【宝飾の扉】異物排除
-q21000079_00: Search for Gems                                                          | 珠玉を求む
-q21000080_00:                                                                          | あの日と今
+q21000079_00: In Search of Gems                                                        | 珠玉を求む
+q21000080_00: That Day and Now                                                         | あの日と今
 q21000081_00: High Difficulty: The Sealed Darkness                                     | 【高難度】封ぜられた闇
-q21000082_00:                                                                          | 呪われし巨影
-q21000083_00:                                                                          | 命知らずの地
-q21000084_00:                                                                          | 放浪の果てに
+q21000082_00: A Great Cursed Shadow                                                    | 呪われし巨影
+q21000083_00: Death-Defying Area                                                       | 命知らずの地
+q21000084_00: At the End of One's Wandering                                            | 放浪の果てに
 q21000085_00: The Stolen Valuables                                                     | 消えた貴重品
 q21000086_00: High Difficulty: 油断大敵                                                 | 【高難度】油断大敵
 q21000087_00: Door of Dragon Force: A Monstrous Encounter                              | 【竜力の扉】巨魔との邂逅
-q21000088_00:                                                                          | 懐かしき日
-q21000089_00:                                                                          | 亡者の誘い声
+q21000088_00: The Good Old Days                                                        | 懐かしき日
+q21000089_00: Call from the Undead                                                     | 亡者の誘い声
 q21000090_00: A Place of Regrets                                                       | 悔恨の地
 q21000091_00: Door of Gemstones: Absolutely No Entry!                                  | 【昌石の扉】立入厳禁！
-q21000092_00:                                                                          | 強欲の結末
-q21000093_00:                                                                          | 孤独の主
-q21000094_00: High Difficulty: ただならぬ気配                                                 | 【高難度】ただならぬ気配
-q21000095_00: Door of Treasures: 轟きし咆哮                                                 | 【財宝の扉】轟きし咆哮
+q21000092_00: An End to Greed                                                          | 強欲の結末
+q21000093_00: Solitary Master                                                          | 孤独の主
+q21000094_00: High Difficulty: Unusual Prescence                                       | 【高難度】ただならぬ気配
+q21000095_00: Door of Treasures: Thunderous Roar                                       | 【財宝の扉】轟きし咆哮
 q21000096_00: A Sign of Nightmares                                                     | 悪夢の象徴
 q21000097_00: Secret Dealings                                                          | 秘密の取引き
-q21000098_00: High Difficulty: 海岸沿いの死闘                                                 | 【高難度】海岸沿いの死闘
+q21000098_00: High Difficulty: Deathly Battle Along the Coast                          | 【高難度】海岸沿いの死闘
 q21000099_00: Door of Dragon Force: Raging Horned Demon                                | 【竜力の扉】猛る魔角
-q21013000_00:                                                                          | 【2.2WQ】孤島
+q21013000_00: 【2.2WQ】Solitary Island                                                 | 【2.2WQ】孤島
 q21014000_00: Protecting the Protectors                                                | 守り人を守る人
 q21014001_00: Fount of Nostalgia                                                       | 懐古たる洗礼
-q21014002_00: High Difficulty: 密林の潜伏者                                                  | 【高難度】密林の潜伏者
-q21014003_00:                                                                          | 富と力
+q21014002_00: High Difficulty: Lurker in the Deep Woods                                | 【高難度】密林の潜伏者
+q21014003_00: Wealth and Power                                                         | 富と力
 q21014004_00:                                                                          | 通商の先駆け
 q21014005_00: Time Restriction: Late Night Harvest                                     | 【時限採取】深夜の採草道
 q21014006_00: Time Restriction: Rainy Collection                                       | 【時限採取】雨天の採水道
 q21014007_00: Door of Treasures: The Green over Rainbow                                | 【財宝の扉】虹覆う緑
 q21014008_00: A Suspicious Eyewitness                                                  | 胡乱の目撃者
 q21014009_00: Heartache's Cause                                                        | 心痛の原因
-q21014010_00:                                                                          | 振り向いてはいけない
+q21014010_00: Don't Look Behind You                                                    | 振り向いてはいけない
 q21014011_00: The Warm Night Outlaw                                                    | 熱帯夜の無法者
 q21014012_00: Searching for a Partner!                                                 | 相棒を探して！
-q21014013_00:                                                                          | 覚者隊の失態
+q21014013_00: The Arisen Corps' Blunder                                                | 覚者隊の失態
 q21014014_00: Water Grove Wayfarers                                                    | 水林の旅人達
 q21014015_00:                                                                          | 見せしめの勲章
 q21014016_00:                                                                          | 類猿の血族
-q21014017_00:                                                                          | 密林に輝く純白
+q21014017_00: Snow-White Gleam in the Deep Woods                                       | 密林に輝く純白
 q21014018_00: Elanic Contrast                                                          | エラニック・コントラスト
 q21014019_00:                                                                          | 毒秘めし同胞
 q21014020_00:                                                                          | 蔦覆い隠す呼び声
@@ -528,7 +528,7 @@ q21015000_00: The Store Girl's Trials                                           
 q21015001_00:                                                                          | 殊勝なる若輩者
 q21015002_00: High Difficulty: The Specter's Invasion                                  | 【高難度】魔影の侵攻
 q21015003_00: To the Faraway Child                                                     | 遠き地の子へ
-q21015004_00:                                                                          | 未来を見据える瞳
+q21015004_00: Eyes Fixed on the Future                                                 | 未来を見据える瞳
 q21015005_00: Time Restriction: Midday Harvest                                         | 【時限採取】真昼の採草道
 q21015006_00: Time Restriction: Cloudy Mining                                          | 【時限採取】曇天の採石道
 q21015007_00: Door of Gemstones: Cruel Steel Claws                                     | 【昌石の扉】無慈悲なる鋼爪
