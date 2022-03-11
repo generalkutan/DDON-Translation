@@ -142,7 +142,7 @@ q10320502_00: Undercover: Resistance Hunt                                       
 q10320601_00: Intelligence Assessment: People Rising in Revolt                         | 【諜報活動】反旗翻す者たち
 q10320700_00: Calm Before the Storm                                                    | 嵐の前の静けさ
 q10320701_00: Those That Cut through the Darkness                                      | 闇裂く者たち
-q10320702_00:                                                                          | 闘争は夢の跡
+q10320702_00: The Battle Fades Like a Dream                                            | 闘争は夢の跡
 q15010001_00: B Rank Target Subjugation: Hidell Plains                                 | Bランク　指定討伐：ハイデル平原
 q15010002_00: A Rank Target Subjugation: Hidell Plains                                 | Aランク　指定討伐：ハイデル平原
 q15010003_00: S Rank Target Subjugation: Hidell Plains                                 | Sランク　指定討伐：ハイデル平原
@@ -514,13 +514,13 @@ q21014011_00: The Warm Night Outlaw                                             
 q21014012_00: Searching for a Partner!                                                 | 相棒を探して！
 q21014013_00: The Arisen Corps' Blunder                                                | 覚者隊の失態
 q21014014_00: Water Grove Wayfarers                                                    | 水林の旅人達
-q21014015_00:                                                                          | 見せしめの勲章
-q21014016_00:                                                                          | 類猿の血族
+q21014015_00: Medal To Set an Example                                                  | 見せしめの勲章
+q21014016_00: Simian Relatives                                                         | 類猿の血族
 q21014017_00: Snow-White Gleam in the Deep Woods                                       | 密林に輝く純白
 q21014018_00: Elanic Contrast                                                          | エラニック・コントラスト
 q21014019_00:                                                                          | 毒秘めし同胞
 q21014020_00:                                                                          | 蔦覆い隠す呼び声
-q21014021_00:                                                                          | 踏み砕かれた心
+q21014021_00: A Trampled Heart                                                           | 踏み砕かれた心
 q21014022_00: High Difficulty: 駆けゆく野生                                                  | 【高難度】駆けゆく野生
 q21014023_00: Time Restriction: 暁の採泥道                                                  | 【時限採取】暁の採泥道
 q21014024_00: Door of Gemstones: 野獣たちの咆哮                                               | 【昌石の扉】野獣たちの咆哮
@@ -590,7 +590,7 @@ q21017012_00:                                                                   
 q21017013_00:                                                                          | 消えた足音に気付く時
 q21017014_00: Concealed Kindliness                                                     | 隠された懇情
 q21017015_00: An Evil Gaze                                                             | 魔の視線
-q21017016_00:                                                                          | スクラップ・メイカー
+q21017016_00: Scrap Maker                                                              | スクラップ・メイカー
 q21017017_00:                                                                          | いにしえの復讐鬼
 q21017018_00:                                                                          | 闇獣使いの魔女
 q21017019_00:                                                                          | 凍て付きし業炎
