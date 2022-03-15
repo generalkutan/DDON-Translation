@@ -201,8 +201,8 @@ q20005006_00: A Detestable Guard                                                
 q20005010_00: The Knights' Bitter Enemy                                                | 騎士団の仇敵
 q20005011_00: A Man-Eating Ogre Appears!                                               | 人喰い鬼、現る！
 q20005012_00: Urgent Inspection: Hidell Plains Treasure Expedition                     | 【緊急探索】財宝調査隊　ハイデル平原
-q20005013_00:                                                                          | 【怪盗乱魔】狂騒の兆し
-q20005014_00:                                                                          | 【鬼哭蒐集】邂逅の屍者
+q20005013_00: Phantom Thieves: Omen of Madness                                         | 【怪盗乱魔】狂騒の兆し
+q20005014_00: Collecting Souls: Corpse Encounter                                       | 【鬼哭蒐集】邂逅の屍者
 q20010000_00: Beach Bandits                                                            | 海辺の強盗団
 q20010001_00: Boat's Buddy                                                             | 船は良き友
 q20010002_00: The Waterfall of Mystery                                                 | 神秘の滝に
@@ -281,7 +281,7 @@ q20045004_00: Rock-Crushing Fangs                                               
 q20045005_00: Trapped in a Nightmare                                                   | 覚めえぬ悪夢
 q20045006_00: Seeking Riese Extract                                                    | レーゼ・エクストラクトを求めて
 q20045007_00: Urgent Inspection: Volden Mines Treasure Expedition                      | 【緊急探索】財宝調査隊　ボルド鉱山
-q20045008_00:                                                                          | 【怪盗乱魔】情念の追跡隊
+q20045008_00: Phantom Thieves: Passionate Pursuit Team                                 | 【怪盗乱魔】情念の追跡隊
 q20050000_00: Approaching Hostility                                                    | 迫る敵意
 q20050001_00: In the Darkness                                                          | 暗がりに消ゆ
 q20050002_00: Crisis within a Cave                                                     | 洞穴に巣くう危機
@@ -299,8 +299,8 @@ q20055003_00: Shadows in the Demon's Den                                        
 q20055004_00: The Abductors' True Nature                                               | 人攫いの正体
 q20055005_00: Fluttering Calls of Death                                                | 死を呼ぶはばたき
 q20055006_00: Urgent Inspection: Mysree Grove Treasure Expedition                      | 【緊急探索】財宝調査隊　ミスリウ森林
-q20055007_00:                                                                          | 【怪盗乱魔】粗暴なる思慕
-q20055008_00:                                                                          | 【鬼哭蒐集】邂逅の亡者
+q20055007_00: Phantom Thieves: Wild Yearning                                           | 【怪盗乱魔】粗暴なる思慕
+q20055008_00: Collecting Souls: Undead Encounter                                       | 【鬼哭蒐集】邂逅の亡者
 q20055009_00: The Lullaby Echoing in the Ruins                                         | 古跡に響く子守歌
 q20060000_00: The Remains of Green                                                     | 翠緑の遺構
 q20060001_00: The Inias Monster                                                        | イニアスの怪物
@@ -364,7 +364,7 @@ q20095008_00: The Accursed Deserted Home                                        
 q20095009_00: The Ancient Warrior Rises Again                                          | よみがえる古戦士
 q20095010_00: A Clash with the Orc Elite Corps                                         | オーク精鋭部隊との遭遇
 q20095011_00: A Hollow Swordfight                                                      | 虚ろなる剣戟
-q20095012_00:                                                                          | 溶熱に燃える巨躯
+q20095012_00: Monster Burning in Lava                                                  | 溶熱に燃える巨躯
 q20095013_00: Executioner of the Wasteland                                             | 禁域の処刑人
 q20095014_00: Urgent Inspection: Zandora Wastelands Treasure Expedition                | 【緊急探索】財宝調査隊　ザンドラ禁域
 q20100000_00: Expedition Preparations                                                  | 探索の下ごしらえ
@@ -503,7 +503,7 @@ q21014000_00: Protecting the Protectors                                         
 q21014001_00: Fount of Nostalgia                                                       | 懐古たる洗礼
 q21014002_00: High Difficulty: Lurker in the Deep Woods                                | 【高難度】密林の潜伏者
 q21014003_00: Wealth and Power                                                         | 富と力
-q21014004_00:                                                                          | 通商の先駆け
+q21014004_00: First to Trade                                                           | 通商の先駆け
 q21014005_00: Time Restriction: Late Night Harvest                                     | 【時限採取】深夜の採草道
 q21014006_00: Time Restriction: Rainy Collection                                       | 【時限採取】雨天の採水道
 q21014007_00: Door of Treasures: The Green over Rainbow                                | 【財宝の扉】虹覆う緑
@@ -518,12 +518,12 @@ q21014015_00: Medal To Set an Example                                           
 q21014016_00: Simian Relatives                                                         | 類猿の血族
 q21014017_00: Snow-White Gleam in the Deep Woods                                       | 密林に輝く純白
 q21014018_00: Elanic Contrast                                                          | エラニック・コントラスト
-q21014019_00:                                                                          | 毒秘めし同胞
-q21014020_00:                                                                          | 蔦覆い隠す呼び声
-q21014021_00: A Trampled Heart                                                           | 踏み砕かれた心
+q21014019_00: Brethren Hiding Poison                                                   | 毒秘めし同胞
+q21014020_00: A Call from Beneath the Ivy                                              | 蔦覆い隠す呼び声
+q21014021_00: A Trampled Heart                                                         | 踏み砕かれた心
 q21014022_00: High Difficulty: 駆けゆく野生                                                  | 【高難度】駆けゆく野生
 q21014023_00: Time Restriction: 暁の採泥道                                                  | 【時限採取】暁の採泥道
-q21014024_00: Door of Gemstones: 野獣たちの咆哮                                               | 【昌石の扉】野獣たちの咆哮
+q21014024_00: Door of Gemstones: Howls of the Beasts                                   | 【昌石の扉】野獣たちの咆哮
 q21015000_00: The Store Girl's Trials                                                  | 看板娘の小手調べ
 q21015001_00:                                                                          | 殊勝なる若輩者
 q21015002_00: High Difficulty: The Specter's Invasion                                  | 【高難度】魔影の侵攻
