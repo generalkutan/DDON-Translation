@@ -364,7 +364,7 @@ q20095008_00: The Accursed Deserted Home                                        
 q20095009_00: The Ancient Warrior Rises Again                                          | よみがえる古戦士
 q20095010_00: A Clash with the Orc Elite Corps                                         | オーク精鋭部隊との遭遇
 q20095011_00: A Hollow Swordfight                                                      | 虚ろなる剣戟
-q20095012_00: Monster Burning in Lava                                                  | 溶熱に燃える巨躯
+q20095012_00: Monster Burning from Within                                              | 溶熱に燃える巨躯
 q20095013_00: Executioner of the Wasteland                                             | 禁域の処刑人
 q20095014_00: Urgent Inspection: Zandora Wastelands Treasure Expedition                | 【緊急探索】財宝調査隊　ザンドラ禁域
 q20100000_00: Expedition Preparations                                                  | 探索の下ごしらえ
@@ -454,7 +454,7 @@ q21000052_00: An Unworthy Opponent                                              
 q21000053_00: Menace of the Ruins                                                      | 古跡の厄介者
 q21000054_00: High Difficulty: Danger at the Ruins                                     | 【高難度】危機迫る古跡
 q21000055_00: Lure of the Shadow                                                       | 引きつける影
-q21000056_00: High Difficulty: 野望集めし魔物                                           | 【高難度】野望集めし魔物
+q21000056_00: High Difficulty: Monsters Full of Ambition                               | 【高難度】野望集めし魔物
 q21000057_00: Toward a New World                                                       | 新天地へ向けて
 q21000058_00: Demon Close at Hand                                                      | 身近に潜みし魔
 q21000059_00: Friends to the End                                                       | 友情はどこまでも
@@ -463,7 +463,7 @@ q21000061_00: The Evil Resounding in the Cave                                   
 q21000062_00: A Trial of Strength's Outcome                                            | 力試しの結果
 q21000063_00: High Difficulty: Save the Island                                         | 【高難度】島を救え
 q21000064_00: High Difficulty: Desolate Land                                           | 【高難度】荒涼の地
-q21000065_00: Door of Jewelry: 無鉄砲もいいところ                                        | 【宝飾の扉】無鉄砲もいいところ
+q21000065_00: Door of Jewelry: Recklessness                                            | 【宝飾の扉】無鉄砲もいいところ
 q21000066_00: A Deathly Black Shadow                                                   | 深奥の黒き影
 q21000067_00: Guardian of Ancient Remains                                              | 遺跡の守り人
 q21000068_00: An Embellished Rumor                                                     | 噂の尾ひれ
@@ -472,11 +472,11 @@ q21000070_00: Living Hell                                                       
 q21000071_00: High Difficulty: An Overheard Voice                                      | 【高難度】漏れ聞こえる声
 q21000072_00: Wall in One's Path                                                       | 立ちはだかる壁
 q21000073_00: Secure the Outpost                                                       | 宿場の確保
-q21000074_00: High Difficulty: 若き力のために                                           | 【高難度】若き力のために
+q21000074_00: High Difficulty: For Youthful Strength                                   | 【高難度】若き力のために
 q21000075_00: What Lies beneath the Waters                                             | 水底に潜むもの
 q21000076_00: Door of Jewelry: Newcomer's Highlight                                    | 【宝飾の扉】新米の見せ場
-q21000077_00: Door of Treasures: 愚者葬られし場                                         | 【財宝の扉】愚者葬られし場
-q21000078_00: Door of Jewelry: 異物排除                                                 | 【宝飾の扉】異物排除
+q21000077_00: Door of Treasures: The Fool's Burial Ground                              | 【財宝の扉】愚者葬られし場
+q21000078_00: Door of Jewelry: Eliminate Invaders                                      | 【宝飾の扉】異物排除
 q21000079_00: In Search of Gems                                                        | 珠玉を求む
 q21000080_00: That Day and Now                                                         | あの日と今
 q21000081_00: High Difficulty: The Sealed Darkness                                     | 【高難度】封ぜられた闇
@@ -521,11 +521,11 @@ q21014018_00: Elanic Contrast                                                   
 q21014019_00: Brethren Hiding Poison                                                   | 毒秘めし同胞
 q21014020_00: A Call from Beneath the Ivy                                              | 蔦覆い隠す呼び声
 q21014021_00: A Trampled Heart                                                         | 踏み砕かれた心
-q21014022_00: High Difficulty: 駆けゆく野生                                                  | 【高難度】駆けゆく野生
-q21014023_00: Time Restriction: 暁の採泥道                                                  | 【時限採取】暁の採泥道
+q21014022_00: High Difficulty: Rushing Wild                                            | 【高難度】駆けゆく野生
+q21014023_00: Time Restriction: Dredging at Dawn                                       | 【時限採取】暁の採泥道
 q21014024_00: Door of Gemstones: Howls of the Beasts                                   | 【昌石の扉】野獣たちの咆哮
 q21015000_00: The Store Girl's Trials                                                  | 看板娘の小手調べ
-q21015001_00:                                                                          | 殊勝なる若輩者
+q21015001_00: A Commendable Novice                                                     | 殊勝なる若輩者
 q21015002_00: High Difficulty: The Specter's Invasion                                  | 【高難度】魔影の侵攻
 q21015003_00: To the Faraway Child                                                     | 遠き地の子へ
 q21015004_00: Eyes Fixed on the Future                                                 | 未来を見据える瞳
@@ -534,27 +534,27 @@ q21015006_00: Time Restriction: Cloudy Mining                                   
 q21015007_00: Door of Gemstones: Cruel Steel Claws                                     | 【昌石の扉】無慈悲なる鋼爪
 q21015008_00: Pride of the Weak                                                        | 弱腰の矜持
 q21015009_00: Ordeal of the Weak                                                       | 弱腰の試練
-q21015010_00:                                                                          | 昔取った槍柄
-q21015011_00:                                                                          | 寡黙な師弟愛
+q21015010_00: An Old Hand at the Spear                                                 | 昔取った槍柄
+q21015011_00: Teacher and Pupil's Unspoken Affection                                   | 寡黙な師弟愛
 q21015012_00: A Foreign Investigation                                                  | 異邦捜査線
 q21015013_00: The Troubled Fortification                                               | 惑いし砦守
-q21015014_00:                                                                          | 消えた僚友
-q21015015_00:                                                                          | かの日の強者
-q21015016_00:                                                                          | 水路を焦がす稲妻
-q21015017_00:                                                                          | 好奇が呼ぶ不穏
-q21015018_00:                                                                          | 残酷なる翼影
-q21015019_00:                                                                          | 猛き尾と芳しき翼
-q21015020_00:                                                                          | 無縫の墓荒らし
-q21015021_00:                                                                          | 小妖精の王
-q21015022_00: High Difficulty: 猛き王者の咆哮                                                 | 【高難度】猛き王者の咆哮
-q21015023_00: Time Restriction: 真夜中の採岩道                                                | 【時限採取】真夜中の採岩道
-q21015024_00: Door of Treasures: 氷河裂く爪                                                 | 【財宝の扉】氷河裂く爪
+q21015014_00: Missing Cohort                                                           | 消えた僚友
+q21015015_00: Champion from that Day                                                   | かの日の強者
+q21015016_00: Lightning Scorching the Waterway                                         | 水路を焦がす稲妻
+q21015017_00: Disturbance Stirring Curiosity                                           | 好奇が呼ぶ不穏
+q21015018_00: Cruel Winged Shadow                                                      | 残酷なる翼影
+q21015019_00: Fierce Tail and Splendid Wings                                           | 猛き尾と芳しき翼
+q21015020_00: Flawless Grave-Robbing                                                   | 無縫の墓荒らし
+q21015021_00: King of the Fairies                                                      | 小妖精の王
+q21015022_00: High Difficulty: The Fierce King's Roar                                  | 【高難度】猛き王者の咆哮
+q21015023_00: Time Restriction: Mining in the Dead of Night                            | 【時限採取】真夜中の採岩道
+q21015024_00: Door of Treasures: Claws that Cleave the Glacier                         | 【財宝の扉】氷河裂く爪
 q21016000_00: Source of Disturbance                                                    | 騒ぎの原因
-q21016001_00:                                                                          | 噂の検証
+q21016001_00: Verifying a Rumor                                                        | 噂の検証
 q21016002_00: High Difficulty: To End This                                             | 【高難度】終止符を打つために
 q21016003_00: A Kind Reward                                                            | 優しさの報酬
 q21016004_00: The Young Custodian                                                      | 幼き家守
-q21016005_00: Time Restriction: 夕暮の採木道                                                 | 【時限採取】夕暮の採木道
+q21016005_00: Time Restriction: Dusk Logging                                           | 【時限採取】夕暮の採木道
 q21016006_00: Time Restriction: Fine Weather Harvest                                   | 【時限採取】晴天の採草道
 q21016007_00: Door of Dragon Force: 侵緑の暴虐者                                             | 【竜力の扉】侵緑の暴虐者
 q21016008_00:                                                                          | 蝕鳥たちの舞
