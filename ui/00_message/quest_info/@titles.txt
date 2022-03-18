@@ -604,32 +604,32 @@ q22018001_00: The Fiends' Early Recruitment                                     
 q22018002_00: A Reckless Action                                                        | 命知らずの敢行
 q22018003_00: The Cowardly Soldier's Distraction                                       | 弱卒の憂さ晴らし
 q22018004_00: Thinking of You                                                          | 想いし君へ
-q22018005_00:                                                                          | 高みの奉仕家
-q22018006_00:                                                                          | 日和見の魔物捕り
-q22018007_00: Time Restriction: 暮夜の採草道                                            | 【時限採取】暮夜の採草道
-q22018008_00:                                                                          | 騒乱の野獣たち
-q22018009_00:                                                                          | 異邦の隣人愛
-q22018010_00:                                                                          | 武装鬼軍の奇襲
-q22018011_00:                                                                          | 暗躍者の露払い
-q22018012_00: Time Restriction: 鬼の居ぬ間の採石道                                       | 【時限採取】鬼の居ぬ間の採石道
-q22018013_00:                                                                          | 豪商の恩返し
-q22018014_00:                                                                          | 剣呑たる白昼夢
-q22018015_00:                                                                          | 女番頭の憂い事
+q22018005_00: Serve from Above                                                         | 高みの奉仕家
+q22018006_00: Waiting to Catch Monsters                                                | 日和見の魔物捕り
+q22018007_00: Time Restriction: Evening Harvest                                        | 【時限採取】暮夜の採草道
+q22018008_00: Rioting Beasts                                                           | 騒乱の野獣たち
+q22018009_00: Love Thy Neighbor                                                        | 異邦の隣人愛
+q22018010_00: Demon Army's Surprise Attack                                             | 武装鬼軍の奇襲
+q22018011_00: Expose The One in the Shadows                                            | 暗躍者の露払い
+q22018012_00: Time Restriction: Mining Free of Demons                                  | 【時限採取】鬼の居ぬ間の採石道
+q22018013_00: The Merchant's Requital                                                  | 豪商の恩返し
+q22018014_00: Dangerous Daydream                                                       | 剣呑たる白昼夢
+q22018015_00: The Clerk's Misery                                                       | 女番頭の憂い事
 q22018016_00: High Difficulty: Evil Dragon Army, Attack!                               | 【高難度】悪しき竜軍、強襲！
-q22018017_00:                                                                          | 行商人の気配り
-q22018018_00:                                                                          | 自立への投資
-q22018019_00:                                                                          | 睦まじき日をもう一度
-q22018020_00:                                                                          | 悪鬼中隊の進撃
-q22018021_00:                                                                          | 一宿一飯の恩
-q22018022_00: Time Restriction: 晴天の採取道                                                 | 【時限採取】晴天の採取道
-q22018023_00:                                                                          | 命知らずの命運
-q22018024_00:                                                                          | 絆湛えし瞳
-q22018025_00:                                                                          | 伏し迫るオーク小隊
-q22018026_00:                                                                          | より所の守り人
-q22018027_00: Time Restriction: 鬼の居ぬ間の採取道                                       | 【時限採取】鬼の居ぬ間の採取道
-q22018028_00:                                                                          | 不安の矛先
-q22018029_00: A Small Favor                                                            | ちいさなおねがい
-q22018030_00:                                                                          | 積怨の禍つ鎧
+q22018017_00: The Peddler's Consideration                                              | 行商人の気配り
+q22018018_00: Investing for Independence                                               | 自立への投資
+q22018019_00: Happy Days Once Again                                                    | 睦まじき日をもう一度
+q22018020_00: The Fiend's Troops Attack                                                | 悪鬼中隊の進撃
+q22018021_00: In Return for a Bed and a Meal                                           | 一宿一飯の恩
+q22018022_00: Time Restriction: Gathering Under Clear Skies                            | 【時限採取】晴天の採取道
+q22018023_00: Reckless Fate                                                            | 命知らずの命運
+q22018024_00: Eyes That Speak of a Deep Bond                                           | 絆湛えし瞳
+q22018025_00: The Orc Platoon Creeps Closer                                            | 伏し迫るオーク小隊
+q22018026_00: Guard of the Base                                                        | より所の守り人
+q22018027_00: Time Restriction: Gathering Before the Demons Return                     | 【時限採取】鬼の居ぬ間の採取道
+q22018028_00: Cause of Unease                                                          | 不安の矛先
+q22018029_00: A Little Favor                                                           | ちいさなおねがい
+q22018030_00: Malicious Armor                                                          | 積怨の禍つ鎧
 q22018031_00: High Difficulty: Exorcising a Hundred Ghosts and a Thousand Demons       | 【高難度】百鬼千魔を調伏せよ
 q22018032_00: The White Terror                                                         | 真白き戦慄
 q22018033_00: Ancient Evil Eye                                                         | いにしえの邪眼
