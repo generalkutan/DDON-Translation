@@ -388,7 +388,7 @@ q20990004_00: The Lost Golden Child                                             
 q20995000_00: Seeking Alchemical Extract                                               | アルケム・エクストラクトを求めて
 q20995001_00: The Winged Sentry                                                        | 翼ある番兵
 q20995002_00: The Blue Dragon's Shadow                                                 | 蒼き竜影
-q20995003_00:                                                                          | 炎と岩よりい出し者
+q20995003_00: From Flame and Rock                                                      | 炎と岩よりい出し者
 q20995004_00: The Abandoned Giant Warrior                                              | うち捨てられた巨人兵
 q20995005_00: An Altered Beast Attacks!                                                | 改造魔獣、襲撃！
 q20995006_00: A Training Requirement                                                   | 錬成術の要
