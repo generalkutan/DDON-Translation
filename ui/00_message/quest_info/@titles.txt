@@ -633,19 +633,19 @@ q22018030_00: Malicious Armor                                                   
 q22018031_00: High Difficulty: Exorcising a Hundred Ghosts and a Thousand Demons       | 【高難度】百鬼千魔を調伏せよ
 q22018032_00: The White Terror                                                         | 真白き戦慄
 q22018033_00: Ancient Evil Eye                                                         | いにしえの邪眼
-q22018034_00:                                                                          | 暗然たる森の悪夢
-q22018035_00:                                                                          | 不撓不屈の証明
+q22018034_00: Nightmare of the Dark Forest                                             | 暗然たる森の悪夢
+q22018035_00: Indomitable Proof                                                        | 不撓不屈の証明
 q22018036_00: A Bitter Old Grudge                                                      | やるかたなき宿怨
 q22018037_00: Eager to Train                                                           | 練磨の魁
-q22018038_00:                                                                          | 闇より溢れ出る異変
-q22018039_00:                                                                          | 飛んで火に入る闖入者
+q22018038_00: Something Spilling from the Darkness                                     | 闇より溢れ出る異変
+q22018039_00: An Intruder in Too Deep                                                  | 飛んで火に入る闖入者
 q22018040_00: The Last Lie                                                             | 最後の嘘
-q22018041_00:                                                                          | 霧の中に猛る狂乱
-q22018042_00:                                                                          | 怪異は深き闇に潜む
+q22018041_00: Fury in the Fog                                                          | 霧の中に猛る狂乱
+q22018042_00: Apparition Lurking in Darkness                                           | 怪異は深き闇に潜む
 q22018043_00: A Disturbing Portent                                                     | 不穏の先触れ
-q22018044_00:                                                                          | 蠱惑のアジテーション
-q22018045_00:                                                                          | 門番の矜持
-q22018046_00: Time Restriction: 早暁の採虫道                                            | 【時限採取】早暁の採虫道
+q22018044_00: Beguiled and Agitated                                                    | 蠱惑のアジテーション
+q22018045_00: The Gatekeeper's Pride                                                   | 門番の矜持
+q22018046_00: Time Restriction: Early Dawn Bug Hunting                                 | 【時限採取】早暁の採虫道
 q22018047_00: Time Restriction: 鬼の居ぬ間の回収道                                       | 【時限採取】鬼の居ぬ間の回収道
 q22018048_00: Self-Righteous Conviction                                                | 独りよがりの信念
 q22018049_00: High Difficulty: 逆襲の悪鬼軍                                             | 【高難度】逆襲の悪鬼軍
@@ -657,7 +657,7 @@ q22018054_00:                                                                   
 q22018055_00:                                                                          | 行方を眩ます陽炎
 q22018056_00: Time Restriction: 鬼の居ぬ間の採灰道                                       | 【時限採取】鬼の居ぬ間の採灰道
 q22018057_00:                                                                          | 悪を断ち切る抑止力
-q22018058_00: High Difficulty: アッカーシェラン各地より救援要請                           | 【高難度】アッカーシェラン各地より救援要請
+q22018058_00: High Difficulty: Rescue Acre Selund                                      | 【高難度】アッカーシェラン各地より救援要請
 q22020000_00:                                                                          | 激昂の突進
 q22020001_00:                                                                          | 激昂の邂逅
 q22020002_00:                                                                          | 激昂の死闘
@@ -1745,19 +1745,19 @@ q80201012_00:                                                                   
 q80201013_00:                                                                          | 厳かなる泉
 q80201014_00: Thinking of You                                                          | 君を想う
 q80201015_00: What Is Being Photographed?                                              | 写っているのは――？
-q80201016_00:                                                                          | 改めて敬意を
+q80201016_00: Paying Respects Again                                                    | 改めて敬意を
 q80201017_00:                                                                          | 悩める右腕
 q80201018_00:                                                                          | 青田買い？
 q80201019_00: The Hidden Chamber                                                       | 秘密の部屋
 q80201020_00: The Light of Defense                                                     | 堅守の灯火
 q80201021_00:                                                                          | 燐光に包まれて
 q80201022_00:                                                                          | 遺風残香
-q80201023_00:                                                                          | ご機嫌を伺いに
+q80201023_00: Courtesy Visit                                                           | ご機嫌を伺いに
 q80201024_00:                                                                          | 和みの湯
-q80201025_00:                                                                          | 光るガラクタ
+q80201025_00: Shining Junk                                                             | 光るガラクタ
 q80201026_00:                                                                          | 豪奢な隠れ家
 q80201027_00:                                                                          | 古城の眺望
-q80201028_00:                                                                          | お邪魔はしません
+q80201028_00: Won't Intrude                                                            | お邪魔はしません
 q80201029_00: Seeking the Strange Inias                                                | イニアスの猟奇
 q80201030_00:                                                                          | 密猟駆逐作戦
 q80201031_00: The Lovely Archer                                                        | 可憐なる射手
@@ -1876,7 +1876,7 @@ q90030302_00: The Deathly Battle of the Forest of Mist                          
 q90030303_00: The Deathly Battle of the Forest of Mist                                 | 霧の森の死闘
 q90030304_00: The Deathly Battle of the Forest of Mist: Enemy Annihilation             | 霧の森の死闘　戦況：敵軍殲滅
 q90030305_00: The Deathly Battle of the Forest of Mist: Boss Annihilation              | 霧の森の死闘　戦況：大将討滅
-q90030306_00:                                                                          | 霧の森の死闘　戦況：大将奮起
+q90030306_00: The Deathly Battle of the Forest of Mist: Stirring General               | 霧の森の死闘　戦況：大将奮起
 q90030400_00: Resurrection of the Flame of Despair                                     | 蘇りし絶望の炎
 q90030401_00: Resurrection of the Flame of Despair                                     | 蘇りし絶望の炎
 q90030402_00: Resurrection of the Flame of Despair                                     | 蘇りし絶望の炎
