@@ -652,18 +652,18 @@ q22018049_00: High Difficulty: 逆襲の悪鬼軍                               
 q22018050_00: Flames of Darkness                                                       | 暗晦の炎
 q22018051_00: Flickering Shadow of Flame                                               | 徘徊する炎の影
 q22018052_00:                                                                          | 石拾うにも苦難の道程
-q22018053_00:                                                                          | 真偽の判定者
-q22018054_00:                                                                          | 拭えぬ心労
-q22018055_00:                                                                          | 行方を眩ます陽炎
+q22018053_00: Judge of Truth                                                           | 真偽の判定者
+q22018054_00: Unshakeable Anxiety                                                      | 拭えぬ心労
+q22018055_00: Lost in the Haze                                                         | 行方を眩ます陽炎
 q22018056_00: Time Restriction: 鬼の居ぬ間の採灰道                                       | 【時限採取】鬼の居ぬ間の採灰道
-q22018057_00:                                                                          | 悪を断ち切る抑止力
+q22018057_00: The Power to Deter Evil                                                  | 悪を断ち切る抑止力
 q22018058_00: High Difficulty: Rescue Acre Selund                                      | 【高難度】アッカーシェラン各地より救援要請
-q22020000_00:                                                                          | 激昂の突進
-q22020001_00:                                                                          | 激昂の邂逅
-q22020002_00:                                                                          | 激昂の死闘
-q22020003_00:                                                                          | 激昂の激闘
-q22020004_00:                                                                          | 激昂の処刑人
-q22020005_00:                                                                          | 激昂の黒煙
+q22020000_00: Furious Charge                                                           | 激昂の突進
+q22020001_00: Furious Encounter                                                        | 激昂の邂逅
+q22020002_00: Furious Deathly Battle                                                   | 激昂の死闘
+q22020003_00: Furious Fight                                                            | 激昂の激闘
+q22020004_00: Furious Executioner                                                      | 激昂の処刑人
+q22020005_00: Furious Black Smoke                                                      | 激昂の黒煙
 q29300000_00: Dacreim Fortress Recapture Battle                                        | ダクレイム砦奪還戦
 q29300001_00: Jifule Fortress Capture Battle                                           | ジフール砦攻略戦
 q29300002_00: The Deathly Battle of the Forest of Mist                                 | 霧の森の死闘
@@ -679,25 +679,25 @@ q29999996_00:                                                                   
 q29999997_00:                                                                          | クエスト検証用ID９
 q29999998_00:                                                                          | 2.2GM戦闘仮組
 q29999999_00:                                                                          | 2.3ダンジョンクエスト検証用
-q30200001_00:                                                                          | 執務官からの依頼
-q30200002_00:                                                                          | お願いがあります
-q30200003_00:                                                                          | 増えすぎた魔物
-q30200004_00:                                                                          | 魔物征伐
-q30200005_00:                                                                          | 執務官からの頼み事
-q30200006_00:                                                                          | 執務官からの討伐依頼
-q30200007_00:                                                                          | 力試しをしてみませんか？
-q30200008_00:                                                                          | 治安維持のため
-q30200009_00:                                                                          | 脅威排除
-q30200010_00:                                                                          | レスタニア平安のため
+q30200001_00: Request from an Official                                                 | 執務官からの依頼
+q30200002_00: A Favor to Ask                                                           | お願いがあります
+q30200003_00: Too Many Monsters                                                        | 増えすぎた魔物
+q30200004_00: Subjugate Monsters                                                       | 魔物征伐
+q30200005_00: Favor for an Official                                                    | 執務官からの頼み事
+q30200006_00: Suppresion Order from an Official                                        | 執務官からの討伐依頼
+q30200007_00: Why Not Test Your Strength?                                              | 力試しをしてみませんか？
+q30200008_00: Preserve Public Order                                                    | 治安維持のため
+q30200009_00: Eliminate the Threat                                                     | 脅威排除
+q30200010_00: For the Peace of Lestania                                                | レスタニア平安のため
 q30200011_00:                                                                          | 欲しがりさんからの納品依頼
 q30200012_00: I Want This!                                                             | これが欲しいの！
 q30200013_00:                                                                          | 欲しがりさんからの頼まれ事
 q30200014_00: I Want That!                                                             | あれが欲しいの！
 q30200015_00:                                                                          | モノ好きさんからの納品依頼
-q30200016_00:                                                                          | 備蓄のために
+q30200016_00: For Stockpiling                                                          | 備蓄のために
 q30200017_00:                                                                          | モノ好きさんからの頼まれ事
 q30200018_00: A Friend Needs Advice                                                    | お友達からの相談
-q30200019_00:                                                                          | 我儘娘の頼み事
+q30200019_00: Request from a Spoiled Girl                                              | 我儘娘の頼み事
 q30200020_00: Resupply Help                                                            | 調達を手伝って
 q30200021_00: High Difficulty: 討伐命令                                                    | 【高難度】討伐命令
 q30200022_00: High Difficulty: 忌避すべき魔物                                                 | 【高難度】忌避すべき魔物
@@ -909,11 +909,11 @@ q40000187_00: A Safe Zoma!                                                      
 q40000188_00: White Wings: Cooperation (Eastern Zandora)                               | 白翼覚者隊・協力要請　ザンドラ東部
 q40000189_00: White Wings: Elimination (Eastern Zandora)                               | 白翼覚者隊・討伐任務　ザンドラ東部
 q40000190_00: Area Order: Eastern Zandora Demon Extermination                          | ＜エリアオーダー＞ザンドラ東部魔物征伐
-q40000191_00:                                                                          | ザンドラ産地品の取引
+q40000191_00: Dealing in Zandora Goods                                                 | ザンドラ産地品の取引
 q40000192_00: Buying Materials!                                                        | 素材買い取ります！
 q40000193_00:                                                                          | 掘り出し物ある？
 q40000194_00: A Lively Zoma!                                                           | ゾマに活気を！
-q40000195_00:                                                                          | 入手経路は何でもＯＫ！
+q40000195_00: However You Can Get Your Hands on It!                                    | 入手経路は何でもＯＫ！
 q40000196_00: Blend Cocktail                                                           | ブレンドカクテル
 q40000197_00: Eastern Zandora Materials Request                                        | ザンドラ東部名産品の入手依頼
 q40000198_00: White Wings: Collection (Eastern Zandora)                                | 白翼覚者隊・収集依頼　ザンドラ東部
@@ -960,14 +960,14 @@ q40000238_00: White Wings: Collection (Mysree Forest)                           
 q40000239_00: White Wings: Delivery (Mysree Forest)                                    | 白翼覚者隊・納品依頼　ミスリウ森林
 q40000240_00: Area Order: Pawn Cathedral Resupply                                      | ＜エリアオーダー＞ポーン郷補給
 q40000241_00: Imminent Threat                                                          | すぐそこにいる敵
-q40000242_00:                                                                          | 錬魔注意報告
+q40000242_00: Look Out for Alchemised                                                 | 錬魔注意報告
 q40000243_00: A Pitiful Puppet                                                         | 哀れな傀儡
 q40000244_00: The Source of the Noise                                                  | ノイズの原因
-q40000245_00:                                                                          | 恐るべき傀儡
-q40000246_00:                                                                          | 錬魔警戒警報
+q40000245_00: A Fearsome Puppet                                                        | 恐るべき傀儡
+q40000246_00: Beware the Alchemised                                                    | 錬魔警戒警報
 q40000247_00:                                                                          | 遺された脅威
 q40000248_00:                                                                          | 排除すべき者
-q40000249_00:                                                                          | 錬魔の兵
+q40000249_00: Alchemised Soldiers                                                      | 錬魔の兵
 q40000250_00: Area Order: Mergoda Demon Extermination                                  | ＜エリアオーダー＞メルゴダ魔物征伐
 q40000251_00: Potion Raw Materials                                                     | 水薬の原料
 q40000252_00: Limited Mergoda                                                          | 限られたメルゴダ
