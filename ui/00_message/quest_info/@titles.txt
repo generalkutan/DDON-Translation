@@ -1414,7 +1414,7 @@ q50400011_00:                                                                   
 q50400012_00:                                                                          | 【限界域】理を破壊する力
 q50400013_00:                                                                          | 砦に轟く戦鬼連合
 q50400014_00:                                                                          | 黒の殉教者
-q50400015_00:                                                                          | レジェンドオブレスタニア
+q50400015_00: Legend of Lestania                                                       | レジェンドオブレスタニア
 q60000001_00: Fighter Tactics Trial: Break Attack                                      | 破攻の証　ファイター戦術試練
 q60000002_00: Gathering in the Clan Tavern                                             | クラン酒場に集う勇
 q60000003_00: Fighter Tactics Trial: A Stubborn Shield                                 | 頑盾の証　ファイター戦術試練
@@ -1482,7 +1482,7 @@ q60200007_00: The Treasure Lying in the Frontier 2                              
 q60200008_00: The Treasure Lying in the Frontier 3                                     | 辺境に眠りし宝３
 q60200009_00: The Treasure Lying in the Frontier 4                                     | 辺境に眠りし宝４
 q60200010_00: The Stirring Ground                                                      | ざわめきし大地
-q60200011_00:                                                                          | 蠢きし影
+q60200011_00: The Squirming Shadow                                                     | 蠢きし影
 q60200012_00: The Treasure Sleeping in the Ark                                         | アークに眠りし宝
 q60200013_00: Singing Praises of Success                                               | 歌い継がれし勇姿
 q60200014_00: Road to Mastery                                                          | 道を極めんがため
@@ -1606,7 +1606,7 @@ q60300002_00: Custom-Made Workshop 1: Searcher's Return                         
 q60300003_00: Custom-Made Workshop 2: Limit Break                                      | カスタムメイド工房２　リミット解除
 q60300004_00: Custom-Made Workshop 3: Ultimate Arms Synthesis                          | カスタムメイド工房３　武具極限合成
 q60300010_00: Mysterious Summoning Bell                                                | 不思議な呼び鈴
-q60300011_00:                                                                          | 忠心の内に輝くもの
+q60300011_00: Shining Within a Loyal Heart                                             | 忠心の内に輝くもの
 q60300020_00: To the Heroic Spirit Sleeping Path: Rathnite District                    | 英霊眠りし道へ　ラスニテ地方
 q60300021_00: To the Heroic Spirit Sleeping Path: Feryana District                     | 英霊眠りし道へ　フェルヤナ地方
 q60300022_00: To the Heroic Spirit Sleeping Path: Megadosys District                   | 英霊眠りし道へ　メガドシス地方
@@ -1676,8 +1676,8 @@ q60301041_00: A Gift for You, My Love (1)                                       
 q60301042_00: A Gift for You, My Love (2)                                              | 愛し君のための贈り物＜２＞
 q60301052_00: Emergency! Not Enough Candy! (1)                                         | 緊急！　お菓子が足りない！＜１＞
 q60301053_00: Emergency! Not Enough Candy! (2)                                         | 事件？　お菓子が足りない！＜２＞
-q60301055_00:                                                                          | 笑顔振りまくメリークリスマス＜１＞
-q60301056_00:                                                                          | 笑顔振りまくメリークリスマス＜２＞
+q60301055_00: A Merry Christmas Spreading Cheer (1)                                    | 笑顔振りまくメリークリスマス＜１＞
+q60301056_00: A Merry Christmas Spreading Cheer (2)                                    | 笑顔振りまくメリークリスマス＜２＞
 q60310000_00: Ghost Wail Collection: Suddenly a Different World                        | 【鬼哭蒐集】異世界は突然に
 q60310001_00: Ghost Wail Collection: Quest of Overlord                                 | 【鬼哭蒐集】クエストオブオーバーロード
 q60310002_00: Ghost Wail Collection: For Overlord Collaboration Set                    | 【鬼哭蒐集】オバロコラボセット用
@@ -1701,7 +1701,7 @@ q60320002_00: Megadosys Plateau: Liberation Army Support                        
 q60320003_00: Megadosys Plateau: Defeat Enemy Pursuit                                  | メガドシス高地　敵追跡討伐
 q60320004_00: Megadosys Plateau: Prevent Enemy Attack                                  | メガドシス高地　敵襲撃阻止
 q60320010_00: Megadosys Plateau Trial: Shadow of Heresy                                | メガドシス高地　試練：異端の影
-q60320011_00:                                                                          | 力に呑まれし王者
+q60320011_00: The Ruler Overwhelmed by Power                                           | 力に呑まれし王者
 q60320013_00: Berserk: In the Flow of Causality...                                     | 【ベルセルク】因果の流れの中に――
 q60321000_00: Urteca Mountains Trial: 原種の縄張り                                           | ウルテカ山岳　試練：原種の縄張り
 q60321001_00: Urteca Mountains Trial: 痛刻の洞                                             | ウルテカ山岳　試練：痛刻の洞
@@ -1722,7 +1722,7 @@ q61000001_00:                                                                   
 q61000002_00:                                                                          | 竜の力を帯びた武具＜２＞
 q61000003_00:                                                                          | 竜スキル解放PQ③
 q61000004_00: Information on Bitterblack Maze Abyss                                    | 黒呪の迷宮　深淵への案内
-q61000005_00:                                                                          | 途絶えぬ闇
+q61000005_00: Unending Darkness                                                        | 途絶えぬ闇
 q80200000_00: Elementary Vegetable Dish                                                | 野菜料理初級編
 q80200001_00: Elementary Mushroom Dish                                                 | キノコ料理初級編
 q80200002_00: Elementary Meat Dish                                                     | 肉料理初級編
@@ -1737,20 +1737,20 @@ q80201004_00: Blue Sky Camp                                                     
 q80201005_00: Mysterious Shape                                                         | 不思議なかたち
 q80201006_00: Blue Heavenly Tree                                                       | 蒼き神樹
 q80201007_00: Gate of Paradise                                                         | 楽園の扉
-q80201008_00:                                                                          | 端正なる鋭槍
+q80201008_00: A Straight Sharp Spear                                                   | 端正なる鋭槍
 q80201009_00: Lush Lake Shore                                                          | 湖畔の涼地
 q80201010_00: A Visit to the Sage's Grave                                              | 賢者の墓参り
 q80201011_00: A Bookworm?                                                              | 本の虫？
-q80201012_00:                                                                          | 動かぬ番人
-q80201013_00:                                                                          | 厳かなる泉
+q80201012_00: Unyielding Watchman                                                      | 動かぬ番人
+q80201013_00: The Solemn Spring                                                        | 厳かなる泉
 q80201014_00: Thinking of You                                                          | 君を想う
 q80201015_00: What Is Being Photographed?                                              | 写っているのは――？
 q80201016_00: Paying Respects Again                                                    | 改めて敬意を
-q80201017_00:                                                                          | 悩める右腕
-q80201018_00:                                                                          | 青田買い？
+q80201017_00: A Troublesome Right Arm                                                  | 悩める右腕
+q80201018_00: Recruiting Already?                                                      | 青田買い？
 q80201019_00: The Hidden Chamber                                                       | 秘密の部屋
 q80201020_00: The Light of Defense                                                     | 堅守の灯火
-q80201021_00:                                                                          | 燐光に包まれて
+q80201021_00: Engulfed in Phosphorescence                                              | 燐光に包まれて
 q80201022_00:                                                                          | 遺風残香
 q80201023_00: Courtesy Visit                                                           | ご機嫌を伺いに
 q80201024_00:                                                                          | 和みの湯
@@ -1764,12 +1764,12 @@ q80201031_00: The Lovely Archer                                                 
 q80201032_00:                                                                          | 秘境の温泉
 q80201033_00:                                                                          | 華麗な遺風
 q80201034_00:                                                                          | 湖畔の神殿
-q80201035_00:                                                                          | 華麗なる戦士
+q80201035_00: The Splendid Soldier                                                     | 華麗なる戦士
 q80201036_00:                                                                          | 砦の威光
 q80201037_00:                                                                          | 堅牢の砦
 q80201038_00:                                                                          | 立ち塞がるは仁王
 q80201039_00: Unmade Bedding                                                           | 万年床
-q80201040_00:                                                                          | 赤々しき球
+q80201040_00: Bright Red Orb                                                           | 赤々しき球
 q80201041_00:                                                                          | 灯台鎮魂歌
 q80201042_00:                                                                          | 奇妙な屍竜
 q80201043_00:                                                                          | 秘めし豪運
@@ -1780,11 +1780,11 @@ q80201047_00:                                                                   
 q80201048_00:                                                                          | 王宮の面影
 q80201049_00:                                                                          | 安眠の虜
 q80301000_00:                                                                          | 知略集う場所
-q80301001_00:                                                                          | いにしえの女帝像
+q80301001_00: The Ancient Empress Statue                                               | いにしえの女帝像
 q80301002_00:                                                                          | 華麗なる舞姫
 q80301003_00:                                                                          | 堂々たる名華
 q80301004_00:                                                                          | 遠望の灼溶山
-q80301005_00:                                                                          | 隠れ村の麗滝
+q80301005_00: Lovely Waterfall of the Hidden Village                                   | 隠れ村の麗滝
 q80301006_00: Take a picture with your pawn at the specified location using Photo Mode | フォトモードを使い、指定の場所でポーンと写真を撮る
 q80301050_00:                                                                          | 【調理日課】ティネス　調理支給
 q80301051_00:                                                                          | 【調理日課】ロスギル　出張調理
