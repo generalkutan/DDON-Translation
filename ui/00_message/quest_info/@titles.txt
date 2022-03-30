@@ -904,7 +904,7 @@ q40000182_00: No One-on-Ones                                                    
 q40000183_00: How Tiresome!                                                            | ああいやだいやだ
 q40000184_00: Looking for a Hero!!                                                     | 剛の者求むッ！！
 q40000185_00: If Your Hands are Free                                                   | 手が空いてたら
-q40000186_00:                                                                          | 試させて貰うわ
+q40000186_00: I'll Test You                                                            | 試させて貰うわ
 q40000187_00: A Safe Zoma!                                                             | ゾマに安全を！
 q40000188_00: White Wings: Cooperation (Eastern Zandora)                               | 白翼覚者隊・協力要請　ザンドラ東部
 q40000189_00: White Wings: Elimination (Eastern Zandora)                               | 白翼覚者隊・討伐任務　ザンドラ東部
@@ -1006,8 +1006,8 @@ q40000284_00: No Trespassers!!!                                                 
 q40000285_00: Zandora Enemy Investigation                                              | ザンドラ魔物戦闘検分
 q40000286_00: Investigate Wasteland Creatures                                          | 禁域生物の調査依頼
 q40000287_00: A Trial                                                                  | 力試しをしてみないかな
-q40000288_00:                                                                          | 禁域探訪者への連絡：敵遭遇に関して
-q40000289_00:                                                                          | 禁域探訪者への指示：敵遭遇に関して
+q40000288_00: Message for Wasteland Explorers: Enemy Encounters                        | 禁域探訪者への連絡：敵遭遇に関して
+q40000289_00: Directions for Wasteland Explorers: Enemy Encounters                     | 禁域探訪者への指示：敵遭遇に関して
 q40000290_00: Area Order: Zandora Demon Extermination                                  | ＜エリアオーダー＞ザンドラ魔物征伐
 q40000291_00: Hoping for This                                                          | あると良い物
 q40000292_00: Of Great Interest                                                        | 興味深き物
@@ -1019,38 +1019,38 @@ q40000297_00:                                                                   
 q40000298_00:                                                                          | 禁域探訪者への連絡：取得物に関して
 q40000299_00: To Wasteland Explorers: About Finds                                      | 禁域探訪者への指示：取得物に関して
 q40000300_00: Area Order: Zandora Resupply                                             | ＜エリアオーダー＞ザンドラ補給
-q40200001_00:                                                                          | こらしめてやってください
+q40200001_00: Teach Them a Lesson                                                      | こらしめてやってください
 q40200002_00: For Clean Bedsheets                                                      | 清潔なベッドシーツのため
-q40200003_00:                                                                          | 火種泥棒
+q40200003_00: Set Off By a Robbery                                                     | 火種泥棒
 q40200004_00: Flower's Revenge                                                         | 花の敵討ち
 q40200005_00:                                                                          | 物資運搬路の安全確保
 q40200006_00:                                                                          | 魔赤島生物の行動調査
-q40200007_00:                                                                          | 群れの半数
+q40200007_00: Half of the Crowd                                                        | 群れの半数
 q40200008_00:                                                                          | 討伐協力依頼
 q40200009_00:                                                                          | 衛生環境の維持のため
 q40200010_00: Area Order: Bloodbane Isle Demon Extermination                           | ＜エリアオーダー＞魔赤島魔物征伐
-q40200011_00:                                                                          | 薬効検証のため
-q40200012_00:                                                                          | 土産の材料
-q40200013_00:                                                                          | 仕事終わりの一風呂
+q40200011_00: Investigating Medicine's Effects                                         | 薬効検証のため
+q40200012_00: Supplies for a Souvenir                                                  | 土産の材料
+q40200013_00: A Bath After Work                                                        | 仕事終わりの一風呂
 q40200014_00: Where Is It                                                              | どこにあるんだ
 q40200015_00:                                                                          | 裏マーケット需要
-q40200016_00: Wanting to Help the Investigation                                        | 調査を手伝いたくて
+q40200016_00: Wanting to Help Investigate                                              | 調査を手伝いたくて
 q40200017_00:                                                                          | 魔赤島調査隊のモノ好き仲間へ
 q40200018_00:                                                                          | 礼はするって話だぜ
 q40200019_00: Bloodbane Isle Delicacy                                                  | 魔赤島の珍味
 q40200020_00: Area Order: Bloodbane Isle Resupply                                      | ＜エリアオーダー＞魔赤島補給
 q40200021_00:                                                                          | 静かな休息時間のため
 q40200022_00:                                                                          | 歯型付きのふくらはぎ
-q40200023_00:                                                                          | 散歩道での遭遇
-q40200024_00:                                                                          | たまには手伝ってほしい
+q40200023_00: A Run-In on the Path                                                     | 散歩道での遭遇
+q40200024_00: I Could Use a Hand Sometimes                                             | たまには手伝ってほしい
 q40200025_00: Pang of Conscience                                                       | 良心の呵責
-q40200026_00:                                                                          | 大掃除の準備
+q40200026_00: Preparing for Major Cleanup                                              | 大掃除の準備
 q40200027_00:                                                                          | 腰痛の原因
 q40200028_00:                                                                          | 息抜きも必要
 q40200029_00: Efforts Shall Not Go to Waste                                            | 努力を無にしたくない
 q40200030_00: Area Order: Bloodbane Isle Demon Extermination                           | ＜エリアオーダー＞魔赤島魔物征伐
 q40200031_00:                                                                          | 自給自足も健康のため
-q40200032_00:                                                                          | 余っていたらでいい
+q40200032_00: If There's Any Left Over                                                 | 余っていたらでいい
 q40200033_00:                                                                          | 今回は仕方ねぇな
 q40200034_00:                                                                          | 報告に添えるサンプル分
 q40200035_00:                                                                          | 湿布の代用品
