@@ -805,7 +805,7 @@ q40000083_00: Bathing in Tar                                                    
 q40000084_00: Peddlers and Miners                                                      | 行商人と鉱員の敵
 q40000085_00: Costly Service                                                           | 高くつくと教えてあげたいの
 q40000086_00: Shining Skill                                                            | 輝く戦技
-q40000087_00:                                                                          | どっから湧いてきたんだい
+q40000087_00: From Where Did They Spawn                                                | どっから湧いてきたんだい
 q40000088_00: White Wings: Cooperation (Volden Mines)                                  | 白翼覚者隊・協力要請　ボルド鉱山
 q40000089_00: White Wings: Elimination (Volden Mines)                                  | 白翼覚者隊・討伐任務　ボルド鉱山
 q40000090_00: Area Order: Volden Demon Extermination                                   | ＜エリアオーダー＞ボルド魔物征伐
@@ -1011,22 +1011,22 @@ q40000289_00: Directions for Wasteland Explorers: Enemy Encounters              
 q40000290_00: Area Order: Zandora Demon Extermination                                  | ＜エリアオーダー＞ザンドラ魔物征伐
 q40000291_00: Hoping for This                                                          | あると良い物
 q40000292_00: Of Great Interest                                                        | 興味深き物
-q40000293_00:                                                                          | 大いに調べ究明すべき物
+q40000293_00: Deserving Close Inspection                                               | 大いに調べ究明すべき物
 q40000294_00: An Epicure Seeks Spices                                                  | 美食家のスパイス探し
 q40000295_00: For a Friend with Unusual Tastes                                         | 相当のモノ好き仲間へ
 q40000296_00: A Favor to Ask                                                           | お願いがございます
 q40000297_00:                                                                          | 頼まれてくれるかい？
-q40000298_00:                                                                          | 禁域探訪者への連絡：取得物に関して
-q40000299_00: To Wasteland Explorers: About Finds                                      | 禁域探訪者への指示：取得物に関して
+q40000298_00: Message for Wasteland Explorers: About Finds                             | 禁域探訪者への連絡：取得物に関して
+q40000299_00: Directions for Wasteland Explorers: About Finds                          | 禁域探訪者への指示：取得物に関して
 q40000300_00: Area Order: Zandora Resupply                                             | ＜エリアオーダー＞ザンドラ補給
 q40200001_00: Teach Them a Lesson                                                      | こらしめてやってください
 q40200002_00: For Clean Bedsheets                                                      | 清潔なベッドシーツのため
 q40200003_00: Set Off By a Robbery                                                     | 火種泥棒
 q40200004_00: Flower's Revenge                                                         | 花の敵討ち
-q40200005_00:                                                                          | 物資運搬路の安全確保
-q40200006_00:                                                                          | 魔赤島生物の行動調査
+q40200005_00: Securing Transport Routes                                                | 物資運搬路の安全確保
+q40200006_00: Investigating Bloodbane Isle Wildlife Activities                         | 魔赤島生物の行動調査
 q40200007_00: Half of the Crowd                                                        | 群れの半数
-q40200008_00:                                                                          | 討伐協力依頼
+q40200008_00: Cooperate with Subjugation                                               | 討伐協力依頼
 q40200009_00: To Maintain a Clean Environment                                          | 衛生環境の維持のため
 q40200010_00: Area Order: Bloodbane Isle Demon Extermination                           | ＜エリアオーダー＞魔赤島魔物征伐
 q40200011_00: Investigating Medicine's Effects                                         | 薬効検証のため
@@ -1039,7 +1039,7 @@ q40200017_00:                                                                   
 q40200018_00:                                                                          | 礼はするって話だぜ
 q40200019_00: Bloodbane Isle Delicacy                                                  | 魔赤島の珍味
 q40200020_00: Area Order: Bloodbane Isle Resupply                                      | ＜エリアオーダー＞魔赤島補給
-q40200021_00:                                                                          | 静かな休息時間のため
+q40200021_00: For A Quiet Rest                                                         | 静かな休息時間のため
 q40200022_00: Teeth Marks on the Calf                                                  | 歯型付きのふくらはぎ
 q40200023_00: A Run-In on the Path                                                     | 散歩道での遭遇
 q40200024_00: I Could Use a Hand Sometimes                                             | たまには手伝ってほしい
@@ -1057,13 +1057,13 @@ q40200035_00: Substitute for a Poultice                                         
 q40200036_00: Buyback Prices Up                                                        | 買い取り強化中
 q40200037_00: Fun at Bloodbane Isle                                                    | 魔赤島での楽しみ
 q40200038_00: An Addictive Flavor                                                      | クセになる味
-q40200039_00:                                                                          | 内密に調達してほしい
+q40200039_00: Please Procure This Privately                                            | 内密に調達してほしい
 q40200040_00: Area Order: Bloodbane Isle Resupply                                      | ＜エリアオーダー＞魔赤島補給
-q40200041_00:                                                                          | 旅人たちへの注意勧告
+q40200041_00: A Warning to Travelers                                                   | 旅人たちへの注意勧告
 q40200042_00: The Laundry Thief                                                        | 洗濯物泥棒
 q40200043_00: I've Been Wondering                                                      | ちょっと気になってさ
 q40200044_00:                                                                          | 住まいを追われて
-q40200045_00:                                                                          | 木陰から飛び出すもの
+q40200045_00: Springing Out From the Shade of a Tree                                   | 木陰から飛び出すもの
 q40200046_00: The Vulned Demon                                                         | 手負いの魔物
 q40200047_00: An Unsettled Gaze                                                        | 不穏な視線
 q40200048_00: Punishment for Ransacking Books                                          | 書物荒らしを懲らしめて
@@ -1072,19 +1072,19 @@ q40200050_00: Area Order: Elan Demon Extermination                              
 q40200051_00: A Shopping List for Next Time                                            | 次回買い物メモ
 q40200052_00: Specially Made Equipment                                                 | 特製の装具
 q40200053_00: I Don't Want to Cause Trouble                                            | 困らせたくないのに
-q40200054_00:                                                                          | 庵の修理品
-q40200055_00:                                                                          | 鹿狩りの罠
-q40200056_00:                                                                          | 燻製の隠し味
+q40200054_00: The Hermitage's Refurbished Goods                                        | 庵の修理品
+q40200055_00: A Trap for Hunting Deer                                                  | 鹿狩りの罠
+q40200056_00: Smoke to Enhance the Flavor                                              | 燻製の隠し味
 q40200057_00: Polish Into Beads                                                        | 磨いてビーズに
 q40200058_00: A New Prototype                                                          | 新たな試作物
-q40200059_00:                                                                          | 安請け合いしたみたい
+q40200059_00: Agreed Too Quickly                                                       | 安請け合いしたみたい
 q40200060_00: Area Order: Elan Resupply                                                | ＜エリアオーダー＞エラン補給
 q40200061_00: Today's Record                                                           | 本日の記録
 q40200062_00: Precautionary Extermination                                              | 万が一のための駆除
 q40200063_00: Protect the Food Warehouse!                                              | 食糧庫を守れ！
 q40200064_00:                                                                          | 仕入れの邪魔者
 q40200065_00:                                                                          | 食材調達の邪魔者
-q40200066_00:                                                                          | 思惑が外れて
+q40200066_00: Expectations Unmet                                                       | 思惑が外れて
 q40200067_00:                                                                          | 小さな監視人
 q40200068_00:                                                                          | 古兵の主張
 q40200069_00: Why the Deer Are Fewer                                                   | 鹿が減った理由
@@ -1094,17 +1094,17 @@ q40200072_00:                                                                   
 q40200073_00: A Girl's Inquisitive Mind                                                | 少女の探究心
 q40200074_00: In Search of Delicious Liquor                                            | 美味し酒を求めて
 q40200075_00:                                                                          | 取扱いの無い品
-q40200076_00:                                                                          | 突然の入り用
-q40200077_00:                                                                          | 遠出準備
+q40200076_00: A Sudden Need                                                            | 突然の入り用
+q40200077_00: Preparing for a Trip                                                     | 遠出準備
 q40200078_00:                                                                          | すぐに棚が空になってね
 q40200079_00: Demon-Warding Incense                                                    | 魔物避けのお香
 q40200080_00: Area Order: Farana Resupply                                              | ＜エリアオーダー＞ファーラナ補給
-q40200081_00:                                                                          | 毎日の疲労度調査
+q40200081_00: Researching Each Day's Exhaustion                                        | 毎日の疲労度調査
 q40200082_00: Afraid to Walk Alone                                                     | 一人歩きの不安
 q40200083_00:                                                                          | 騒ぐ野生の血
 q40200084_00:                                                                          | 畑の実りを狙う輩
-q40200085_00:                                                                          | 日頃の討伐努力
-q40200086_00:                                                                          | 憎きハーブ泥棒
+q40200085_00: The Usual Subjugation Efforts                                            | 日頃の討伐努力
+q40200086_00: A Detestable Herb Thief                                                  | 憎きハーブ泥棒
 q40200087_00:                                                                          | 子供たちの安全確保
 q40200088_00: Reawakened Memories                                                      | よみがえる記憶
 q40200089_00: Prayer for Everyone's Safety                                             | みんなの無事を祈って
