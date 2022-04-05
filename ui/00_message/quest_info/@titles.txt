@@ -484,7 +484,7 @@ q21000082_00: A Great Cursed Shadow                                             
 q21000083_00: Death-Defying Area                                                       | 命知らずの地
 q21000084_00: At the End of One's Wandering                                            | 放浪の果てに
 q21000085_00: The Stolen Valuables                                                     | 消えた貴重品
-q21000086_00: High Difficulty: 油断大敵                                                 | 【高難度】油断大敵
+q21000086_00: High Difficulty: Don't Let Your Guard Down                               | 【高難度】油断大敵
 q21000087_00: Door of Dragon Force: A Monstrous Encounter                              | 【竜力の扉】巨魔との邂逅
 q21000088_00: The Good Old Days                                                        | 懐かしき日
 q21000089_00: Call from the Undead                                                     | 亡者の誘い声
@@ -556,7 +556,7 @@ q21016003_00: A Kind Reward                                                     
 q21016004_00: The Young Custodian                                                      | 幼き家守
 q21016005_00: Time Restriction: Dusk Logging                                           | 【時限採取】夕暮の採木道
 q21016006_00: Time Restriction: Fine Weather Harvest                                   | 【時限採取】晴天の採草道
-q21016007_00: Door of Dragon Force: 侵緑の暴虐者                                             | 【竜力の扉】侵緑の暴虐者
+q21016007_00: Door of Dragon Force: Verdant Tyrant                                     | 【竜力の扉】侵緑の暴虐者
 q21016008_00: Flight of the Ravenous Birds                                             | 蝕鳥たちの舞
 q21016009_00: Blue Road to Death                                                       | 蒼き死路
 q21016010_00: Guardian of the Diseased Forest                                          | 病み森の番人
@@ -646,16 +646,16 @@ q22018043_00: A Disturbing Portent                                              
 q22018044_00: Beguiled and Agitated                                                    | 蠱惑のアジテーション
 q22018045_00: The Gatekeeper's Pride                                                   | 門番の矜持
 q22018046_00: Time Restriction: Early Dawn Bug Hunting                                 | 【時限採取】早暁の採虫道
-q22018047_00: Time Restriction: 鬼の居ぬ間の回収道                                       | 【時限採取】鬼の居ぬ間の回収道
+q22018047_00: Time Restriction: Collecting Before the Demons Return                    | 【時限採取】鬼の居ぬ間の回収道
 q22018048_00: Self-Righteous Conviction                                                | 独りよがりの信念
-q22018049_00: High Difficulty: 逆襲の悪鬼軍                                             | 【高難度】逆襲の悪鬼軍
+q22018049_00: High Difficulty: The Demon Army Counterattacks                           | 【高難度】逆襲の悪鬼軍
 q22018050_00: Flames of Darkness                                                       | 暗晦の炎
 q22018051_00: Flickering Shadow of Flame                                               | 徘徊する炎の影
-q22018052_00:                                                                          | 石拾うにも苦難の道程
+q22018052_00: A Difficult Journey                                                      | 石拾うにも苦難の道程
 q22018053_00: Judge of Truth                                                           | 真偽の判定者
 q22018054_00: Unshakeable Anxiety                                                      | 拭えぬ心労
 q22018055_00: Lost in the Haze                                                         | 行方を眩ます陽炎
-q22018056_00: Time Restriction: 鬼の居ぬ間の採灰道                                       | 【時限採取】鬼の居ぬ間の採灰道
+q22018056_00: Time Restriction: Collecting Ash Before the Demons Return                | 【時限採取】鬼の居ぬ間の採灰道
 q22018057_00: The Power to Deter Evil                                                  | 悪を断ち切る抑止力
 q22018058_00: High Difficulty: Rescue Acre Selund                                      | 【高難度】アッカーシェラン各地より救援要請
 q22020000_00: Furious Charge                                                           | 激昂の突進
@@ -689,13 +689,13 @@ q30200007_00: Why Not Test Your Strength?                                       
 q30200008_00: Preserve Public Order                                                    | 治安維持のため
 q30200009_00: Eliminate the Threat                                                     | 脅威排除
 q30200010_00: For the Peace of Lestania                                                | レスタニア平安のため
-q30200011_00:                                                                          | 欲しがりさんからの納品依頼
+q30200011_00: Delivery Request From An Acquisitor                                      | 欲しがりさんからの納品依頼
 q30200012_00: I Want This!                                                             | これが欲しいの！
-q30200013_00:                                                                          | 欲しがりさんからの頼まれ事
+q30200013_00: Request From An Acquisitor                                               | 欲しがりさんからの頼まれ事
 q30200014_00: I Want That!                                                             | あれが欲しいの！
-q30200015_00:                                                                          | モノ好きさんからの納品依頼
+q30200015_00: Delivery Request From A Connoisseur                                      | モノ好きさんからの納品依頼
 q30200016_00: For Stockpiling                                                          | 備蓄のために
-q30200017_00:                                                                          | モノ好きさんからの頼まれ事
+q30200017_00: Request From A Connoisseur                                               | モノ好きさんからの頼まれ事
 q30200018_00: A Friend Needs Advice                                                    | お友達からの相談
 q30200019_00: Request from a Spoiled Girl                                              | 我儘娘の頼み事
 q30200020_00: Resupply Help                                                            | 調達を手伝って
@@ -1015,7 +1015,7 @@ q40000293_00: Deserving Close Inspection                                        
 q40000294_00: An Epicure Seeks Spices                                                  | 美食家のスパイス探し
 q40000295_00: For a Friend with Unusual Tastes                                         | 相当のモノ好き仲間へ
 q40000296_00: A Favor to Ask                                                           | お願いがございます
-q40000297_00:                                                                          | 頼まれてくれるかい？
+q40000297_00: May I Ask A Favor?                                                       | 頼まれてくれるかい？
 q40000298_00: Message for Wasteland Explorers: About Finds                             | 禁域探訪者への連絡：取得物に関して
 q40000299_00: Directions for Wasteland Explorers: About Finds                          | 禁域探訪者への指示：取得物に関して
 q40000300_00: Area Order: Zandora Resupply                                             | ＜エリアオーダー＞ザンドラ補給
@@ -1035,7 +1035,7 @@ q40200013_00: A Bath After Work                                                 
 q40200014_00: Where Is It                                                              | どこにあるんだ
 q40200015_00: Back Alley Market Demand                                                 | 裏マーケット需要
 q40200016_00: Wanting to Help Investigate                                              | 調査を手伝いたくて
-q40200017_00:                                                                          | 魔赤島調査隊のモノ好き仲間へ
+q40200017_00: For the Bloodbane Isle Scouts With Strange Tastes                        | 魔赤島調査隊のモノ好き仲間へ
 q40200018_00:                                                                          | 礼はするって話だぜ
 q40200019_00: Bloodbane Isle Delicacy                                                  | 魔赤島の珍味
 q40200020_00: Area Order: Bloodbane Isle Resupply                                      | ＜エリアオーダー＞魔赤島補給
@@ -1085,8 +1085,8 @@ q40200063_00: Protect the Food Warehouse!                                       
 q40200064_00:                                                                          | 仕入れの邪魔者
 q40200065_00:                                                                          | 食材調達の邪魔者
 q40200066_00: Expectations Unmet                                                       | 思惑が外れて
-q40200067_00:                                                                          | 小さな監視人
-q40200068_00:                                                                          | 古兵の主張
+q40200067_00: The Little Watchman                                                      | 小さな監視人
+q40200068_00: The Veteran's Claim                                                      | 古兵の主張
 q40200069_00: Why the Deer Are Fewer                                                   | 鹿が減った理由
 q40200070_00: Area Order: Farana Demon Extermination                                   | ＜エリアオーダー＞ファーラナ魔物征伐
 q40200071_00:                                                                          | ついでのおつかい
@@ -1765,7 +1765,7 @@ q80201032_00:                                                                   
 q80201033_00:                                                                          | 華麗な遺風
 q80201034_00:                                                                          | 湖畔の神殿
 q80201035_00: The Splendid Soldier                                                     | 華麗なる戦士
-q80201036_00:                                                                          | 砦の威光
+q80201036_00: The Fort's Authority                                                     | 砦の威光
 q80201037_00:                                                                          | 堅牢の砦
 q80201038_00:                                                                          | 立ち塞がるは仁王
 q80201039_00: Unmade Bedding                                                           | 万年床
