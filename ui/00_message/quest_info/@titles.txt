@@ -699,25 +699,25 @@ q30200017_00: Request From A Connoisseur                                        
 q30200018_00: A Friend Needs Advice                                                    | お友達からの相談
 q30200019_00: Request from a Spoiled Girl                                              | 我儘娘の頼み事
 q30200020_00: Resupply Help                                                            | 調達を手伝って
-q30200021_00: High Difficulty: 討伐命令                                                    | 【高難度】討伐命令
-q30200022_00: High Difficulty: 忌避すべき魔物                                                 | 【高難度】忌避すべき魔物
-q30200023_00: High Difficulty: 覚者への試練                                                  | 【高難度】覚者への試練
-q30200024_00: High Difficulty: 脅威は排除せよ                                                 | 【高難度】脅威は排除せよ
-q30200025_00: High Difficulty: 平穏を脅かす者                                                 | 【高難度】平穏を脅かす者
-q30200026_00: High Difficulty: 緊急討伐要請                                                  | 【高難度】緊急討伐要請
-q30200027_00: High Difficulty: 討伐任務                                                    | 【高難度】討伐任務
+q30200021_00: High Difficulty: Subjugation Order                                       | 【高難度】討伐命令
+q30200022_00: High Difficulty: Monsters to Evade                                       | 【高難度】忌避すべき魔物
+q30200023_00: High Difficulty: A Trial for the Arisen                                  | 【高難度】覚者への試練
+q30200024_00: High Difficulty: Eliminate the Threat                                    | 【高難度】脅威は排除せよ
+q30200025_00: High Difficulty: The One Who Threatens the Peace                         | 【高難度】平穏を脅かす者
+q30200026_00: High Difficulty: Emergency Subjugation Demand                            | 【高難度】緊急討伐要請
+q30200027_00: High Difficulty: Subjugation Duty                                        | 【高難度】討伐任務
 q30200028_00: High Difficulty: 覚者への挑戦状                                                 | 【高難度】覚者への挑戦状
-q30200029_00: High Difficulty: 緊急討伐命令                                                  | 【高難度】緊急討伐命令
-q30200030_00: High Difficulty: 強者求む                                                    | 【高難度】強者求む
+q30200029_00: High Difficulty: Emergency Subjugation Order                             | 【高難度】緊急討伐命令
+q30200030_00: High Difficulty: Searching for a Hero                                    | 【高難度】強者求む
 q30200031_00: High Difficulty: 調達のお願い                                                  | 【高難度】調達のお願い
-q30200032_00: High Difficulty: 補給のお願い                                                  | 【高難度】補給のお願い
+q30200032_00: High Difficulty: Replenishment Request                                   | 【高難度】補給のお願い
 q30200033_00: High Difficulty: 物資手配依頼                                                  | 【高難度】物資手配依頼
 q30200034_00: High Difficulty: 採取の代行                                                   | 【高難度】採取の代行
-q30200035_00: High Difficulty: 友達のために                                                  | 【高難度】友達のために
-q30200036_00: High Difficulty: 必要な物資                                                   | 【高難度】必要な物資
-q30200037_00: High Difficulty: 納品依頼                                                    | 【高難度】納品依頼
-q30200038_00: High Difficulty: 緊急補給要請                                                  | 【高難度】緊急補給要請
-q30200039_00: High Difficulty: 物資確保のため                                                 | 【高難度】物資確保のため
+q30200035_00: High Difficulty: For a Friend                                            | 【高難度】友達のために
+q30200036_00: High Difficulty: Necessary Supplies                                      | 【高難度】必要な物資
+q30200037_00: High Difficulty: Delivery Request                                        | 【高難度】納品依頼
+q30200038_00: High Difficulty: Emergency Replenishment Demand                          | 【高難度】緊急補給要請
+q30200039_00: High Difficulty: To Secure Supplies                                      | 【高難度】物資確保のため
 q30200040_00: High Difficulty: 物資調達命令                                                  | 【高難度】物資調達命令
 q40000001_00: Highway Security                                                         | 街道の安全確保
 q40000002_00: Dangerous Beasts                                                         | 害獣駆除
@@ -1101,7 +1101,7 @@ q40200079_00: Demon-Warding Incense                                             
 q40200080_00: Area Order: Farana Resupply                                              | ＜エリアオーダー＞ファーラナ補給
 q40200081_00: Researching Each Day's Exhaustion                                        | 毎日の疲労度調査
 q40200082_00: Afraid to Walk Alone                                                     | 一人歩きの不安
-q40200083_00:                                                                          | 騒ぐ野生の血
+q40200083_00: Blood of the Clamoring Beasts                                            | 騒ぐ野生の血
 q40200084_00:                                                                          | 畑の実りを狙う輩
 q40200085_00: The Usual Subjugation Efforts                                            | 日頃の討伐努力
 q40200086_00: A Detestable Herb Thief                                                  | 憎きハーブ泥棒
@@ -1116,7 +1116,7 @@ q40200094_00:                                                                   
 q40200095_00:                                                                          | 香油が切れる前に
 q40200096_00: The Secret Pet                                                           | 秘密のペット
 q40200097_00: A Request for You                                                        | アナタにお願い
-q40200098_00:                                                                          | 旅人の土産物
+q40200098_00: The Traveler's Souvenirs                                                 | 旅人の土産物
 q40200099_00:                                                                          | 畑にならないアレ
 q40200100_00: Area Order: Morrow Resupply                                              | ＜エリアオーダー＞モロー補給
 q40200101_00:                                                                          | ママの説得材料
@@ -1140,11 +1140,11 @@ q40200118_00:                                                                   
 q40200119_00:                                                                          | シェナのキッチン事情
 q40200120_00: Area Order: Kingal Resupply                                              | ＜エリアオーダー＞キンガル補給
 q40200121_00:                                                                          | 強いヒトへ
-q40200122_00:                                                                          | やつらを怖がらせてやれ
+q40200122_00: Scare Them Off                                                           | やつらを怖がらせてやれ
 q40200123_00:                                                                          | うろつく足音
 q40200124_00:                                                                          | 怖いの、なくそう
-q40200125_00:                                                                          | 怖くて眠れナイ
-q40200126_00:                                                                          | きっとまた来る魔物
+q40200125_00: So Scary I Can't Sleep                                                   | 怖くて眠れナイ
+q40200126_00: Those Monsters Will Be Back                                              | きっとまた来る魔物
 q40200127_00:                                                                          | この稀有なる集落
 q40200128_00:                                                                          | ちゃんと支払う
 q40200129_00:                                                                          | ギョロギョロ覗いてた
@@ -1224,12 +1224,12 @@ q40300004_00:                                                                   
 q40300005_00:                                                                          | とにかく気になるんだよ
 q40300006_00:                                                                          | 傷薬を落とした理由
 q40300007_00:                                                                          | 篝火の下の不安
-q40300008_00:                                                                          | とても大切な用事
+q40300008_00: A Very Important Matter                                                  | とても大切な用事
 q40300009_00:                                                                          | 負傷兵の仇討ち
 q40300010_00: Area Order: 剣持たぬ人々を                                                      | ＜エリアオーダー＞剣持たぬ人々を
 q40300011_00:                                                                          | 小さな隠れ村の物資事情
 q40300012_00:                                                                          | このままじゃ食い詰めちまう
-q40300013_00:                                                                          | へし折れた斧
+q40300013_00: A Broken Axe                                                             | へし折れた斧
 q40300014_00:                                                                          | 馬車の修繕材料
 q40300015_00:                                                                          | 軽くなった手提げ袋
 q40300016_00:                                                                          | 旅路の支えに
@@ -1237,9 +1237,9 @@ q40300017_00:                                                                   
 q40300018_00:                                                                          | 家内の治療に必要なもの
 q40300019_00:                                                                          | 身を守る最低限の手入れ
 q40300020_00: Area Order: ここを拠り所とする人々を                                                 | ＜エリアオーダー＞ここを拠り所とする人々を
-q40300021_00:                                                                          | 夜は冷えるからな
+q40300021_00: It Gets Cold at Night                                                    | 夜は冷えるからな
 q40300022_00:                                                                          | 好奇心は災いの元？
-q40300023_00:                                                                          | 何かせずにはいられないのさ
+q40300023_00: Can't Stand By Idly                                                      | 何かせずにはいられないのさ
 q40300024_00:                                                                          | いたいけな依頼
 q40300025_00:                                                                          | 爽やかな活躍
 q40300026_00:                                                                          | 再起を懸けた双葉
@@ -1308,7 +1308,7 @@ q40300097_00:                                                                   
 q40300098_00:                                                                          | 無限課金討伐9
 q40300099_00:                                                                          | 無限課金討伐10
 q40300100_00:                                                                          | 密な情報共有
-q40300101_00:                                                                          | 誰かヘマしたのか？
+q40300101_00: Did Someone Make a Blunder?                                              | 誰かヘマしたのか？
 q40300102_00:                                                                          | 疲労困憊の盗伐依頼
 q40300103_00:                                                                          | 仮初のアジト、その安全
 q40300104_00:                                                                          | 巣ごと潰したいよな
