@@ -1036,7 +1036,7 @@ q40200014_00: Where Is It                                                       
 q40200015_00: Back Alley Market Demand                                                 | 裏マーケット需要
 q40200016_00: Wanting to Help Investigate                                              | 調査を手伝いたくて
 q40200017_00: For the Bloodbane Isle Scouts With Strange Tastes                        | 魔赤島調査隊のモノ好き仲間へ
-q40200018_00:                                                                          | 礼はするって話だぜ
+q40200018_00: My Thanks                                                                | 礼はするって話だぜ
 q40200019_00: Bloodbane Isle Delicacy                                                  | 魔赤島の珍味
 q40200020_00: Area Order: Bloodbane Isle Resupply                                      | ＜エリアオーダー＞魔赤島補給
 q40200021_00: For A Quiet Rest                                                         | 静かな休息時間のため
@@ -1082,50 +1082,50 @@ q40200060_00: Area Order: Elan Resupply                                         
 q40200061_00: Today's Record                                                           | 本日の記録
 q40200062_00: Precautionary Extermination                                              | 万が一のための駆除
 q40200063_00: Protect the Food Warehouse!                                              | 食糧庫を守れ！
-q40200064_00:                                                                          | 仕入れの邪魔者
-q40200065_00:                                                                          | 食材調達の邪魔者
+q40200064_00: Hindering Restock                                                        | 仕入れの邪魔者
+q40200065_00: Hindering Food Procurement                                               | 食材調達の邪魔者
 q40200066_00: Expectations Unmet                                                       | 思惑が外れて
 q40200067_00: The Little Watchman                                                      | 小さな監視人
 q40200068_00: The Veteran's Claim                                                      | 古兵の主張
 q40200069_00: Why the Deer Are Fewer                                                   | 鹿が減った理由
 q40200070_00: Area Order: Farana Demon Extermination                                   | ＜エリアオーダー＞ファーラナ魔物征伐
-q40200071_00:                                                                          | ついでのおつかい
-q40200072_00:                                                                          | 負けが込んでな
+q40200071_00: An Errand While You're Here                                              | ついでのおつかい
+q40200072_00: A Losing Streak                                                          | 負けが込んでな
 q40200073_00: A Girl's Inquisitive Mind                                                | 少女の探究心
 q40200074_00: In Search of Delicious Liquor                                            | 美味し酒を求めて
 q40200075_00:                                                                          | 取扱いの無い品
 q40200076_00: A Sudden Need                                                            | 突然の入り用
 q40200077_00: Preparing for a Trip                                                     | 遠出準備
-q40200078_00:                                                                          | すぐに棚が空になってね
+q40200078_00: It Flew Off the Shelves                                                  | すぐに棚が空になってね
 q40200079_00: Demon-Warding Incense                                                    | 魔物避けのお香
 q40200080_00: Area Order: Farana Resupply                                              | ＜エリアオーダー＞ファーラナ補給
 q40200081_00: Researching Each Day's Exhaustion                                        | 毎日の疲労度調査
 q40200082_00: Afraid to Walk Alone                                                     | 一人歩きの不安
 q40200083_00: Blood of the Clamoring Beasts                                            | 騒ぐ野生の血
-q40200084_00:                                                                          | 畑の実りを狙う輩
+q40200084_00: They're After the Crops                                                  | 畑の実りを狙う輩
 q40200085_00: The Usual Subjugation Efforts                                            | 日頃の討伐努力
 q40200086_00: A Detestable Herb Thief                                                  | 憎きハーブ泥棒
-q40200087_00:                                                                          | 子供たちの安全確保
+q40200087_00: Ensure the Children's Safety                                             | 子供たちの安全確保
 q40200088_00: Reawakened Memories                                                      | よみがえる記憶
 q40200089_00: Prayer for Everyone's Safety                                             | みんなの無事を祈って
 q40200090_00: Area Order: Morrow Demon Extermination                                   | ＜エリアオーダー＞モロー魔物征伐
-q40200091_00:                                                                          | 在庫管理は万全に
-q40200092_00:                                                                          | 多忙な見張り番
+q40200091_00: Perfect Inventory Management                                             | 在庫管理は万全に
+q40200092_00: The Overworked Watchman                                                  | 多忙な見張り番
 q40200093_00:                                                                          | 見るのも嫌なヤツらの影
 q40200094_00:                                                                          | 虫寄らずの――？
-q40200095_00:                                                                          | 香油が切れる前に
+q40200095_00: Before the Balm Runs Out                                                 | 香油が切れる前に
 q40200096_00: The Secret Pet                                                           | 秘密のペット
 q40200097_00: A Request for You                                                        | アナタにお願い
 q40200098_00: The Traveler's Souvenirs                                                 | 旅人の土産物
-q40200099_00:                                                                          | 畑にならないアレ
+q40200099_00: Not Fit for a Field                                                      | 畑にならないアレ
 q40200100_00: Area Order: Morrow Resupply                                              | ＜エリアオーダー＞モロー補給
 q40200101_00:                                                                          | ママの説得材料
-q40200102_00:                                                                          | 武器さえ持っていれば――
-q40200103_00:                                                                          | 戦士の直感
+q40200102_00: If Only I Had a Weapon                                                   | 武器さえ持っていれば――
+q40200103_00: A Soldier's Intuition                                                    | 戦士の直感
 q40200104_00:                                                                          | 村の警戒は自分たちで
 q40200105_00:                                                                          | ハーブ採取の穴場
-q40200106_00:                                                                          | 何かの呪い？
-q40200107_00:                                                                          | 軽い片付け事
+q40200106_00: Some Kind of Curse?                                                      | 何かの呪い？
+q40200107_00: A Small Matter to Settle                                                 | 軽い片付け事
 q40200108_00:                                                                          | 牛を襲ったのは
 q40200109_00:                                                                          | 門は村の顔
 q40200110_00: Area Order: Kingal Demon Extermination                                   | ＜エリアオーダー＞キンガル魔物征伐
@@ -1133,15 +1133,15 @@ q40200111_00:                                                                   
 q40200112_00:                                                                          | 釣り餌の代替品
 q40200113_00:                                                                          | 独自の火種レシピ
 q40200114_00:                                                                          | 明日のミルクの素
-q40200115_00:                                                                          | みんな大好きミートパイ！
+q40200115_00: Everyone's Favorite Meat Pies!                                           | みんな大好きミートパイ！
 q40200116_00:                                                                          | 採取のためであっても
-q40200117_00:                                                                          | グルメな家畜たち
+q40200117_00: The Gourmet Livestock                                                    | グルメな家畜たち
 q40200118_00:                                                                          | 壁の補修材
 q40200119_00:                                                                          | シェナのキッチン事情
 q40200120_00: Area Order: Kingal Resupply                                              | ＜エリアオーダー＞キンガル補給
 q40200121_00:                                                                          | 強いヒトへ
 q40200122_00: Scare Them Off                                                           | やつらを怖がらせてやれ
-q40200123_00:                                                                          | うろつく足音
+q40200123_00: Loitering Footsteps                                                      | うろつく足音
 q40200124_00:                                                                          | 怖いの、なくそう
 q40200125_00: So Scary I Can't Sleep                                                   | 怖くて眠れナイ
 q40200126_00: Those Monsters Will Be Back                                              | きっとまた来る魔物
@@ -1166,15 +1166,15 @@ q40200144_00:                                                                   
 q40200145_00:                                                                          | 若者の身を案じて
 q40200146_00:                                                                          | さざめく塔内
 q40200147_00:                                                                          | せめてもの安全確保
-q40200148_00:                                                                          | 長老の独り言
+q40200148_00: An Elder's Monologue                                                     | 長老の独り言
 q40200149_00:                                                                          | 塔攻略の打ち合わせ？
 q40200150_00: Area Order: Tower of Ivanos Outskirts Demon Extermination                | ＜エリアオーダー＞イヴァノスの塔近郊魔物征伐
 q40200151_00:                                                                          | 遠路持ち帰った資材
 q40200152_00:                                                                          | 後回しの伝言
 q40200153_00:                                                                          | いたずら者の提案
 q40200154_00:                                                                          | 調達時の携行品
-q40200155_00:                                                                          | 取引上の戦略
-q40200156_00:                                                                          | 磨かれしタイル
+q40200155_00: Transaction Strategies                                                   | 取引上の戦略
+q40200156_00: Scrubbed Tiles                                                           | 磨かれしタイル
 q40200157_00:                                                                          | 楽天家の提案
 q40200158_00:                                                                          | 節約を重ねて
 q40200159_00:                                                                          | 心もとない蓄え
@@ -1213,10 +1213,10 @@ q40201041_00:                                                                   
 q40201042_00:                                                                          | 【週期要請】ミスリウ森林（リンウッド）：物資供給
 q40201043_00:                                                                          | 【週期要請】ボルド鉱山（ホボリック）：治安維持討伐
 q40201044_00:                                                                          | 【週期要請】ボルド鉱山（ホボリック）：物資供給
-q40201045_00:                                                                          | ＜ウィークリー＞長期魔物討伐：テル村
-q40201046_00:                                                                          | ＜ウィークリー＞物資供給：テル村
-q40201047_00:                                                                          | ＜ウィークリー＞長期魔物討伐：テル村
-q40201048_00:                                                                          | ＜ウィークリー＞物資供給：テル村
+q40201045_00: Weekly:                                                                  | ＜ウィークリー＞長期魔物討伐：テル村
+q40201046_00: Weekly:                                                                  | ＜ウィークリー＞物資供給：テル村
+q40201047_00: Weekly:                                                                  | ＜ウィークリー＞長期魔物討伐：テル村
+q40201048_00: Weekly:                                                                  | ＜ウィークリー＞物資供給：テル村
 q40300001_00:                                                                          | 失意の矢不足
 q40300002_00:                                                                          | 小さな隠れ村の警備事情
 q40300003_00:                                                                          | 小物への牽制を頼む
@@ -1226,7 +1226,7 @@ q40300006_00:                                                                   
 q40300007_00:                                                                          | 篝火の下の不安
 q40300008_00: A Very Important Matter                                                  | とても大切な用事
 q40300009_00:                                                                          | 負傷兵の仇討ち
-q40300010_00: Area Order: 剣持たぬ人々を                                                      | ＜エリアオーダー＞剣持たぬ人々を
+q40300010_00: Area Order: Those Without Swords                                         | ＜エリアオーダー＞剣持たぬ人々を
 q40300011_00:                                                                          | 小さな隠れ村の物資事情
 q40300012_00:                                                                          | このままじゃ食い詰めちまう
 q40300013_00: A Broken Axe                                                             | へし折れた斧
@@ -1236,7 +1236,7 @@ q40300016_00:                                                                   
 q40300017_00:                                                                          | 気がかりな背中
 q40300018_00:                                                                          | 家内の治療に必要なもの
 q40300019_00:                                                                          | 身を守る最低限の手入れ
-q40300020_00: Area Order: ここを拠り所とする人々を                                                 | ＜エリアオーダー＞ここを拠り所とする人々を
+q40300020_00: Area Order: Those Who Rely on This Place                                 | ＜エリアオーダー＞ここを拠り所とする人々を
 q40300021_00: It Gets Cold at Night                                                    | 夜は冷えるからな
 q40300022_00:                                                                          | 好奇心は災いの元？
 q40300023_00: Can't Stand By Idly                                                      | 何かせずにはいられないのさ
@@ -1246,7 +1246,7 @@ q40300026_00:                                                                   
 q40300027_00:                                                                          | 弱腰狩人の忠告
 q40300028_00:                                                                          | 現状維持のための協力
 q40300029_00:                                                                          | 扉開きて待つ日々
-q40300030_00: Area Order: 癒しを齎す眠り                                                      | ＜エリアオーダー＞癒しを齎す眠り
+q40300030_00: Area Order: Sleep that Brings Comfort                                    | ＜エリアオーダー＞癒しを齎す眠り
 q40300031_00:                                                                          | 地道に材料集めから
 q40300032_00:                                                                          | 探し求めて一千里
 q40300033_00:                                                                          | 糊口をしのぐ日々
@@ -1406,7 +1406,7 @@ q50400003_00: High Difficulty: 狂宴に舞う蒼影                            
 q50400004_00:                                                                          | 黒き闇の覚者
 q50400005_00: High Difficulty: 黒き闇の覚者                                                  | 【高難度】黒き闇の覚者
 q50400006_00:                                                                          | 理を破壊する力
-q50400007_00: High Difficulty: 理を破壊する力                                                 | 【高難度】理を破壊する力
+q50400007_00: High Difficulty: Power that Destroys Reason                              | 【高難度】理を破壊する力
 q50400008_00:                                                                          | 大竜晶破壊戦：抗う大地
 q50400009_00:                                                                          | 大竜晶破壊戦：奪われた王宮
 q50400010_00:                                                                          | 大竜晶破壊戦：主無き古城
