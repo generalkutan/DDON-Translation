@@ -1052,7 +1052,7 @@ q40200030_00: Area Order: Bloodbane Isle Demon Extermination                    
 q40200031_00: Self-Sufficiency for Health                                              | 自給自足も健康のため
 q40200032_00: If There's Any Left Over                                                 | 余っていたらでいい
 q40200033_00: Just This Once                                                           | 今回は仕方ねぇな
-q40200034_00:                                                                          | 報告に添えるサンプル分
+q40200034_00: The Sample is Just as Reported                                           | 報告に添えるサンプル分
 q40200035_00: Substitute for a Poultice                                                | 湿布の代用品
 q40200036_00: Buyback Prices Up                                                        | 買い取り強化中
 q40200037_00: Fun at Bloodbane Isle                                                    | 魔赤島での楽しみ
@@ -1123,7 +1123,7 @@ q40200101_00:                                                                   
 q40200102_00: If Only I Had a Weapon                                                   | 武器さえ持っていれば――
 q40200103_00: A Soldier's Intuition                                                    | 戦士の直感
 q40200104_00:                                                                          | 村の警戒は自分たちで
-q40200105_00:                                                                          | ハーブ採取の穴場
+q40200105_00: A Secret Place for Picking Herbs                                         | ハーブ採取の穴場
 q40200106_00: Some Kind of Curse?                                                      | 何かの呪い？
 q40200107_00: A Small Matter to Settle                                                 | 軽い片付け事
 q40200108_00:                                                                          | 牛を襲ったのは
@@ -1147,7 +1147,7 @@ q40200125_00: So Scary I Can't Sleep                                            
 q40200126_00: Those Monsters Will Be Back                                              | きっとまた来る魔物
 q40200127_00:                                                                          | この稀有なる集落
 q40200128_00:                                                                          | ちゃんと支払う
-q40200129_00:                                                                          | ギョロギョロ覗いてた
+q40200129_00: Gazing with Goggling Eyes                                                | ギョロギョロ覗いてた
 q40200130_00: Area Order: Manun Demon Extermination                                    | ＜エリアオーダー＞マヌン魔物征伐
 q40200131_00:                                                                          | ダリンのお願い
 q40200132_00:                                                                          | 見張り番は忙しい
@@ -1157,7 +1157,7 @@ q40200135_00:                                                                   
 q40200136_00:                                                                          | ヴォーラのいじわる
 q40200137_00:                                                                          | 最近のお気に入り
 q40200138_00:                                                                          | 独自の修理材
-q40200139_00:                                                                          | ここにあった袋は？
+q40200139_00: Where Did That Bag Go?                                                   | ここにあった袋は？
 q40200140_00: Area Order: Manun Resupply                                               | ＜エリアオーダー＞マヌン補給
 q40200141_00:                                                                          | 今の話を聞かせて
 q40200142_00:                                                                          | 塔にまで響く騒ぎ声
@@ -1171,11 +1171,11 @@ q40200149_00:                                                                   
 q40200150_00: Area Order: Tower of Ivanos Outskirts Demon Extermination                | ＜エリアオーダー＞イヴァノスの塔近郊魔物征伐
 q40200151_00:                                                                          | 遠路持ち帰った資材
 q40200152_00:                                                                          | 後回しの伝言
-q40200153_00:                                                                          | いたずら者の提案
+q40200153_00: A Trickster's Proposal                                                   | いたずら者の提案
 q40200154_00:                                                                          | 調達時の携行品
 q40200155_00: Transaction Strategies                                                   | 取引上の戦略
 q40200156_00: Scrubbed Tiles                                                           | 磨かれしタイル
-q40200157_00:                                                                          | 楽天家の提案
+q40200157_00: An Optimist's Proposal                                                   | 楽天家の提案
 q40200158_00:                                                                          | 節約を重ねて
 q40200159_00:                                                                          | 心もとない蓄え
 q40200160_00: Area Order: Tower of Ivanos Resupply                                     | ＜エリアオーダー＞イヴァノスの塔補給
@@ -1207,8 +1207,8 @@ q40201025_00:                                                                   
 q40201026_00:                                                                          | 【週期要請】魔赤島①：物資供給
 q40201027_00:                                                                          | 【週期要請】魔赤島②：定点調査討伐
 q40201028_00:                                                                          | 【週期要請】魔赤島②：物資供給
-q40201039_00:                                                                          | ＜ウィークリー＞長期魔物討伐：テル村
-q40201040_00:                                                                          | ＜ウィークリー＞物資供給：テル村
+q40201039_00: Weekly:                                                                  | ＜ウィークリー＞長期魔物討伐：テル村
+q40201040_00: Weekly:                                                                  | ＜ウィークリー＞物資供給：テル村
 q40201041_00:                                                                          | 【週期要請】ミスリウ森林（リンウッド）：治安維持討伐
 q40201042_00:                                                                          | 【週期要請】ミスリウ森林（リンウッド）：物資供給
 q40201043_00:                                                                          | 【週期要請】ボルド鉱山（ホボリック）：治安維持討伐
@@ -1397,8 +1397,8 @@ q50301001_00:                                                                   
 q50302000_00: The Inviting Eye: Restricted Stage                                       | 誘う眼　限界域
 q50302001_00:                                                                          | 速移の極み　ジフール砦
 q50303000_00: Flames of Darkness: Restricted Stage                                     | 暗晦の炎　限界域
-q50309000_00:                                                                          | 【３周年記念】白竜杯
-q50309001_00:                                                                          | 【３周年記念】速移の極み
+q50309000_00: 3rd Anniversary: White Dragon Cup                                        | 【３周年記念】白竜杯
+q50309001_00: 3rd Anniversary:                                                         | 【３周年記念】速移の極み
 q50400000_00:                                                                          | 黒界の門番
 q50400001_00: High Difficulty: 黒界の門番                                                   | 【高難度】黒界の門番
 q50400002_00:                                                                          | 狂宴に舞う蒼影
@@ -1569,7 +1569,7 @@ q60208001_00: Betland Plains Trial: Requiem for the Fallen Lady                 
 q60209000_00: Northern Betland Plains Trial: The Turmoil in the Fort                   | バートランド平原北部　試練：砦の騒動
 q60209001_00: Northern Betland Plains Trial: What Lurks in Wastewater                  | バートランド平原北部　試練：廃水廊に潜むもの
 q60210000_00: Zandora Wastelands Trial: A Jet-Black Whirlwind                          | ザンドラ禁域　試練：漆黒のつむじ風
-q60210001_00: Zandora Wastelands Trial: 赤き十字架の礎                                        | ザンドラ禁域　試練：赤き十字架の礎
+q60210001_00: Zandora Wastelands Trial: Cornerstone of the Crimson Cross               | ザンドラ禁域　試練：赤き十字架の礎
 q60211000_00: Eastern Zandora Trial: The Hollow Visitors                               | ザンドラ東部　試練：虚ろの客人
 q60211001_00: Eastern Zandora Trial: The Restless Ancestors                            | ザンドラ東部　試練：眠らずの始祖たち
 q60212000_00: Mergoda Ruins Trial: The Fall of Salon                                   | 亡都メルゴダ　試練：破滅のサロン
@@ -1620,12 +1620,12 @@ q60300042_00:                                                                   
 q60300043_00:                                                                          | 王家再興の褒章４
 q60300044_00: The High Scepter's Heir                                                  | ハイセプターを継ぎし者
 q60300047_00: To the Bitterblack Maze                                                  | 黒呪の迷宮へ
-q60300050_00:                                                                          | 【調理日課】ティネス　調理支給
-q60300051_00:                                                                          | 【調理日課】ロスギル　出張調理
-q60300052_00:                                                                          | 【調理日課】ピレモス　悪童保護
-q60300060_00:                                                                          | 【参謀日課】展望城　任務指示
-q60300061_00:                                                                          | 【参謀日課】メフィテ　弱点研究
-q60300062_00:                                                                          | 【参謀日課】盗賊アジト　情報収集
+q60300050_00: Daily Cooking:                                                           | 【調理日課】ティネス　調理支給
+q60300051_00: Daily Cooking:                                                           | 【調理日課】ロスギル　出張調理
+q60300052_00: Daily Cooking:                                                           | 【調理日課】ピレモス　悪童保護
+q60300060_00: Daily Council:                                                           | 【参謀日課】展望城　任務指示
+q60300061_00: Daily Council:                                                           | 【参謀日課】メフィテ　弱点研究
+q60300062_00: Daily Council:                                                           | 【参謀日課】盗賊アジト　情報収集
 q60300100_00: Adventure Spot Guide: Rathnite Foothills I                               | 冒険スポットの手引き：ラスニテ山麓１
 q60300101_00: Adventure Spot Guide: Rathnite Foothills II                              | 冒険スポットの手引き：ラスニテ山麓２
 q60300102_00: Adventure Spot Guide: Rathnite Foothills III                             | 冒険スポットの手引き：ラスニテ山麓３
@@ -1786,15 +1786,15 @@ q80301003_00:                                                                   
 q80301004_00:                                                                          | 遠望の灼溶山
 q80301005_00: Lovely Waterfall of the Hidden Village                                   | 隠れ村の麗滝
 q80301006_00: Take a picture with your pawn at the specified location using Photo Mode | フォトモードを使い、指定の場所でポーンと写真を撮る
-q80301050_00:                                                                          | 【調理日課】ティネス　調理支給
-q80301051_00:                                                                          | 【調理日課】ロスギル　出張調理
-q80301052_00:                                                                          | 【調理日課】ピレモス　悪童保護
-q80301060_00:                                                                          | 【参謀日課】展望城　任務指示
-q80301061_00:                                                                          | 【参謀日課】メフィテ　素材研究
-q80301062_00:                                                                          | 【参謀日課】盗賊アジト　情報収集
-q80301070_00:                                                                          | 【諜報日課】王都メガド　追跡捜査
-q80301071_00:                                                                          | 【諜報日課】エリ警備塔　資材回収
-q80301072_00:                                                                          | 【諜報日課】メガドシス高地　仲間救出
+q80301050_00: Daily Cooking:                                                           | 【調理日課】ティネス　調理支給
+q80301051_00: Daily Cooking:                                                           | 【調理日課】ロスギル　出張調理
+q80301052_00: Daily Cooking:                                                           | 【調理日課】ピレモス　悪童保護
+q80301060_00: Daily Council:                                                           | 【参謀日課】展望城　任務指示
+q80301061_00: Daily Council:                                                           | 【参謀日課】メフィテ　素材研究
+q80301062_00: Daily Council:                                                           | 【参謀日課】盗賊アジト　情報収集
+q80301070_00: Daily Espionage:                                                         | 【諜報日課】王都メガド　追跡捜査
+q80301071_00: Daily Espionage:                                                         | 【諜報日課】エリ警備塔　資材回収
+q80301072_00: Daily Espionage:                                                         | 【諜報日課】メガドシス高地　仲間救出
 q90000100_00: Battle for Gritten Fort                                                  | グリッテン砦攻防戦
 q90000101_00: Battle for Gritten Fort                                                  | グリッテン砦攻防戦
 q90000102_00: Battle for Gritten Fort                                                  | グリッテン砦攻防戦
