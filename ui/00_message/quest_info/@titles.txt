@@ -1889,7 +1889,7 @@ q90040001_00: Acre Selund War Chronicles                                        
 q90040002_00: Acre Selund War Chronicles                                               | アッカーシェラン追懐戦記
 q90040003_00: Acre Selund War Chronicles                                               | アッカーシェラン追懐戦記
 q90040004_00: Acre Selund War Chronicles                                               | アッカーシェラン追懐戦記
-q90040005_00:                                                                          | 獣の将との戦い：ダクレイム砦
-q90040006_00:                                                                          | 骸の将との戦い：ジフール砦
-q90040007_00:                                                                          | 戦の将との戦い：展望城
-q90040008_00:                                                                          | 闇の将との戦い：霧の森
+q90040005_00: Battle with the Beast Commander: Dacreim Fortress                        | 獣の将との戦い：ダクレイム砦
+q90040006_00: Battle with the Undead Commander: Jifule Fortress                        | 骸の将との戦い：ジフール砦
+q90040007_00: Battle with the War Commander: Lookout Castle                            | 戦の将との戦い：展望城
+q90040008_00: Battle with the Dark Commander: The Forest of Mist                       | 闇の将との戦い：霧の森
