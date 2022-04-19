@@ -1588,7 +1588,7 @@ q60215001_00: Farana Plains Trial: The Honor Guards                             
 q60215002_00: Farana Plains Trial: Approaching Echoes of Doom                          | ファーラナ平原　試練：響き来る滅亡
 q60215003_00: Farana Plains Trial: Another Branch                                      | ファーラナ平原　試練：もう一つの枝
 q60215004_00: Farana Plains Trial: 轟鳴せし滅亡                                              | ファーラナ平原　試練：轟鳴せし滅亡
-q60215005_00: Farana Plains Trial: The Shadow on the opposite Shore                    | ファーラナ平原　試練：対岸に揺らぐ影
+q60215005_00: Farana Plains Trial: The Shadow on the Opposite Shore                    | ファーラナ平原　試練：対岸に揺らぐ影
 q60215006_00: Farana Plains Trial: The Mystery of the Red Light                        | ファーラナ平原　試練：赤き妖光の謎
 q60216000_00: Morrow Forest Trial: Flocking Apprehension                               | モロー樹林　試練：群れ、蔓延する不安
 q60216001_00: Morrow Forest Trial: For Our Altered Kin                                 | モロー樹林　試練：変わり果てた同胞に宛てて
