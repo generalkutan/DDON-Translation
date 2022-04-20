@@ -1776,14 +1776,14 @@ q80201043_00:                                                                   
 q80201044_00:                                                                          | とある錬金実験室
 q80201045_00: Dragon Falls                                                             | ドラゴンフォール
 q80201046_00:                                                                          | 遺りし噴水
-q80201047_00:                                                                          | 巨大機兵と共に
-q80201048_00:                                                                          | 王宮の面影
-q80201049_00:                                                                          | 安眠の虜
-q80301000_00:                                                                          | 知略集う場所
+q80201047_00: With the Goliath                                                         | 巨大機兵と共に
+q80201048_00: Image of the Palace                                                      | 王宮の面影
+q80201049_00: The Peacefully Sleeping Captive                                          | 安眠の虜
+q80301000_00: Where the Resourceful Gather                                             | 知略集う場所
 q80301001_00: The Ancient Empress Statue                                               | いにしえの女帝像
-q80301002_00:                                                                          | 華麗なる舞姫
-q80301003_00:                                                                          | 堂々たる名華
-q80301004_00:                                                                          | 遠望の灼溶山
+q80301002_00: The Grand Dancing Girl                                                   | 華麗なる舞姫
+q80301003_00: The Magnificent Flower                                                   | 堂々たる名華
+q80301004_00: View of the Melting Mountain                                             | 遠望の灼溶山
 q80301005_00: Lovely Waterfall of the Hidden Village                                   | 隠れ村の麗滝
 q80301006_00: Take a picture with your pawn at the specified location using Photo Mode | フォトモードを使い、指定の場所でポーンと写真を撮る
 q80301050_00: Daily Cooking:                                                           | 【調理日課】ティネス　調理支給
