@@ -1581,13 +1581,13 @@ q60214000_00: Elan Water Grove Trial: The Howling from the Dark                 
 q60214001_00: Elan Water Grove Trial: A Friend's Trail                                 | エラン水林　試練：友の足取り
 q60214002_00: Elan Water Grove Trial: A Silvery Shadow Swoops                          | エラン水林　試練：舞い降りし銀影
 q60214003_00: Elan Water Grove Trial: Green Delusions                                  | エラン水林　試練：緑の妄執
-q60214004_00: Elan Water Grove Trial: 荒れ狂う青樹                                           | エラン水林　試練：荒れ狂う青樹
+q60214004_00: Elan Water Grove Trial: Rampaging Green Tree                             | エラン水林　試練：荒れ狂う青樹
 q60214006_00: Elan Water Grove Trial: Tidings of Turmoil                               | エラン水林　試練：無秩序なる訪れ
 q60215000_00: Farana Plains Trial: The Old Ways                                        | ファーラナ平原　試練：過ぎし日の教えを
 q60215001_00: Farana Plains Trial: The Honor Guards                                    | ファーラナ平原　試練：栄誉の守り番
 q60215002_00: Farana Plains Trial: Approaching Echoes of Doom                          | ファーラナ平原　試練：響き来る滅亡
 q60215003_00: Farana Plains Trial: Another Branch                                      | ファーラナ平原　試練：もう一つの枝
-q60215004_00: Farana Plains Trial: 轟鳴せし滅亡                                              | ファーラナ平原　試練：轟鳴せし滅亡
+q60215004_00: Farana Plains Trial: Thundering Downfall                                 | ファーラナ平原　試練：轟鳴せし滅亡
 q60215005_00: Farana Plains Trial: The Shadow on the opposite Shore                    | ファーラナ平原　試練：対岸に揺らぐ影
 q60215006_00: Farana Plains Trial: The Mystery of the Red Light                        | ファーラナ平原　試練：赤き妖光の謎
 q60216000_00: Morrow Forest Trial: Flocking Apprehension                               | モロー樹林　試練：群れ、蔓延する不安
@@ -1614,18 +1614,18 @@ q60300023_00: To the Heroic Spirit Sleeping Path: Urteca District               
 q60300030_00: Save the Royal Family Cook                                               | 王家を救いし料理番
 q60300031_00: Rescue the Genius Commander                                              | 奪還を指揮せし異才者
 q60300032_00: Expose the Dark Side to the One Operating behind the Scenes              | 暗部を暴きし暗躍者
-q60300040_00:                                                                          | 王家再興の褒章１
-q60300041_00:                                                                          | 王家再興の褒章２
-q60300042_00:                                                                          | 王家再興の褒章３
-q60300043_00:                                                                          | 王家再興の褒章４
+q60300040_00: Restored Medal of the Royal Family I                                     | 王家再興の褒章１
+q60300041_00: Restored Medal of the Royal Family II                                    | 王家再興の褒章２
+q60300042_00: Restored Medal of the Royal Family III                                   | 王家再興の褒章３
+q60300043_00: Restored Medal of the Royal Family IV                                    | 王家再興の褒章４
 q60300044_00: The High Scepter's Heir                                                  | ハイセプターを継ぎし者
 q60300047_00: To the Bitterblack Maze                                                  | 黒呪の迷宮へ
-q60300050_00: Daily Cooking: Thines                                                           | 【調理日課】ティネス　調理支給
-q60300051_00: Daily Cooking: Rosguill                                                          | 【調理日課】ロスギル　出張調理
-q60300052_00: Daily Cooking: Piremoth                                                          | 【調理日課】ピレモス　悪童保護
-q60300060_00: Daily Council: Lookout Castle                                                          | 【参謀日課】展望城　任務指示
-q60300061_00: Daily Council: Mefite                                                          | 【参謀日課】メフィテ　弱点研究
-q60300062_00: Daily Council: Bandit Hideout                                                          | 【参謀日課】盗賊アジト　情報収集
+q60300050_00: Daily Cooking: Thines - Cooking Supply                                   | 【調理日課】ティネス　調理支給
+q60300051_00: Daily Cooking: Rosguill - Cooking Trip                                   | 【調理日課】ロスギル　出張調理
+q60300052_00: Daily Cooking: Piremoth - Babysitting Brats                              | 【調理日課】ピレモス　悪童保護
+q60300060_00: Daily Council: Lookout Castle - Instructions for Duty                    | 【参謀日課】展望城　任務指示
+q60300061_00: Daily Council: Mefite - Research Materials                               | 【参謀日課】メフィテ　弱点研究
+q60300062_00: Daily Council: Bandit Hideout - Collect Information                      | 【参謀日課】盗賊アジト　情報収集
 q60300100_00: Adventure Spot Guide: Rathnite Foothills I                               | 冒険スポットの手引き：ラスニテ山麓１
 q60300101_00: Adventure Spot Guide: Rathnite Foothills II                              | 冒険スポットの手引き：ラスニテ山麓２
 q60300102_00: Adventure Spot Guide: Rathnite Foothills III                             | 冒険スポットの手引き：ラスニテ山麓３
@@ -1681,19 +1681,19 @@ q60301056_00: A Merry Christmas Spreading Cheer (2)                             
 q60310000_00: Ghost Wail Collection: Suddenly a Different World                        | 【鬼哭蒐集】異世界は突然に
 q60310001_00: Ghost Wail Collection: Quest of Overlord                                 | 【鬼哭蒐集】クエストオブオーバーロード
 q60310002_00: Ghost Wail Collection: For Overlord Collaboration Set                    | 【鬼哭蒐集】オバロコラボセット用
-q60318000_00: Rathnite Foothills Trial: 捕虜奪還                                           | ラスニテ山麓　試練：捕虜奪還
+q60318000_00: Rathnite Foothills Trial: Recover Prisoners of War                       | ラスニテ山麓　試練：捕虜奪還
 q60318001_00: Rathnite Foothills: Rescue Request                                       | ラスニテ山麓　救援要請
 q60318002_00: Rathnite Foothills: Liberation Army Support                              | ラスニテ山麓　解放軍支援
 q60318003_00: Rathnite Foothills: Defeat Enemy Pursuit                                 | ラスニテ山麓　敵追跡討伐
 q60318004_00: Rathnite Foothills: Prevent Enemy Attack                                 | ラスニテ山麓　敵襲撃阻止
-q60318010_00: Rathnite Foothills Trial: 魔軍襲撃探知                                         | ラスニテ山麓　試練：魔軍襲撃探知
+q60318010_00: Rathnite Foothills Trial: Detect the Demon Army's Attack                 | ラスニテ山麓　試練：魔軍襲撃探知
 q60318011_00: Demon Army Tank Catoblepas                                               | 魔軍戦車カトブレパス
-q60319000_00: Feryana Wilderness Trial: 調達部隊支援                                         | フェルヤナ荒原　試練：調達部隊支援
+q60319000_00: Feryana Wilderness Trial: Support the Provision Forces                   | フェルヤナ荒原　試練：調達部隊支援
 q60319001_00: Feryana Wilderness: Defeat Enemy Pursuit                                 | フェルヤナ荒原　敵追跡討伐
 q60319002_00: Feryana Wilderness: Liberation Army Support                              | フェルヤナ荒原　解放軍支援
 q60319003_00: Feryana Wilderness: Rescue Request                                       | フェルヤナ荒原　救援要請
 q60319004_00: Feryana Wilderness: Prevent Enemy Attack                                 | フェルヤナ荒原　敵襲撃阻止
-q60319010_00: Feryana Wilderness Trial: 魔の封印捜査                                         | フェルヤナ荒原　試練：魔の封印捜査
+q60319010_00: Feryana Wilderness Trial: Investigate Sealed Evil                        | フェルヤナ荒原　試練：魔の封印捜査
 q60319011_00: Into the Ancient Darkness                                                | 古代の闇の中へ
 q60320000_00: Megadosys Plateau Trial: Material Procurement                            | メガドシス高地　試練：資材調達
 q60320001_00: Megadosys Plateau: Rescue Request                                        | メガドシス高地　救援要請
@@ -1703,24 +1703,24 @@ q60320004_00: Megadosys Plateau: Prevent Enemy Attack                           
 q60320010_00: Megadosys Plateau Trial: Shadow of Heresy                                | メガドシス高地　試練：異端の影
 q60320011_00: The Ruler Overwhelmed by Power                                           | 力に呑まれし王者
 q60320013_00: Berserk: In the Flow of Causality...                                     | 【ベルセルク】因果の流れの中に――
-q60321000_00: Urteca Mountains Trial: 原種の縄張り                                           | ウルテカ山岳　試練：原種の縄張り
-q60321001_00: Urteca Mountains Trial: 痛刻の洞                                             | ウルテカ山岳　試練：痛刻の洞
-q60321002_00: Urteca Mountains Trial: 静かな抗戦跡                                           | ウルテカ山岳　試練：静かな抗戦跡
-q60321003_00: Urteca Mountains Trial: 原初の集落                                            | ウルテカ山岳　試練：原初の集落
-q60321004_00: Urteca Mountains Trial: 建設資材集積場                                          | ウルテカ山岳　試練：建設資材集積場
-q60321010_00: Urteca Mountains Trial: 闇の滴り                                             | ウルテカ山岳　試練：闇の滴り
-q60321011_00:                                                                          | 彼方より堕ち呼ばれし魔道
-q60340000_00:                                                                          | 一目ごとに想いを込めて＜１＞
-q60340001_00:                                                                          | 一目ごとに想いを込めて＜２＞
-q60340002_00:                                                                          | 麗しの君へ綴る文＜１＞
-q60340003_00:                                                                          | 麗しの君へ綴る文＜２＞
+q60321000_00: Urteca Mountains Trial: Territory of the Ancestors                       | ウルテカ山岳　試練：原種の縄張り
+q60321001_00: Urteca Mountains Trial: The Scarred Cavern                               | ウルテカ山岳　試練：痛刻の洞
+q60321002_00: Urteca Mountains Trial: Quiet Battlefield of the Resistance              | ウルテカ山岳　試練：静かな抗戦跡
+q60321003_00: Urteca Mountains Trial: Primitive Settlement                             | ウルテカ山岳　試練：原初の集落
+q60321004_00: Urteca Mountains Trial: Construction Materials Collection Spot           | ウルテカ山岳　試練：建設資材集積場
+q60321010_00: Urteca Mountains Trial: A Trickle in the Darkness                        | ウルテカ山岳　試練：闇の滴り
+q60321011_00: Magick Called to the Deepest Depths                                      | 彼方より堕ち呼ばれし魔道
+q60340000_00: All Your Feelings in One Glance I                                        | 一目ごとに想いを込めて＜１＞
+q60340001_00: All Your Feelings in One Glance II                                       | 一目ごとに想いを込めて＜２＞
+q60340002_00: A Letter to You, My Beloved I                                            | 麗しの君へ綴る文＜１＞
+q60340003_00: A Letter to You, My Beloved II                                           | 麗しの君へ綴る文＜２＞
 q60350000_00: Strange Happening at Guardknock Fortress                                 | ガルドノック砦の異変
-q60350001_00:                                                                          | 神殿を狙うは――
-q60350002_00:                                                                          | 次代の竜となる者へ
+q60350001_00: Aiming for the Temple                                                    | 神殿を狙うは――
+q60350002_00: To The One Who Will Become the Next Dragon                               | 次代の竜となる者へ
 q61000000_00: Information on Wild Hunt                                                 | ワイルドハントのご案内
-q61000001_00:                                                                          | 竜の力を帯びた武具＜１＞
-q61000002_00:                                                                          | 竜の力を帯びた武具＜２＞
-q61000003_00:                                                                          | 竜スキル解放PQ③
+q61000001_00: Arms With the Power of the Dragon I                                      | 竜の力を帯びた武具＜１＞
+q61000002_00: Arms With the Power of the Dragon II                                     | 竜の力を帯びた武具＜２＞
+q61000003_00: Unlocking Dragon Skills                                                  | 竜スキル解放PQ③
 q61000004_00: Information on Bitterblack Maze Abyss                                    | 黒呪の迷宮　深淵への案内
 q61000005_00: Unending Darkness                                                        | 途絶えぬ闇
 q80200000_00: Elementary Vegetable Dish                                                | 野菜料理初級編
@@ -1751,17 +1751,17 @@ q80201018_00: Recruiting Already?                                               
 q80201019_00: The Hidden Chamber                                                       | 秘密の部屋
 q80201020_00: The Light of Defense                                                     | 堅守の灯火
 q80201021_00: Engulfed in Phosphorescence                                              | 燐光に包まれて
-q80201022_00:                                                                          | 遺風残香
+q80201022_00: Traces of Old Customs                                                    | 遺風残香
 q80201023_00: Courtesy Visit                                                           | ご機嫌を伺いに
 q80201024_00: A Soothing Hot Bath                                                      | 和みの湯
 q80201025_00: Shining Junk                                                             | 光るガラクタ
-q80201026_00:                                                                          | 豪奢な隠れ家
-q80201027_00:                                                                          | 古城の眺望
+q80201026_00: A Luxurious Hideout                                                      | 豪奢な隠れ家
+q80201027_00: View from the Old Castle                                                 | 古城の眺望
 q80201028_00: Won't Intrude                                                            | お邪魔はしません
 q80201029_00: Seeking the Strange Inias                                                | イニアスの猟奇
-q80201030_00:                                                                          | 密猟駆逐作戦
+q80201030_00: Poaching Elimination Strategy                                            | 密猟駆逐作戦
 q80201031_00: The Lovely Archer                                                        | 可憐なる射手
-q80201032_00:                                                                          | 秘境の温泉
+q80201032_00: A Secluded Hot Spring                                                    | 秘境の温泉
 q80201033_00: Magnificent Traditions                                                   | 華麗な遺風
 q80201034_00: The Temple on the Lake                                                   | 湖畔の神殿
 q80201035_00: The Splendid Soldier                                                     | 華麗なる戦士
@@ -1786,15 +1786,15 @@ q80301003_00: The Magnificent Flower                                            
 q80301004_00: View of the Melting Mountain                                             | 遠望の灼溶山
 q80301005_00: Lovely Waterfall of the Hidden Village                                   | 隠れ村の麗滝
 q80301006_00: Take a picture with your pawn at the specified location using Photo Mode | フォトモードを使い、指定の場所でポーンと写真を撮る
-q80301050_00: Daily Cooking: Thines                                                          | 【調理日課】ティネス　調理支給
-q80301051_00: Daily Cooking: Rosguill                                                          | 【調理日課】ロスギル　出張調理
-q80301052_00: Daily Cooking: Piremoth                                                          | 【調理日課】ピレモス　悪童保護
-q80301060_00: Daily Council: Lookout Castle                                                          | 【参謀日課】展望城　任務指示
-q80301061_00: Daily Council: Mefite                                                          | 【参謀日課】メフィテ　素材研究
-q80301062_00: Daily Council: Bandit Hideout                                                          | 【参謀日課】盗賊アジト　情報収集
-q80301070_00: Daily Espionage: Royal Capital Megado                                                        | 【諜報日課】王都メガド　追跡捜査
-q80301071_00: Daily Espionage: Eli Guard Tower                                                        | 【諜報日課】エリ警備塔　資材回収
-q80301072_00: Daily Espionage: Megadosys Plateau                                                        | 【諜報日課】メガドシス高地　仲間救出
+q80301050_00: Daily Cooking: Thines - Cooking Supply                                   | 【調理日課】ティネス　調理支給
+q80301051_00: Daily Cooking: Rosguill - Cooking Trip                                   | 【調理日課】ロスギル　出張調理
+q80301052_00: Daily Cooking: Piremoth - Babysitting Brats                              | 【調理日課】ピレモス　悪童保護
+q80301060_00: Daily Council: Lookout Castle - Instructions for Duty                    | 【参謀日課】展望城　任務指示
+q80301061_00: Daily Council: Mefite - Research Materials                               | 【参謀日課】メフィテ　素材研究
+q80301062_00: Daily Council: Bandit Hideout - Collect Information                      | 【参謀日課】盗賊アジト　情報収集
+q80301070_00: Daily Espionage: Royal Capital Megado - Follow Clues                     | 【諜報日課】王都メガド　追跡捜査
+q80301071_00: Daily Espionage: Eli Guard Tower - Recover Materials                     | 【諜報日課】エリ警備塔　資材回収
+q80301072_00: Daily Espionage: Megadosys Plateau - Rescue Friends                      | 【諜報日課】メガドシス高地　仲間救出
 q90000100_00: Battle for Gritten Fort                                                  | グリッテン砦攻防戦
 q90000101_00: Battle for Gritten Fort                                                  | グリッテン砦攻防戦
 q90000102_00: Battle for Gritten Fort                                                  | グリッテン砦攻防戦
