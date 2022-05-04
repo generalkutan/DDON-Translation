@@ -1119,34 +1119,34 @@ q40200097_00: A Request for You                                                 
 q40200098_00: The Traveler's Souvenirs                                                 | 旅人の土産物
 q40200099_00: Not Fit for a Field                                                      | 畑にならないアレ
 q40200100_00: Area Order: Morrow Resupply                                              | ＜エリアオーダー＞モロー補給
-q40200101_00:                                                                          | ママの説得材料
+q40200101_00: The Material to Persuade Mama                                           | ママの説得材料
 q40200102_00: If Only I Had a Weapon                                                   | 武器さえ持っていれば――
 q40200103_00: A Soldier's Intuition                                                    | 戦士の直感
 q40200104_00:                                                                          | 村の警戒は自分たちで
 q40200105_00: A Secret Place for Picking Herbs                                         | ハーブ採取の穴場
 q40200106_00: Some Kind of Curse?                                                      | 何かの呪い？
 q40200107_00: A Small Matter to Settle                                                 | 軽い片付け事
-q40200108_00:                                                                          | 牛を襲ったのは
-q40200109_00:                                                                          | 門は村の顔
+q40200108_00: What Attacked the Cows                                                   | 牛を襲ったのは
+q40200109_00: The Gate Is the Face of the Village                                      | 門は村の顔
 q40200110_00: Area Order: Kingal Demon Extermination                                   | ＜エリアオーダー＞キンガル魔物征伐
-q40200111_00:                                                                          | 遊んでみたいだけ
-q40200112_00:                                                                          | 釣り餌の代替品
+q40200111_00: Just Want to Play                                                        | 遊んでみたいだけ
+q40200112_00: A Substitute for Fishing Bait                                            | 釣り餌の代替品
 q40200113_00:                                                                          | 独自の火種レシピ
 q40200114_00:                                                                          | 明日のミルクの素
 q40200115_00: Everyone's Favorite Meat Pies!                                           | みんな大好きミートパイ！
-q40200116_00:                                                                          | 採取のためであっても
+q40200116_00: Even If It's For Harvesting                                              | 採取のためであっても
 q40200117_00: The Gourmet Livestock                                                    | グルメな家畜たち
 q40200118_00:                                                                          | 壁の補修材
 q40200119_00:                                                                          | シェナのキッチン事情
 q40200120_00: Area Order: Kingal Resupply                                              | ＜エリアオーダー＞キンガル補給
-q40200121_00:                                                                          | 強いヒトへ
+q40200121_00: To A Strong Person                                                       | 強いヒトへ
 q40200122_00: Scare Them Off                                                           | やつらを怖がらせてやれ
 q40200123_00: Loitering Footsteps                                                      | うろつく足音
 q40200124_00:                                                                          | 怖いの、なくそう
 q40200125_00: So Scary I Can't Sleep                                                   | 怖くて眠れナイ
 q40200126_00: Those Monsters Will Be Back                                              | きっとまた来る魔物
-q40200127_00:                                                                          | この稀有なる集落
-q40200128_00:                                                                          | ちゃんと支払う
+q40200127_00: This Rare Settlement                                                     | この稀有なる集落
+q40200128_00: I'll Pay Up                                                              | ちゃんと支払う
 q40200129_00: Gazing with Goggling Eyes                                                | ギョロギョロ覗いてた
 q40200130_00: Area Order: Manun Demon Extermination                                    | ＜エリアオーダー＞マヌン魔物征伐
 q40200131_00: Darin's Request                                                          | ダリンのお願い
@@ -1155,7 +1155,7 @@ q40200133_00:                                                                   
 q40200134_00:                                                                          | 寄る年波には
 q40200135_00:                                                                          | 集落を守る罠作り
 q40200136_00:                                                                          | ヴォーラのいじわる
-q40200137_00:                                                                          | 最近のお気に入り
+q40200137_00: Recent Favorites                                                         | 最近のお気に入り
 q40200138_00:                                                                          | 独自の修理材
 q40200139_00: Where Did That Bag Go?                                                   | ここにあった袋は？
 q40200140_00: Area Order: Manun Resupply                                               | ＜エリアオーダー＞マヌン補給
@@ -1270,7 +1270,7 @@ q40300050_00: Area Order: Eli Guard Tower Demon Extermination                   
 q40300051_00: If This Is The Place                                                     | 拠点であるならば
 q40300052_00:                                                                          | 一般人の保護に備え
 q40300053_00:                                                                          | 膏薬の材料集め
-q40300054_00:                                                                          | 日々の痛みに耐え
+q40300054_00: Enduring Daily Pains                                                     | 日々の痛みに耐え
 q40300055_00:                                                                          | 備え付けの寝台修理
 q40300056_00:                                                                          | 次回立ち寄り時の依頼
 q40300057_00:                                                                          | 見知らぬ旅人のメモ
@@ -1279,16 +1279,16 @@ q40300059_00:                                                                   
 q40300060_00: Area Order: Eli Guard Tower Resupply                                     | ＜エリアオーダー＞エリ警備塔補給
 q40300061_00:                                                                          | 小物なりの挑発？
 q40300062_00:                                                                          | いつの日か採れたてを
-q40300063_00:                                                                          | 心優しき姉の目線
-q40300064_00:                                                                          | 手負いの後始末
+q40300063_00: The Kind Sister's Gaze                                                   | 心優しき姉の目線
+q40300064_00: Dealing With the Wounded                                                 | 手負いの後始末
 q40300065_00:                                                                          | 大都市への道のり
 q40300066_00:                                                                          | 勇む若者からの挑戦状
-q40300067_00:                                                                          | 素材を抱えて
+q40300067_00: Holding Materials                                                        | 素材を抱えて
 q40300068_00:                                                                          | 老賢者の心配の種
-q40300069_00:                                                                          | あの大ケガ人の噂
+q40300069_00: Rumors of the Gravely Wounded Person                                     | あの大ケガ人の噂
 q40300070_00: Area Order: Fortress City Megado Demon Extermination                     | ＜エリアオーダー＞城塞都市メガド魔物征伐
 q40300071_00:                                                                          | 明日を生きる小さな手
-q40300072_00:                                                                          | 友人からの頼まれごと
+q40300072_00: Request from a Friend                                                    | 友人からの頼まれごと
 q40300073_00:                                                                          | 可憐な強射手
 q40300074_00:                                                                          | 新・メガドの名物メニュー
 q40300075_00:                                                                          | お洒落は挑戦
@@ -1307,7 +1307,7 @@ q40300096_00:                                                                   
 q40300097_00:                                                                          | 無限課金討伐8
 q40300098_00:                                                                          | 無限課金討伐9
 q40300099_00:                                                                          | 無限課金討伐10
-q40300100_00:                                                                          | 密な情報共有
+q40300100_00: Secretly Sharing Information                                             | 密な情報共有
 q40300101_00: Did Someone Make a Blunder?                                              | 誰かヘマしたのか？
 q40300102_00:                                                                          | 疲労困憊の盗伐依頼
 q40300103_00:                                                                          | 仮初のアジト、その安全
