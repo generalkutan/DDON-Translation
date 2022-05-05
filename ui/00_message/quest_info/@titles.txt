@@ -1269,19 +1269,19 @@ q40300049_00:                                                                   
 q40300050_00: Area Order: Eli Guard Tower Demon Extermination                          | ＜エリアオーダー＞エリ警備塔魔物征伐
 q40300051_00: If This Is The Place                                                     | 拠点であるならば
 q40300052_00:                                                                          | 一般人の保護に備え
-q40300053_00:                                                                          | 膏薬の材料集め
+q40300053_00: Collecting Ingredients for Ointment                                      | 膏薬の材料集め
 q40300054_00: Enduring Daily Pains                                                     | 日々の痛みに耐え
-q40300055_00:                                                                          | 備え付けの寝台修理
-q40300056_00:                                                                          | 次回立ち寄り時の依頼
-q40300057_00:                                                                          | 見知らぬ旅人のメモ
-q40300058_00:                                                                          | 出発した兵士の置き手紙
-q40300059_00:                                                                          | 隠れ潜む日々で
+q40300055_00: Repairing the Provided Beds                                              | 備え付けの寝台修理
+q40300056_00: A Request for Next Time You Drop By                                      | 次回立ち寄り時の依頼
+q40300057_00: Note from a Traveling Stranger                                           | 見知らぬ旅人のメモ
+q40300058_00: Letter Left by the Departing Soldier                                     | 出発した兵士の置き手紙
+q40300059_00: Days Spent in Hiding                                                     | 隠れ潜む日々で
 q40300060_00: Area Order: Eli Guard Tower Resupply                                     | ＜エリアオーダー＞エリ警備塔補給
 q40300061_00:                                                                          | 小物なりの挑発？
 q40300062_00:                                                                          | いつの日か採れたてを
 q40300063_00: The Kind Sister's Gaze                                                   | 心優しき姉の目線
 q40300064_00: Dealing With the Wounded                                                 | 手負いの後始末
-q40300065_00:                                                                          | 大都市への道のり
+q40300065_00: Journey to the Great City                                                | 大都市への道のり
 q40300066_00:                                                                          | 勇む若者からの挑戦状
 q40300067_00: Holding Materials                                                        | 素材を抱えて
 q40300068_00:                                                                          | 老賢者の心配の種
@@ -1312,12 +1312,12 @@ q40300101_00: Did Someone Make a Blunder?                                       
 q40300102_00:                                                                          | 疲労困憊の盗伐依頼
 q40300103_00:                                                                          | 仮初のアジト、その安全
 q40300104_00:                                                                          | 巣ごと潰したいよな
-q40300105_00:                                                                          | 盗賊たちのゲーム
+q40300105_00: The Bandits' Game                                                        | 盗賊たちのゲーム
 q40300106_00:                                                                          | 若き紅一点の努力
 q40300107_00:                                                                          | 馴染みの狩人の不幸
 q40300108_00:                                                                          | 北の盗賊アジト、危機
 q40300109_00: Area Order: Northern Bandit Hideout Demon Extermination                  | ＜エリアオーダー＞北の盗賊のアジト魔物征伐
-q40300110_00:                                                                          | 隠れアジトに咲く花
+q40300110_00: Flower Blooming in the Hideout                                           | 隠れアジトに咲く花
 q40300111_00:                                                                          | マルテンのメモ書き
 q40300112_00: A Mistake Managing Materials                                             | 資材の管理ミス
 q40300113_00: An Ailing Piglet                                                         | 病気の子ブタ
