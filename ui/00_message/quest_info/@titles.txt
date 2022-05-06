@@ -1131,13 +1131,13 @@ q40200109_00: The Gate Is the Face of the Village                               
 q40200110_00: Area Order: Kingal Demon Extermination                                   | ＜エリアオーダー＞キンガル魔物征伐
 q40200111_00: Just Want to Play                                                        | 遊んでみたいだけ
 q40200112_00: A Substitute for Fishing Bait                                            | 釣り餌の代替品
-q40200113_00:                                                                          | 独自の火種レシピ
-q40200114_00:                                                                          | 明日のミルクの素
+q40200113_00: A Unique Firestarter Recipe                                              | 独自の火種レシピ
+q40200114_00: Base for Tomorrow's Milk                                                 | 明日のミルクの素
 q40200115_00: Everyone's Favorite Meat Pies!                                           | みんな大好きミートパイ！
 q40200116_00: Even If It's For Harvesting                                              | 採取のためであっても
 q40200117_00: The Gourmet Livestock                                                    | グルメな家畜たち
-q40200118_00:                                                                          | 壁の補修材
-q40200119_00:                                                                          | シェナのキッチン事情
+q40200118_00: Repair Materials for the Wall                                            | 壁の補修材
+q40200119_00: The State of Shenna's Kitchen                                            | シェナのキッチン事情
 q40200120_00: Area Order: Kingal Resupply                                              | ＜エリアオーダー＞キンガル補給
 q40200121_00: To A Strong Person                                                       | 強いヒトへ
 q40200122_00: Scare Them Off                                                           | やつらを怖がらせてやれ
@@ -1150,73 +1150,73 @@ q40200128_00: I'll Pay Up                                                       
 q40200129_00: Gazing with Goggling Eyes                                                | ギョロギョロ覗いてた
 q40200130_00: Area Order: Manun Demon Extermination                                    | ＜エリアオーダー＞マヌン魔物征伐
 q40200131_00: Darin's Request                                                          | ダリンのお願い
-q40200132_00:                                                                          | 見張り番は忙しい
-q40200133_00:                                                                          | ハフの秘密の畑
-q40200134_00:                                                                          | 寄る年波には
-q40200135_00:                                                                          | 集落を守る罠作り
-q40200136_00:                                                                          | ヴォーラのいじわる
+q40200132_00: The Guard is Busy                                                        | 見張り番は忙しい
+q40200133_00: Huff's Secret Field                                                      | ハフの秘密の畑
+q40200134_00: For Oncoming Age                                                         | 寄る年波には
+q40200135_00: A Trap to Protect the Village                                            | 集落を守る罠作り
+q40200136_00: Vora's Mean Trick                                                        | ヴォーラのいじわる
 q40200137_00: Recent Favorites                                                         | 最近のお気に入り
-q40200138_00:                                                                          | 独自の修理材
+q40200138_00: Unique Repair Materials                                                  | 独自の修理材
 q40200139_00: Where Did That Bag Go?                                                   | ここにあった袋は？
 q40200140_00: Area Order: Manun Resupply                                               | ＜エリアオーダー＞マヌン補給
 q40200141_00:                                                                          | 今の話を聞かせて
-q40200142_00:                                                                          | 塔にまで響く騒ぎ声
-q40200143_00:                                                                          | 収穫量減少の訳
-q40200144_00:                                                                          | 壊された籠
-q40200145_00:                                                                          | 若者の身を案じて
-q40200146_00:                                                                          | さざめく塔内
-q40200147_00:                                                                          | せめてもの安全確保
+q40200142_00: A Clamor That Reaches the Tower                                          | 塔にまで響く騒ぎ声
+q40200143_00: Reason for the Reduced Harvest                                           | 収穫量減少の訳
+q40200144_00: A Broken Basket                                                          | 壊された籠
+q40200145_00: Worried for the Young Ones                                               | 若者の身を案じて
+q40200146_00: Commotion in the Tower                                                   | さざめく塔内
+q40200147_00: Ensuring Safety if Nothing Else                                          | せめてもの安全確保
 q40200148_00: An Elder's Monologue                                                     | 長老の独り言
 q40200149_00:                                                                          | 塔攻略の打ち合わせ？
 q40200150_00: Area Order: Tower of Ivanos Outskirts Demon Extermination                | ＜エリアオーダー＞イヴァノスの塔近郊魔物征伐
 q40200151_00:                                                                          | 遠路持ち帰った資材
-q40200152_00:                                                                          | 後回しの伝言
+q40200152_00: A Message Postponed                                                      | 後回しの伝言
 q40200153_00: A Trickster's Proposal                                                   | いたずら者の提案
 q40200154_00:                                                                          | 調達時の携行品
 q40200155_00: Transaction Strategies                                                   | 取引上の戦略
 q40200156_00: Scrubbed Tiles                                                           | 磨かれしタイル
 q40200157_00: An Optimist's Proposal                                                   | 楽天家の提案
 q40200158_00:                                                                          | 節約を重ねて
-q40200159_00:                                                                          | 心もとない蓄え
+q40200159_00: Anxious Hoarding                                                         | 心もとない蓄え
 q40200160_00: Area Order: Tower of Ivanos Resupply                                     | ＜エリアオーダー＞イヴァノスの塔補給
-q40201001_00:                                                                          | 【週期要請】ハイデル平原：治安維持討伐
-q40201002_00:                                                                          | 【週期要請】ハイデル平原：物資供給
-q40201003_00:                                                                          | 【週期要請】ブリア海岸：治安維持討伐
-q40201004_00:                                                                          | 【週期要請】ブリア海岸：物資供給
-q40201005_00:                                                                          | 【週期要請】ミスリウ森林：治安維持討伐
-q40201006_00:                                                                          | 【週期要請】ミスリウ森林：物資供給
-q40201007_00:                                                                          | 【週期要請】ボルド鉱山：治安維持討伐
-q40201008_00:                                                                          | 【週期要請】ボルド鉱山：物資供給
-q40201009_00:                                                                          | 【週期要請】ミスリウ森林深部：治安維持討伐
-q40201010_00:                                                                          | 【週期要請】ミスリウ森林深部：物資供給
-q40201011_00:                                                                          | 【週期要請】バートランド平原：治安維持討伐
-q40201012_00:                                                                          | 【週期要請】バートランド平原：物資供給
-q40201013_00:                                                                          | 【週期要請】ダウ渓谷：治安維持討伐
-q40201014_00:                                                                          | 【週期要請】ダウ渓谷：物資供給
-q40201015_00:                                                                          | 【週期要請】ディナン深層林：治安維持討伐
-q40201016_00:                                                                          | 【週期要請】ディナン深層林：物資供給
-q40201017_00:                                                                          | 【週期要請】バートランド平原北部：治安維持討伐
-q40201018_00:                                                                          | 【週期要請】バートランド平原北部：物資供給
-q40201019_00:                                                                          | 【週期要請】ザンドラ東部：治安維持討伐
-q40201020_00:                                                                          | 【週期要請】ザンドラ東部：物資供給
-q40201021_00:                                                                          | 【週期要請】ザンドラ禁域：治安維持討伐
-q40201022_00:                                                                          | 【週期要請】ザンドラ禁域：物資供給
-q40201023_00:                                                                          | 【週期要請】亡都メルゴダ：治安維持討伐
-q40201024_00:                                                                          | 【週期要請】亡都メルゴダ：物資供給
-q40201025_00:                                                                          | 【週期要請】魔赤島①：定点調査討伐
-q40201026_00:                                                                          | 【週期要請】魔赤島①：物資供給
-q40201027_00:                                                                          | 【週期要請】魔赤島②：定点調査討伐
-q40201028_00:                                                                          | 【週期要請】魔赤島②：物資供給
-q40201039_00: Weekly:                                                                  | ＜ウィークリー＞長期魔物討伐：テル村
-q40201040_00: Weekly:                                                                  | ＜ウィークリー＞物資供給：テル村
-q40201041_00:                                                                          | 【週期要請】ミスリウ森林（リンウッド）：治安維持討伐
-q40201042_00:                                                                          | 【週期要請】ミスリウ森林（リンウッド）：物資供給
-q40201043_00:                                                                          | 【週期要請】ボルド鉱山（ホボリック）：治安維持討伐
-q40201044_00:                                                                          | 【週期要請】ボルド鉱山（ホボリック）：物資供給
-q40201045_00: Weekly:                                                                  | ＜ウィークリー＞長期魔物討伐：テル村
-q40201046_00: Weekly:                                                                  | ＜ウィークリー＞物資供給：テル村
-q40201047_00: Weekly:                                                                  | ＜ウィークリー＞長期魔物討伐：テル村
-q40201048_00: Weekly:                                                                  | ＜ウィークリー＞物資供給：テル村
+q40201001_00: Periodic Request: Hidell Plains -                                                                   | 【週期要請】ハイデル平原：治安維持討伐
+q40201002_00: Periodic Request: Hidell Plains -                                                                | 【週期要請】ハイデル平原：物資供給
+q40201003_00: Periodic Request: Breya Coast -                                                                        | 【週期要請】ブリア海岸：治安維持討伐
+q40201004_00: Periodic Request: Breya Coast -                                                                         | 【週期要請】ブリア海岸：物資供給
+q40201005_00: Periodic Request: Mysree Forest -                                                                        | 【週期要請】ミスリウ森林：治安維持討伐
+q40201006_00: Periodic Request: Mysree Forest -                                                                        | 【週期要請】ミスリウ森林：物資供給
+q40201007_00: Periodic Request: Volden Mines -                                                                        | 【週期要請】ボルド鉱山：治安維持討伐
+q40201008_00: Periodic Request: Volden Mines -                                                                        | 【週期要請】ボルド鉱山：物資供給
+q40201009_00: Periodic Request: Mysree Grove -                                                                        | 【週期要請】ミスリウ森林深部：治安維持討伐
+q40201010_00: Periodic Request: Mysree Grove -                                                                        | 【週期要請】ミスリウ森林深部：物資供給
+q40201011_00: Periodic Request: Betland Plains -                                                                        | 【週期要請】バートランド平原：治安維持討伐
+q40201012_00: Periodic Request: Betland Plains -                                                                        | 【週期要請】バートランド平原：物資供給
+q40201013_00: Periodic Request: Dowe Valley -                                                                        | 【週期要請】ダウ渓谷：治安維持討伐
+q40201014_00: Periodic Request: Dowe Valley -                                                                        | 【週期要請】ダウ渓谷：物資供給
+q40201015_00: Periodic Request: Deenan Woods -                                                                        | 【週期要請】ディナン深層林：治安維持討伐
+q40201016_00: Periodic Request: Deenan Woods -                                                                         | 【週期要請】ディナン深層林：物資供給
+q40201017_00: Periodic Request: Northern Betland Plains -                                                            | 【週期要請】バートランド平原北部：治安維持討伐
+q40201018_00: Periodic Request: Northern Betland Plains -                                                            | 【週期要請】バートランド平原北部：物資供給
+q40201019_00: Periodic Request: Eastern Zandora -                                                                        | 【週期要請】ザンドラ東部：治安維持討伐
+q40201020_00: Periodic Request: Eastern Zandora -                                                                        | 【週期要請】ザンドラ東部：物資供給
+q40201021_00: Periodic Request: Zandora Wastelands -                                                                    | 【週期要請】ザンドラ禁域：治安維持討伐
+q40201022_00: Periodic Request: Zandora Wastelands -                                                                     | 【週期要請】ザンドラ禁域：物資供給
+q40201023_00: Periodic Request: Mergoda Ruins -                                                                        | 【週期要請】亡都メルゴダ：治安維持討伐
+q40201024_00: Periodic Request: Mergoda Ruins -                                                                        | 【週期要請】亡都メルゴダ：物資供給
+q40201025_00: Periodic Request: Bloodbane Isle I -                                                                        | 【週期要請】魔赤島①：定点調査討伐
+q40201026_00: Periodic Request: Bloodbane Isle I -                                                                        | 【週期要請】魔赤島①：物資供給
+q40201027_00: Periodic Request: Bloodbane Isle II -                                                                        | 【週期要請】魔赤島②：定点調査討伐
+q40201028_00: Periodic Request: Bloodbane Isle II -                                                                        | 【週期要請】魔赤島②：物資供給
+q40201039_00: Weekly: - Tel Village                                                                 | ＜ウィークリー＞長期魔物討伐：テル村
+q40201040_00: Weekly: - Tel Village                                                                  | ＜ウィークリー＞物資供給：テル村
+q40201041_00: Periodic Request: Mysree Forest (Lynwood) -                                                          | 【週期要請】ミスリウ森林（リンウッド）：治安維持討伐
+q40201042_00: Periodic Request: Mysree Forest (Lynwood) -                                                             | 【週期要請】ミスリウ森林（リンウッド）：物資供給
+q40201043_00: Periodic Request: Volden Mines (Hobolic) -                                                           | 【週期要請】ボルド鉱山（ホボリック）：治安維持討伐
+q40201044_00: Periodic Request: Volden Mines (Hobolic) -                                                              | 【週期要請】ボルド鉱山（ホボリック）：物資供給
+q40201045_00: Weekly: - Tel Village                                                                  | ＜ウィークリー＞長期魔物討伐：テル村
+q40201046_00: Weekly: - Tel Village                                                                  | ＜ウィークリー＞物資供給：テル村
+q40201047_00: Weekly: - Tel Village                                                                  | ＜ウィークリー＞長期魔物討伐：テル村
+q40201048_00: Weekly: - Tel Village                                                                  | ＜ウィークリー＞物資供給：テル村
 q40300001_00:                                                                          | 失意の矢不足
 q40300002_00:                                                                          | 小さな隠れ村の警備事情
 q40300003_00:                                                                          | 小物への牽制を頼む
