@@ -1290,12 +1290,12 @@ q40300070_00: Area Order: Fortress City Megado Demon Extermination              
 q40300071_00:                                                                          | 明日を生きる小さな手
 q40300072_00: Request from a Friend                                                    | 友人からの頼まれごと
 q40300073_00:                                                                          | 可憐な強射手
-q40300074_00:                                                                          | 新・メガドの名物メニュー
+q40300074_00: New Megado's Menu of Specialties                                         | 新・メガドの名物メニュー
 q40300075_00:                                                                          | お洒落は挑戦
 q40300076_00:                                                                          | 外れの空き家と小さな善意
-q40300077_00:                                                                          | 依頼に理由が必要か？
+q40300077_00: Do I Need a Reason to Ask For Help?                                      | 依頼に理由が必要か？
 q40300078_00:                                                                          | 鍛冶屋の思いつき
-q40300079_00:                                                                          | 荷馬車の事故
+q40300079_00: A Wagon Accident                                                         | 荷馬車の事故
 q40300080_00: Area Order: Fortress City Megado Resupply                                | ＜エリアオーダー＞城塞都市メガド補給
 q40300090_00: Special Mission                                                          | スペシャル任務
 q40300091_00:                                                                          | 無限課金討伐2
@@ -1310,19 +1310,19 @@ q40300099_00:                                                                   
 q40300100_00: Secretly Sharing Information                                             | 密な情報共有
 q40300101_00: Did Someone Make a Blunder?                                              | 誰かヘマしたのか？
 q40300102_00:                                                                          | 疲労困憊の盗伐依頼
-q40300103_00:                                                                          | 仮初のアジト、その安全
+q40300103_00: Safety at the Temporary Hideout                                          | 仮初のアジト、その安全
 q40300104_00:                                                                          | 巣ごと潰したいよな
 q40300105_00: The Bandits' Game                                                        | 盗賊たちのゲーム
-q40300106_00:                                                                          | 若き紅一点の努力
-q40300107_00:                                                                          | 馴染みの狩人の不幸
-q40300108_00:                                                                          | 北の盗賊アジト、危機
+q40300106_00: The Young Woman's Efforts                                                | 若き紅一点の努力
+q40300107_00: The Familiar Hunter's Misfortune                                         | 馴染みの狩人の不幸
+q40300108_00: Crisis at the Northern Bandit Hideout                                    | 北の盗賊アジト、危機
 q40300109_00: Area Order: Northern Bandit Hideout Demon Extermination                  | ＜エリアオーダー＞北の盗賊のアジト魔物征伐
 q40300110_00: Flower Blooming in the Hideout                                           | 隠れアジトに咲く花
-q40300111_00:                                                                          | マルテンのメモ書き
+q40300111_00: Marten's Notes                                                           | マルテンのメモ書き
 q40300112_00: A Mistake Managing Materials                                             | 資材の管理ミス
 q40300113_00: An Ailing Piglet                                                         | 病気の子ブタ
-q40300114_00:                                                                          | アジトの寝床事情
-q40300115_00:                                                                          | 盗賊手製の腹薬
+q40300114_00: The Beds at the Hideout                                                  | アジトの寝床事情
+q40300115_00: The Bandits' Homemade Stomach Medicine                                   | 盗賊手製の腹薬
 q40300116_00:                                                                          | どちらかというと、募集
 q40300117_00:                                                                          | 今ばかりは勝手を慎み
 q40300118_00:                                                                          | 宙に浮いた買取り金
