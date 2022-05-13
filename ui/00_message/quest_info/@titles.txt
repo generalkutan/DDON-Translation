@@ -1111,18 +1111,18 @@ q40200089_00: Prayer for Everyone's Safety                                      
 q40200090_00: Area Order: Morrow Demon Extermination                                   | ＜エリアオーダー＞モロー魔物征伐
 q40200091_00: Perfect Inventory Management                                             | 在庫管理は万全に
 q40200092_00: The Overworked Watchman                                                  | 多忙な見張り番
-q40200093_00:                                                                          | 見るのも嫌なヤツらの影
-q40200094_00:                                                                          | 虫寄らずの――？
+q40200093_00: Shadows of That Damned Lot                                               | 見るのも嫌なヤツらの影
+q40200094_00: Is It Bug Repellent?                                                     | 虫寄らずの――？
 q40200095_00: Before the Balm Runs Out                                                 | 香油が切れる前に
 q40200096_00: The Secret Pet                                                           | 秘密のペット
 q40200097_00: A Request for You                                                        | アナタにお願い
 q40200098_00: The Traveler's Souvenirs                                                 | 旅人の土産物
 q40200099_00: Not Fit for a Field                                                      | 畑にならないアレ
 q40200100_00: Area Order: Morrow Resupply                                              | ＜エリアオーダー＞モロー補給
-q40200101_00: The Material to Persuade Mama                                           | ママの説得材料
+q40200101_00: The Material to Persuade Mama                                            | ママの説得材料
 q40200102_00: If Only I Had a Weapon                                                   | 武器さえ持っていれば――
 q40200103_00: A Soldier's Intuition                                                    | 戦士の直感
-q40200104_00:                                                                          | 村の警戒は自分たちで
+q40200104_00: Watch Over the Village Yourselves                                        | 村の警戒は自分たちで
 q40200105_00: A Secret Place for Picking Herbs                                         | ハーブ採取の穴場
 q40200106_00: Some Kind of Curse?                                                      | 何かの呪い？
 q40200107_00: A Small Matter to Settle                                                 | 軽い片付け事
@@ -1142,7 +1142,7 @@ q40200120_00: Area Order: Kingal Resupply                                       
 q40200121_00: To A Strong Person                                                       | 強いヒトへ
 q40200122_00: Scare Them Off                                                           | やつらを怖がらせてやれ
 q40200123_00: Loitering Footsteps                                                      | うろつく足音
-q40200124_00:                                                                          | 怖いの、なくそう
+q40200124_00: No More Being Scared                                                     | 怖いの、なくそう
 q40200125_00: So Scary I Can't Sleep                                                   | 怖くて眠れナイ
 q40200126_00: Those Monsters Will Be Back                                              | きっとまた来る魔物
 q40200127_00: This Rare Settlement                                                     | この稀有なる集落
@@ -1159,7 +1159,7 @@ q40200137_00: Recent Favorites                                                  
 q40200138_00: Unique Repair Materials                                                  | 独自の修理材
 q40200139_00: Where Did That Bag Go?                                                   | ここにあった袋は？
 q40200140_00: Area Order: Manun Resupply                                               | ＜エリアオーダー＞マヌン補給
-q40200141_00:                                                                          | 今の話を聞かせて
+q40200141_00: Tell Me What You Said Just Now                                           | 今の話を聞かせて
 q40200142_00: A Clamor That Reaches the Tower                                          | 塔にまで響く騒ぎ声
 q40200143_00: Reason for the Reduced Harvest                                           | 収穫量減少の訳
 q40200144_00: A Broken Basket                                                          | 壊された籠
@@ -1167,16 +1167,16 @@ q40200145_00: Worried for the Young Ones                                        
 q40200146_00: Commotion in the Tower                                                   | さざめく塔内
 q40200147_00: Ensuring Safety if Nothing Else                                          | せめてもの安全確保
 q40200148_00: An Elder's Monologue                                                     | 長老の独り言
-q40200149_00:                                                                          | 塔攻略の打ち合わせ？
+q40200149_00: A Briefing to Capture the Tower?                                         | 塔攻略の打ち合わせ？
 q40200150_00: Area Order: Tower of Ivanos Outskirts Demon Extermination                | ＜エリアオーダー＞イヴァノスの塔近郊魔物征伐
-q40200151_00:                                                                          | 遠路持ち帰った資材
+q40200151_00: Materials Brought Back from Afar                                         | 遠路持ち帰った資材
 q40200152_00: A Message Postponed                                                      | 後回しの伝言
 q40200153_00: A Trickster's Proposal                                                   | いたずら者の提案
-q40200154_00:                                                                          | 調達時の携行品
+q40200154_00: Carrying One's Provisions                                                | 調達時の携行品
 q40200155_00: Transaction Strategies                                                   | 取引上の戦略
 q40200156_00: Scrubbed Tiles                                                           | 磨かれしタイル
 q40200157_00: An Optimist's Proposal                                                   | 楽天家の提案
-q40200158_00:                                                                          | 節約を重ねて
+q40200158_00: Scrimping and Saving                                                     | 節約を重ねて
 q40200159_00: Anxious Hoarding                                                         | 心もとない蓄え
 q40200160_00: Area Order: Tower of Ivanos Resupply                                     | ＜エリアオーダー＞イヴァノスの塔補給
 q40201001_00: Periodic Request: Hidell Plains - Subjugation for Public Order           | 【週期要請】ハイデル平原：治安維持討伐
@@ -1217,7 +1217,7 @@ q40201045_00: Weekly: Long-Term Demon Subjugation - Tel Village                 
 q40201046_00: Weekly: Supply Provision - Tel Village                                   | ＜ウィークリー＞物資供給：テル村
 q40201047_00: Weekly: Long-Term Demon Subjugation - Tel Village                        | ＜ウィークリー＞長期魔物討伐：テル村
 q40201048_00: Weekly: Supply Provision - Tel Village                                   | ＜ウィークリー＞物資供給：テル村
-q40300001_00:                                                                          | 失意の矢不足
+q40300001_00: Out of Arrows and Frustrated                                             | 失意の矢不足
 q40300002_00: Security at the Little Hidden Village                                    | 小さな隠れ村の警備事情
 q40300003_00: Take It Easy on the Lightweights                                         | 小物への牽制を頼む
 q40300004_00: A Journey with the Children                                              | 子連れの道中
@@ -1231,24 +1231,24 @@ q40300011_00: Supplies for the Little Hidden Village                            
 q40300012_00: At This Rate I'll Go Broke                                               | このままじゃ食い詰めちまう
 q40300013_00: A Broken Axe                                                             | へし折れた斧
 q40300014_00: Repair Supplies for the Carriage                                         | 馬車の修繕材料
-q40300015_00:                                                                          | 軽くなった手提げ袋
+q40300015_00: My Shopping Bag Grows Lighter                                            | 軽くなった手提げ袋
 q40300016_00: To Support the Journey                                                   | 旅路の支えに
-q40300017_00:                                                                          | 気がかりな背中
+q40300017_00: A Worried Posture                                                        | 気がかりな背中
 q40300018_00: The Cure for My Wife                                                     | 家内の治療に必要なもの
-q40300019_00:                                                                          | 身を守る最低限の手入れ
+q40300019_00: The Minimum Needed to Protect Yourself                                   | 身を守る最低限の手入れ
 q40300020_00: Area Order: Those Who Rely on This Place                                 | ＜エリアオーダー＞ここを拠り所とする人々を
 q40300021_00: It Gets Cold at Night                                                    | 夜は冷えるからな
 q40300022_00: Curiosity, the Root of Misfortune?                                       | 好奇心は災いの元？
 q40300023_00: Can't Stand By Idly                                                      | 何かせずにはいられないのさ
 q40300024_00: An Innocent Request                                                      | いたいけな依頼
 q40300025_00: Invigorating Activity                                                    | 爽やかな活躍
-q40300026_00:                                                                          | 再起を懸けた双葉
-q40300027_00:                                                                          | 弱腰狩人の忠告
-q40300028_00:                                                                          | 現状維持のための協力
-q40300029_00:                                                                          | 扉開きて待つ日々
+q40300026_00: Betting on a Comeback                                                    | 再起を懸けた双葉
+q40300027_00: The Weak-Willed Hunter's Advice                                          | 弱腰狩人の忠告
+q40300028_00: Uniting to Preserve the Status Quo                                       | 現状維持のための協力
+q40300029_00: Waiting By an Open Door                                                  | 扉開きて待つ日々
 q40300030_00: Area Order: Sleep that Brings Comfort                                    | ＜エリアオーダー＞癒しを齎す眠り
-q40300031_00:                                                                          | 地道に材料集めから
-q40300032_00:                                                                          | 探し求めて一千里
+q40300031_00: Start With Steadily Collecting Materials                                 | 地道に材料集めから
+q40300032_00: Searching Over Vast Distances                                            | 探し求めて一千里
 q40300033_00:                                                                          | 糊口をしのぐ日々
 q40300034_00:                                                                          | 品切れ品の素材
 q40300035_00:                                                                          | 些細で大きな悩み
@@ -1259,7 +1259,7 @@ q40300039_00: Impatient Eyes                                                    
 q40300040_00: Area Order: May It Reach Those Who Need It                               | ＜エリアオーダー＞求める人へ行き渡るよう
 q40300041_00:                                                                          | ロスからの注意書き
 q40300042_00: Letter Left by a Traveler                                                | 旅人の置き手紙
-q40300043_00:                                                                          | ユーリからの注意書き
+q40300043_00: A Cautionary Note from Yuri                                              | ユーリからの注意書き
 q40300044_00:                                                                          | 商隊の荷物を守れ
 q40300045_00:                                                                          | 故郷を一目
 q40300046_00: Please Tell Doris                                                        | ドリスに伝えてくれ
@@ -1327,15 +1327,15 @@ q40300116_00:                                                                   
 q40300117_00:                                                                          | 今ばかりは勝手を慎み
 q40300118_00:                                                                          | 宙に浮いた買取り金
 q40300119_00: Area Order: Northern Bandit Hideout Resupply                             | ＜エリアオーダー＞北の盗賊のアジト補給
-q40300120_00:                                                                          | 遠路、重い荷を背負って
-q40300121_00:                                                                          | 運動がてらの軽い討伐
+q40300120_00: Bearing a Heavy Burden a Long Way                                        | 遠路、重い荷を背負って
+q40300121_00: Exercise Doubling as Subjugation                                         | 運動がてらの軽い討伐
 q40300122_00:                                                                          | 野営地の周辺の魔物
 q40300123_00:                                                                          | 並の戦力では敵わない
 q40300124_00:                                                                          | 軽やかな身のこなし
 q40300125_00:                                                                          | 諦観に撤退する狩人
 q40300126_00: The Poet Who Holds His Tongue                                            | 口を噤む詩人
 q40300127_00:                                                                          | 急務！　巣作りの妨害
-q40300128_00:                                                                          | 周辺魔物の動向確認
+q40300128_00: Following the Nearby Demons' Movements                                   | 周辺魔物の動向確認
 q40300129_00: Area Order: Firefall Mountain Campsite Demon Extermination               | ＜エリアオーダー＞火垂れ山野営地魔物征伐
 q40300130_00:                                                                          | 消えた目当ての休息所
 q40300131_00: Transport Costs from the Hideout                                         | アジトからの運搬コスト
