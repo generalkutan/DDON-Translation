@@ -1249,26 +1249,26 @@ q40300029_00: Waiting By an Open Door                                           
 q40300030_00: Area Order: Sleep that Brings Comfort                                    | ＜エリアオーダー＞癒しを齎す眠り
 q40300031_00: Start With Steadily Collecting Materials                                 | 地道に材料集めから
 q40300032_00: Searching Over Vast Distances                                            | 探し求めて一千里
-q40300033_00:                                                                          | 糊口をしのぐ日々
-q40300034_00:                                                                          | 品切れ品の素材
-q40300035_00:                                                                          | 些細で大きな悩み
-q40300036_00:                                                                          | 帰路での災難
+q40300033_00: Living from Hand to Mouth                                                | 糊口をしのぐ日々
+q40300034_00: Materials for Out of Stock Goods                                         | 品切れ品の素材
+q40300035_00: A Trifling and Great Dilemma                                             | 些細で大きな悩み
+q40300036_00: Disaster on the Way Home                                                 | 帰路での災難
 q40300037_00: A Secret Pleasure                                                        | 秘密の楽しみ
 q40300038_00: I'll Buy From You!                                                       | 買取りいたします！
 q40300039_00: Impatient Eyes                                                           | 待ち焦がれる瞳
 q40300040_00: Area Order: May It Reach Those Who Need It                               | ＜エリアオーダー＞求める人へ行き渡るよう
-q40300041_00:                                                                          | ロスからの注意書き
+q40300041_00: A Cautionary Note from Ross                                              | ロスからの注意書き
 q40300042_00: Letter Left by a Traveler                                                | 旅人の置き手紙
 q40300043_00: A Cautionary Note from Yuri                                              | ユーリからの注意書き
-q40300044_00:                                                                          | 商隊の荷物を守れ
-q40300045_00:                                                                          | 故郷を一目
+q40300044_00: Protect the Caravan's Goods                                              | 商隊の荷物を守れ
+q40300045_00: A Glimpse of My Hometown                                                 | 故郷を一目
 q40300046_00: Please Tell Doris                                                        | ドリスに伝えてくれ
 q40300047_00: A Note in Scrawled Handwriting                                           | 乱れた筆跡のメモ
-q40300048_00:                                                                          | エリ警備塔の皆さまへ――
-q40300049_00:                                                                          | 護衛兵の急務
+q40300048_00: To All in Eli Guard Tower                                                | エリ警備塔の皆さまへ――
+q40300049_00: The Bodyguard's Urgent Mission                                           | 護衛兵の急務
 q40300050_00: Area Order: Eli Guard Tower Demon Extermination                          | ＜エリアオーダー＞エリ警備塔魔物征伐
 q40300051_00: If This Is The Place                                                     | 拠点であるならば
-q40300052_00:                                                                          | 一般人の保護に備え
+q40300052_00: Preparing to Protect the Commoners                                       | 一般人の保護に備え
 q40300053_00: Collecting Ingredients for Ointment                                      | 膏薬の材料集め
 q40300054_00: Enduring Daily Pains                                                     | 日々の痛みに耐え
 q40300055_00: Repairing the Provided Beds                                              | 備え付けの寝台修理
