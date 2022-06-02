@@ -1278,7 +1278,7 @@ q40300058_00: Letter Left by the Departing Soldier                              
 q40300059_00: Days Spent in Hiding                                                     | 隠れ潜む日々で
 q40300060_00: Area Order: Eli Guard Tower Resupply                                     | ＜エリアオーダー＞エリ警備塔補給
 q40300061_00:                                                                          | 小物なりの挑発？
-q40300062_00:                                                                          | いつの日か採れたてを
+q40300062_00: A Fresh Harvest Someday                                                  | いつの日か採れたてを
 q40300063_00: The Kind Sister's Gaze                                                   | 心優しき姉の目線
 q40300064_00: Dealing With the Wounded                                                 | 手負いの後始末
 q40300065_00: Journey to the Great City                                                | 大都市への道のり
@@ -1287,14 +1287,14 @@ q40300067_00: Holding Materials                                                 
 q40300068_00:                                                                          | 老賢者の心配の種
 q40300069_00: Rumors of the Gravely Wounded Person                                     | あの大ケガ人の噂
 q40300070_00: Area Order: Fortress City Megado Demon Extermination                     | ＜エリアオーダー＞城塞都市メガド魔物征伐
-q40300071_00:                                                                          | 明日を生きる小さな手
+q40300071_00: A Small Hand Living Tomorrow                                             | 明日を生きる小さな手
 q40300072_00: Request from a Friend                                                    | 友人からの頼まれごと
 q40300073_00:                                                                          | 可憐な強射手
 q40300074_00: New Megado's Menu of Specialties                                         | 新・メガドの名物メニュー
-q40300075_00:                                                                          | お洒落は挑戦
-q40300076_00:                                                                          | 外れの空き家と小さな善意
+q40300075_00: Strive to Be Stylish                                                     | お洒落は挑戦
+q40300076_00: Abandoned House on the Outskirts and Good Intentions                     | 外れの空き家と小さな善意
 q40300077_00: Do I Need a Reason to Ask For Help?                                      | 依頼に理由が必要か？
-q40300078_00:                                                                          | 鍛冶屋の思いつき
+q40300078_00: The Blacksmith's Fancy                                                   | 鍛冶屋の思いつき
 q40300079_00: A Wagon Accident                                                         | 荷馬車の事故
 q40300080_00: Area Order: Fortress City Megado Resupply                                | ＜エリアオーダー＞城塞都市メガド補給
 q40300090_00: Special Mission                                                          | スペシャル任務
@@ -1309,9 +1309,9 @@ q40300098_00:                                                                   
 q40300099_00:                                                                          | 無限課金討伐10
 q40300100_00: Secretly Sharing Information                                             | 密な情報共有
 q40300101_00: Did Someone Make a Blunder?                                              | 誰かヘマしたのか？
-q40300102_00:                                                                          | 疲労困憊の盗伐依頼
+q40300102_00: An Exhausted Request to Steal Trees                                      | 疲労困憊の盗伐依頼
 q40300103_00: Safety at the Temporary Hideout                                          | 仮初のアジト、その安全
-q40300104_00:                                                                          | 巣ごと潰したいよな
+q40300104_00: I'd Like to Quash the Whole Nest                                         | 巣ごと潰したいよな
 q40300105_00: The Bandits' Game                                                        | 盗賊たちのゲーム
 q40300106_00: The Young Woman's Efforts                                                | 若き紅一点の努力
 q40300107_00: The Familiar Hunter's Misfortune                                         | 馴染みの狩人の不幸
@@ -1330,14 +1330,14 @@ q40300119_00: Area Order: Northern Bandit Hideout Resupply                      
 q40300120_00: Bearing a Heavy Burden a Long Way                                        | 遠路、重い荷を背負って
 q40300121_00: Exercise Doubling as Subjugation                                         | 運動がてらの軽い討伐
 q40300122_00: Demons Around the Campground                                             | 野営地の周辺の魔物
-q40300123_00:                                                                          | 並の戦力では敵わない
+q40300123_00: Ordinary Power Is No Match for Them                                       | 並の戦力では敵わない
 q40300124_00: An Easy-Going Bearing                                                    | 軽やかな身のこなし
-q40300125_00:                                                                          | 諦観に撤退する狩人
+q40300125_00: The Hunter Who Retreats in Resignation                                   | 諦観に撤退する狩人
 q40300126_00: The Poet Who Holds His Tongue                                            | 口を噤む詩人
 q40300127_00: Urgent! Nest-Building Interference                                       | 急務！　巣作りの妨害
 q40300128_00: Following the Nearby Demons' Movements                                   | 周辺魔物の動向確認
 q40300129_00: Area Order: Firefall Mountain Campsite Demon Extermination               | ＜エリアオーダー＞火垂れ山野営地魔物征伐
-q40300130_00:                                                                          | 消えた目当ての休息所
+q40300130_00: Our Resting Place Has Disappeared                                        | 消えた目当ての休息所
 q40300131_00: Transport Costs from the Hideout                                         | アジトからの運搬コスト
 q40300132_00: Nothing Better Than Having a Spare                                       | 予備はあるに越したことがない
 q40300133_00: Heard from a Foreign Land                                                | 異国から聞きつけて
