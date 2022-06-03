@@ -1893,3 +1893,4 @@ q90040005_00: Battle with the Beast Commander: Dacreim Fortress                 
 q90040006_00: Battle with the Undead Commander: Jifule Fortress                        | 骸の将との戦い：ジフール砦
 q90040007_00: Battle with the War Commander: Lookout Castle                            | 戦の将との戦い：展望城
 q90040008_00: Battle with the Dark Commander: The Forest of Mist                       | 闇の将との戦い：霧の森
+ 
