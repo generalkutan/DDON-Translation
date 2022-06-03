@@ -1277,19 +1277,19 @@ q40300057_00: Note from a Traveling Stranger                                    
 q40300058_00: Letter Left by the Departing Soldier                                     | 出発した兵士の置き手紙
 q40300059_00: Days Spent in Hiding                                                     | 隠れ潜む日々で
 q40300060_00: Area Order: Eli Guard Tower Resupply                                     | ＜エリアオーダー＞エリ警備塔補給
-q40300061_00:                                                                          | 小物なりの挑発？
+q40300061_00: A Small-Time Provocation?                                                | 小物なりの挑発？
 q40300062_00: A Fresh Harvest Someday                                                  | いつの日か採れたてを
 q40300063_00: The Kind Sister's Gaze                                                   | 心優しき姉の目線
 q40300064_00: Dealing With the Wounded                                                 | 手負いの後始末
 q40300065_00: Journey to the Great City                                                | 大都市への道のり
-q40300066_00:                                                                          | 勇む若者からの挑戦状
+q40300066_00: Challenge from a Lively Youth                                            | 勇む若者からの挑戦状
 q40300067_00: Holding Materials                                                        | 素材を抱えて
-q40300068_00:                                                                          | 老賢者の心配の種
+q40300068_00: The Wise Elder's Seed of Worry                                           | 老賢者の心配の種
 q40300069_00: Rumors of the Gravely Wounded Person                                     | あの大ケガ人の噂
 q40300070_00: Area Order: Fortress City Megado Demon Extermination                     | ＜エリアオーダー＞城塞都市メガド魔物征伐
 q40300071_00: A Small Hand Living Tomorrow                                             | 明日を生きる小さな手
 q40300072_00: Request from a Friend                                                    | 友人からの頼まれごと
-q40300073_00:                                                                          | 可憐な強射手
+q40300073_00: A Sweet and Strong Bowman                                                | 可憐な強射手
 q40300074_00: New Megado's Menu of Specialties                                         | 新・メガドの名物メニュー
 q40300075_00: Strive to Be Stylish                                                     | お洒落は挑戦
 q40300076_00: Abandoned House on the Outskirts and Good Intentions                     | 外れの空き家と小さな善意
