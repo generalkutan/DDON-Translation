@@ -16,7 +16,7 @@ old = '''
 覚者さま、どうぞ私にも同伴の許可を
 リムストーンからのお声掛けを
 お待ちしています'''
-new = ''
+new = 'You need only call me from a Riftstone and I will gladly accompany you, Arisen.'
 [[message]]
 old = '冒険の手助けなら、いつでもいたします'
 new = 'I am ready whenever you should need assistance.'
@@ -33,13 +33,13 @@ old = '''
 new = ''
 [[message]]
 old = '只今作業中ですので、お待ちください'
-new = ''
+new = 'I am crafting now. Please wait a while.'
 [[message]]
 old = '完成まで、いましばらくかかります'
-new = ''
+new = 'It will take some time before it is complete.'
 [[message]]
 old = '集中力を要しますので、会話はまた後ほど'
-new = ''
+new = 'I am concentrating now. I will speak with you later.'
 [[message]]
 old = '''
 救っていただき、ありがとうございます
@@ -54,4 +54,4 @@ new = ''
 old = '''
 次こそご期待を――
 この経験を生かします'''
-new = ''
+new = 'I have learned from this experience. Next time I will not fail you.'
