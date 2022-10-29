@@ -2,7 +2,7 @@
 old = '''
 ああ、覚者さま――
 どうか今一度私を――'''
-new = ''
+new = 'If you would allow me another chance, Arisen...'
 [[message]]
 old = '我らはいつも、覚者さまとともに'
 new = 'We will be always by your side, Arisen.'
@@ -22,7 +22,7 @@ old = '冒険の手助けなら、いつでもいたします'
 new = 'I am ready whenever you should need assistance.'
 [[message]]
 old = 'まだ、作業を承っておりません'
-new = ''
+new = 'I have not yet accepted a crafting request.'
 [[message]]
 old = 'ご指示をお待ちしています'
 new = 'I await your orders.'
@@ -30,7 +30,7 @@ new = 'I await your orders.'
 old = '''
 旅かクラフトのご用命あらば
 いつでも動きます'''
-new = ''
+new = 'I am ready for crafting or an expedition whenever you wish.'
 [[message]]
 old = '只今作業中ですので、お待ちください'
 new = 'I am crafting now. Please wait a while.'
@@ -44,12 +44,12 @@ new = 'I am concentrating now. I will speak with you later.'
 old = '''
 救っていただき、ありがとうございます
 次こそは必ずお役に――！'''
-new = ''
+new = 'Thank you for saving me. It will not happen again.'
 [[message]]
 old = '''
 申し訳ありません、覚者さま
 精進いたします'''
-new = ''
+new = 'I apologize, Arisen. I will devote myself to this task.'
 [[message]]
 old = '''
 次こそご期待を――
